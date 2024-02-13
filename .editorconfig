@@ -1,0 +1,38 @@
+﻿
+# --- local/hybrids                                              [.editorconfig]
+# [2024-02-13][13:20:00] 001 Kartonagnick PRE
+#   based on the story (retrospect):
+#   --- Bolid/Idrisov/Banana.props                               [.editorconfig]
+#   [2026-06-14][14:50:00] 001 Idrisov
+#-------------------------------------------------------------------------------
+
+root = true
+
+# 1. Базовые настройки всех файлов проекта
+[*]
+end_of_line              = lf
+charset                  = utf-8
+indent_style             = space
+indent_size              = 4
+insert_final_newline     = true
+trim_trailing_whitespace = true
+
+# 2. Групповые настройки по типу операционной системы
+[*.{hpp,cpp,cs,razor}]
+charset = utf-8-bom
+end_of_line = lf
+
+[*.{bat,vbs,wsf,sln,ps1}]
+end_of_line = crlf
+
+[*.{wsf,ps1}]
+charset = utf-8-bom
+
+# 3. Точечные настройки для конкретных расширений
+[*.bat]
+charset = cp1251
+trim_trailing_whitespace = false
+
+[*.vbs]
+charset = cp1251
+
