@@ -1,0 +1,63 @@
+
+# --- local/hybrids                                             [.gitattributes]
+# [2024-02-13][13:20:00] 001 Kartonagnick PRE
+#   based on the story (retrospect):
+#   --- Bolid/Idrisov/sandbox                                   [.gitattributes]
+#   [2026-06-14][14:50:00] 001 Idrisov    
+#     --- Bolid/Idrisov/prompt                                  [.gitattributes]
+#     [2026-04-22][19:30:00] 001 Idrisov
+#-------------------------------------------------------------------------------
+
+# По умолчанию Git сам определяет текстовые файлы
+* text=auto
+
+# Бинарные файлы (картинки, библиотеки) не трогаем
+*.png              binary
+*.jpg              binary
+
+# Для ос-специфичных скриптов важны родные настройки
+*.bat              text eol=crlf
+*.ps1              text eol=crlf
+*.vbs              text eol=crlf
+*.wsf              text eol=crlf
+*.bash             text eol=lf
+*.sh               text eol=lf
+
+# Для кросс-платформы GIT золотой стандарт: LF
+.gitattributes     text eol=lf
+.gitignore         text eol=lf
+.editorconfig      text eol=lf
+
+# Для кросс-платформы лучше золотой стандарт: LF
+project.root       text eol=lf
+CMakeLists.txt     text eol=lf
+*.yml              text eol=lf
+*.cmake            text eol=lf
+*.py               text eol=lf
+
+# Для исходников - золотой стандарт: LF
+*.cpp              text eol=lf
+*.cxx              text eol=lf
+*.c                text eol=lf
+*.hpp              text eol=lf
+*.hxx              text eol=lf
+*.h                text eol=lf
+*.ver              text eol=lf
+*.rc               text eol=lf
+
+# Для документации - золотой стандарт: LF
+LICENSE            text eol=lf
+*.graphml          text eol=lf
+*.md               text eol=lf
+
+# Для .sln можно оставить CRLF даже в репозитории
+*.sln              text eol=crlf
+
+# Для студийных скриптов, которые могут участвовать в remote build
+# лучше выбрать LF, во избежание проблем с Linux
+*.vcxproj          text eol=lf
+*.props            text eol=lf
+*.targets          text eol=lf
+
+*.vcxproj.filters  text eol=crlf
+*.vcxproj.user     text eol=crlf
