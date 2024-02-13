@@ -54,7 +54,6 @@
    - add: `history.md`   (001) PRE  
    - add: `chrono.md`    (001) PRE  
    - add: `docs.md`      (001) PRE  
-   - add: `home.md`  
    - add: `icons` ...    (002)  
 
 2. add: `docs/other`  
