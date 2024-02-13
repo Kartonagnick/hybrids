@@ -1,6 +1,6 @@
 
 # --- local/hybrids                                             [.gitlab-ci.yml]
-# [2024-02-13][13:20:00] 001 Kartonagnick PRE
+# [2024-02-13][13:20:00] 001 Kartonagnick    
 
 variables:
   GIT_STRATEGY:           clone

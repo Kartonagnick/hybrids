@@ -36,7 +36,7 @@
 
 --------------------------------------------------------------------------------
 
-[![P]][H] **v0.0.1 (rep)**
+[![S]][H] **v0.0.1 (rep)**
 --------------------------------------------------------------------------------
 [![V]][VE001] [![2024-02-13 13:20]][VE001]  
 
@@ -49,17 +49,17 @@
 | 2024-02-13 | 11:20 | [#1-rep-first] | BEGIN  |  
 
 1. add: `docs`  
-   - add: `logo.png`     (001) PRE  
-   - add: `changelog.md` (001) PRE  
-   - add: `history.md`   (001) PRE  
-   - add: `chrono.md`    (001) PRE  
-   - add: `docs.md`      (001) PRE  
+   - add: `logo.png`      001  
+   - add: `changelog.md`  001  
+   - add: `history.md`    001  
+   - add: `chrono.md`     001  
+   - add: `docs.md`       001  
    - add: `icons` ...    (002)  
 
 2. add: `docs/other`  
    - add: `calendar.md`  
    
-3. add: `project.root`   (001) PRE  
+3. add: `project.root`    001  
 4. add: `.gitlab-ci.yml` (001)  
 5. add: `.gitignore`     (001)  
 6. fix: `README.md`  
