@@ -1,0 +1,37 @@
+
+# --- local/hybrids                                                 [.gitconfig]
+# [2024-02-13][13:20:00] 001 Kartonagnick PRE
+#   based on the story (retrospect):
+#   --- local/hybrids                                               [.gitconfig]
+#   [2026-08-08][15:26:24] 001 Kartonagnick PRE
+#-------------------------------------------------------------------------------
+
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+
+    # не преобразовывать EOL
+	autocrlf = false
+
+    # предпочитать нативный EOL (актуально для .gitattributes)
+	eol = native
+
+    # символ, с которого начинается комментарий в тексте коммита
+	commentChar = "#"
+
+[commit]
+    # не добавлять в текст обычных коммитов служебную информацию
+	cleanup = strip
+[merge]
+    # не добавлять в текст мерж-коммитов служебную информацию
+	cleanup = strip
+[user]
+	email = Kartonagnick@gmail.com
+	name = Kartonagnick
+[taggrouping]
+	groups = 
+	singles = 
