@@ -1,0 +1,7 @@
+
+'--- local/hybrids                                                     [vbs.ver]
+'[2024-02-15][09:00:00] 001 Kartonagnick PRE
+
+dim gVBS_MAJOR: gVBS_MAJOR = 0
+dim gVBS_MINOR: gVBS_MINOR = 0
+dim gVBS_PATCH: gVBS_PATCH = 1
