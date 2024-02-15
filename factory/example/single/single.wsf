@@ -1,0 +1,13 @@
+
+<!--
+... local/hybrids                                   [example/single/example.wsf]
+[2024-02-15][09:00:00] 001 Kartonagnick PRE
+  ... Kartonagnick/hybrids                                 [example/example.wsf]
+  [2020-12-31][19:00:00] 001 Kartonagnick
+-->
+
+<job>
+  <script language='VBScript' src='sources/body1.vbs'/>
+  <script language='VBScript' src='sources/body2.vbs'/>
+  <script language='VBScript' src='sources/main.vbs' />
+</job>
