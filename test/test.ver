@@ -1,0 +1,7 @@
+
+'--- local/hybrids                                                    [test.ver]
+'[2024-02-15][09:00:00] 001 Kartonagnick PRE
+
+dim gTEST_MAJOR: gTEST_MAJOR = 0
+dim gTEST_MINOR: gTEST_MINOR = 0
+dim gTEST_PATCH: gTEST_PATCH = 1

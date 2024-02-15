@@ -173,3 +173,10 @@ cmdlog.txt
 log.txt
 *.log
 _*
+
+# vbs temporary files
+factory/example/single/single.vbs
+factory/example/depend/depend.vbs
+test.vbs
+log.txt
+
