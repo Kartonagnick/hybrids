@@ -4,14 +4,14 @@ rem ============================================================================
 rem ============================================================================
 
 rem --- local/hybrids                             [example/single/run-[wsf].bat]
-rem [2024-02-15][09:00:00] 001 Kartonagnick PRE
+rem [2024-02-15][09:00:00] 001 Kartonagnick    
 
 rem ============================================================================
 rem ============================================================================
 
 :main
   setlocal
-  echo [RUN-EXAMPLE.WSF] run... v0.0.1 PRE
+  echo [RUN-EXAMPLE.WSF] run... v0.0.1    
   cscript "/Nologo" "%~dp0single.wsf" || goto :failed
 :success
   echo [RUN-EXAMPLE.WSF] completed successfully
