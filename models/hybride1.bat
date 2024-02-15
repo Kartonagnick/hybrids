@@ -1,7 +1,7 @@
 
 ': 2>nul & cls & CScript.exe /nologo /e:vbs "%~f0" %* & exit /b
 ' --- local/hybrids                                               [hybride1.bat]
-' [2024-02-15][09:00:00] 001 Kartonagnick PRE
+' [2024-02-15][09:00:00] 001 Kartonagnick    
 '   --- Kartonagnick/hybrids                                      [hybride1.bat]
 '   [2020-12-27][19:00:00] 001 Kartonagnick
 

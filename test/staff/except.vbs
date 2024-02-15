@@ -1,6 +1,6 @@
 
 '--- local/hybrids                                       [test/staff/except.vbs]
-'[2024-02-15][19:00:00] 001 Kartonagnick PRE
+'[2024-02-15][19:00:00] 001 Kartonagnick    
 ' includeVBS("errCode.vbs")
 
 dim gERR_NUMBER

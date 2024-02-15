@@ -61,7 +61,7 @@
 
 --------------------------------------------------------------------------------
 
-[![P]][H] **v0.0.2 (dev)**
+[![S]][H] **v0.0.2 (dev)**
 --------------------------------------------------------------------------------
 [![V]][VE002] [![2024-02-15 09:00]][VE002]  
 
@@ -74,66 +74,66 @@
 | 2024-02-13 | 13:30 | [#2-dev-frame] | BEGIN  |  
 
 1. upd: `docs`  
-   - upd: `logo.png`       (002) PRE  
-   - upd: `changelog.md`   (002) PRE  
-   - upd: `chrono.md`      (002) PRE  
-   - upd: `history.md`     (002) PRE  
-   - upd: `docs.md`        (002) PRE  
+   - upd: `logo.png`        002  
+   - upd: `changelog.md`    002  
+   - upd: `chrono.md`       002  
+   - upd: `history.md`      002  
+   - upd: `docs.md`         002  
 2. add: `docs/docs`  
-   - add: `factory.md`     (001) PRE  
+   - add: `factory.md`      001  
 3. add: `vbs`  
-   - add: `vbs.ver`        (001) PRE  
+   - add: `vbs.ver`         001  
 4. add: `models`  
-   - add: `hybride4.bat`   (001) PRE  
-   - add: `hybride3.bat`   (001) PRE  
-   - add: `hybride2.bat`   (001) PRE  
-   - add: `hybride1.bat`   (001) PRE  
+   - add: `hybride4.bat`    001  
+   - add: `hybride3.bat`    001  
+   - add: `hybride2.bat`    001  
+   - add: `hybride1.bat`    001  
 5. add: `factory`  
-   - add: `factory.bat`    (003) PRE  
+   - add: `factory.bat`     003  
 6. add: `factory/example/single`  
-   - add: `make.bat`       (001) PRE  
-   - add: `run-[wsf].bat`  (001) PRE  
-   - add: `run-[vbs].bat`  (001) PRE  
-   - add: `single.wsf`     (001) PRE  
+   - add: `make.bat`        001  
+   - add: `run-[wsf].bat`   001  
+   - add: `run-[vbs].bat`   001  
+   - add: `single.wsf`      001  
 7. add: `factory/example/single/sources`  
-   - add: `main.vbs`       (001) PRE  
-   - add: `body2.vbs`      (001) PRE  
-   - add: `body1.vbs`      (001) PRE  
+   - add: `main.vbs`        001  
+   - add: `body2.vbs`       001  
+   - add: `body1.vbs`       001  
 8. add: `factory/example/depend`  
-   - add: `make.bat`       (001) PRE  
-   - add: `run-[wsf].bat`  (001) PRE  
-   - add: `run-[vbs].bat`  (001) PRE  
-   - add: `depend.wsf`     (001) PRE  
+   - add: `make.bat`        001  
+   - add: `run-[wsf].bat`   001  
+   - add: `run-[vbs].bat`   001  
+   - add: `depend.wsf`      001  
 9. add: `factory/example/depend/sources`  
-   - add: `body1.vbs`      (001) PRE  
-   - add: `body2.vbs`      (001) PRE  
-   - add: `main.vbs`       (001) PRE  
+   - add: `body1.vbs`       001  
+   - add: `body2.vbs`       001  
+   - add: `main.vbs`        001  
 10. add: `factory/example/depend/sources/additional`  
-   - add: `zzzz.vbs`       (001) PRE  
-   - add: `xxxx.vbs`       (001) PRE  
+   - add: `zzzz.vbs`        001  
+   - add: `xxxx.vbs`        001  
 11. add: `test`  
-   - add: `test.ver`       (001) PRE  
-   - add: `clean.bat`      (001) PRE  
-   - add: `test.bat`       (001) PRE  
+   - add: `test.ver`        001  
+   - add: `clean.bat`       001  
+   - add: `test.bat`        001  
    - add: `test-d.bat`  
-   - add: `init.vbs`       (001) PRE  
+   - add: `init.vbs`        001  
 12. add: `test/staff`  
-   - add: `sepparator.vbs` (001) PRE  
-   - add: `compare.vbs`    (001) PRE  
-   - add: `except.vbs`     (001) PRE  
+   - add: `sepparator.vbs`  001  
+   - add: `compare.vbs`     001  
+   - add: `except.vbs`      001  
 13. add: `factory/example/multiple`  
-   - add: `make.bat`       (001) PRE  
-   - add: `test-[wsf].bat` (001) PRE  
-   - add: `test-[vbs].bat` (001) PRE  
+   - add: `make.bat`        001  
+   - add: `test-[wsf].bat`  001  
+   - add: `test-[vbs].bat`  001  
 14. add: `factory/example/multiple/sources`  
-   - add: `main.vbs`       (001) PRE  
-   - add: `assert-2.vbs`   (001) PRE  
-   - add: `assert-1.vbs`   (001) PRE  
-   - add: `struct.txt`     (001) PRE  
+   - add: `main.vbs`        001  
+   - add: `assert-2.vbs`    001  
+   - add: `assert-1.vbs`    001  
+   - add: `struct.txt`      001  
 15. add: `factory/example/multiple/sources/staff`  
-   - add: `foo.vbs`        (001) PRE  
-16. upd: `.gitignore`      (002) PRE  
-17. upd: `project.root`    (002) PRE  
+   - add: `foo.vbs`         001  
+16. upd: `.gitignore`       002  
+17. upd: `project.root`     002  
 
 [#2-dev-frame]: tasks/2024-02-13-0002-dev-frame.md
 <div/>
