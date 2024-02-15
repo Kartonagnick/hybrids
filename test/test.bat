@@ -1,7 +1,7 @@
 @echo off & call :checkParent || exit /b
 
 rem --- local/hybrids                                                 [test.bat]
-rem [2024-02-15][09:00:00] 001 Kartonagnick PRE
+rem [2024-02-15][09:00:00] 001 Kartonagnick    
 rem   --- local/template                                              [main.bat]
 rem   [2024-01m-06][20:19:59] 001 Kartonagnick
 

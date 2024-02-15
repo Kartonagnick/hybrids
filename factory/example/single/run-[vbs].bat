@@ -4,14 +4,14 @@ rem ============================================================================
 rem ============================================================================
 
 rem --- local/hybrids                             [example/single/run-[vbs].bat]
-rem [2024-02-15][09:00:00] 001 Kartonagnick PRE
+rem [2024-02-15][09:00:00] 001 Kartonagnick    
 
 rem ============================================================================
 rem ============================================================================
 
 :main
   setlocal
-  echo [RUN-EXAMPLE.VBS] run... v0.0.1 PRE
+  echo [RUN-EXAMPLE.VBS] run... v0.0.1    
   cscript "/Nologo" "%~dp0single.vbs" || goto :failed
 :success
   echo [RUN-EXAMPLE.VBS] completed successfully
