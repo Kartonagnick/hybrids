@@ -1,6 +1,6 @@
 
 ::' --- local/hybrids                                             [hybride3.bat]
-::' [2024-02-15][09:00:00] 001 Kartonagnick PRE
+::' [2024-02-15][09:00:00] 001 Kartonagnick    
 ::'   --- Kartonagnick/hybrids                                    [hybride3.bat]
 ::'   [2020-12-27][19:00:00] 001 Kartonagnick
 ::'     VBS/Batch Hybrid

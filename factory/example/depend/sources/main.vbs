@@ -1,6 +1,6 @@
 
 '--- local/hybrids                                    [example/depend][main.vbs]
-'[2024-02-15][09:00:00] 001 Kartonagnick PRE
+'[2024-02-15][09:00:00] 001 Kartonagnick    
 
 WScript.Echo "main.vbs"
 function main()

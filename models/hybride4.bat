@@ -5,7 +5,7 @@
 ::'exit /b
 
 ' --- local/hybrids                                               [hybride4.bat]
-' [2024-02-15][09:00:00] 001 Kartonagnick PRE
+' [2024-02-15][09:00:00] 001 Kartonagnick    
 '
 '   <--- local/stash
 '   [2023-03-07][13:10:00] 004 Kartonagnick                [basic/actualize.bat]
