@@ -1,6 +1,6 @@
 
 '--- local/hybrids                                    [example/single][main.vbs]
-'[2024-02-15][09:00:00] 001 Kartonagnick PRE
+'[2024-02-15][09:00:00] 001 Kartonagnick    
 '  --- Kartonagnick/hybrids                                  [example][main.vbs]
 '  [2020-12-31][19:00:00] 001 Kartonagnick
 
