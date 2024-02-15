@@ -1,0 +1,63 @@
+
+<!--
+... local/hybrids                                    [example/depend/depend.wsf]
+[2024-02-15][09:00:00] 001 Kartonagnick PRE
+-->
+
+<job>
+  <script language='VBScript'>
+    dim g_fso     : set g_fso     = CreateObject("Scripting.FileSystemObject")
+    dim g_shell   : set g_shell   = CreateObject("WScript.Shell")
+    dim g_env     : set g_env     = g_shell.Environment("PROCESS")
+    dim gINCLUDES : set gINCLUDES = CreateObject("System.Collections.ArrayList")
+    dim gINCLUDED : set gINCLUDED = CreateObject("Scripting.Dictionary")
+  </script>
+
+  <script language='VBScript'>
+    sub addInclude(path)
+      dim p: p = g_fso.GetAbsolutePathName(path)
+      gINCLUDES.add p
+      'WScript.Echo "add: '" & p & "'"
+    end sub
+ 
+    sub addIncluded(path)
+      gINCLUDED.add g_fso.GetAbsolutePathName(path), 1
+    end sub
+  </script>
+
+  <script language='VBScript'>
+    sub includeVBS(path)
+      dim p: p = path
+      if not g_fso.FileExists(path) then
+        for each d in gINCLUDES
+          p = g_fso.BuildPath(d, path)
+          p = g_fso.GetAbsolutePathName(p)
+          if g_fso.FileExists(p) then
+           'WScript.Echo "found: '" & p & "'"
+            if gINCLUDED.Exists(p) then
+             'WScript.Echo "skip: '" & p & "'"
+            else
+              gINCLUDED.add p, 1
+             'WScript.Echo "include: '" & p & "'"
+              addInclude(g_fso.GetParentFolderName(p))
+              executeGlobal(g_fso.openTextFile(p).readAll())
+            end if
+            exit sub
+          end if
+        next
+        WScript.Echo "missing: '" & path & "'"
+      end if
+    end sub
+  </script>
+
+  <script language='VBScript'>
+    addInclude "sources"
+    addIncluded "sources/body1.vbs"
+    addIncluded "sources/body2.vbs"
+    addIncluded "sources/main.vbs"
+  </script>
+
+  <script language='VBScript' src='sources/body1.vbs'/>
+  <script language='VBScript' src='sources/body2.vbs'/>
+  <script language='VBScript' src='sources/main.vbs' />
+</job>
