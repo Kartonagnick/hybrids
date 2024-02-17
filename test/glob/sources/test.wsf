@@ -1,0 +1,12 @@
+
+<!-- 
+... local/hybrids                                          [test/glob][test.wsf]
+[2024-02-17][20:30:00] 001 Kartonagnick PRE
+-->
+
+<job>
+  <script language='VBScript' src='../../test.ver'/>
+  <script language='VBScript' src='../../init.vbs'/>
+  <script language='VBScript' src='../../../vbs/glob.vbs'/>
+  <script language='VBScript' src='main.vbs'/>
+</job>
