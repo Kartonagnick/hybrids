@@ -1,6 +1,6 @@
 
 '--- local/hybrids                                         [test/echo][main.vbs]
-'[2024-02-18][02:05:00] 001 Kartonagnick PRE
+'[2024-02-18][02:05:00] 001 Kartonagnick    
  
 function main()
   echo 0, "xxx"
