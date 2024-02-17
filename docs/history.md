@@ -61,6 +61,44 @@
 
 --------------------------------------------------------------------------------
 
+[![P]][H] **v0.0.3 (dev)**
+--------------------------------------------------------------------------------
+[![V]][VE003] [![2024-02-17 20:30]][VE003]  
+
+[2024-02-16 06:20]: https://img.shields.io/static/v1?label=2024-02-17&message=20:30&color=yellowgreen
+[VE003]: changelog.md#-v003-dev
+
+|    дата    | время |     ветка     | статус |  
+|:----------:|:-----:|:-------------:|:------:|  
+| 2024-02-17 | 20:20 | [#3-dev-glob] | DONE   |  
+| 2024-02-17 | 02:00 | [#3-dev-glob] | BEGIN  |  
+
+1. upd: `docs`  
+   - upd: `logo.png`       (003) PRE  
+   - upd: `changelog.md`   (003) PRE  
+   - upd: `history.md`     (003) PRE  
+   - upd: `chrono.md`      (003) PRE  
+   - upd: `docs.md`        (003) PRE  
+2. add: `docs/docs`  
+   - add: `glob.md`        (001) PRE  
+3. upd: `vbs`  
+   - upd: `vbs.ver`        (002) PRE  
+   - add: `glob.vbs`       (001) PRE  
+4. upd: `test`  
+   - upd: `test.ver`       (002) PRE  
+5. add: `test/glob`  
+   - add: `make.bat`       (001) PRE  
+   - add: `test-[wsf].bat` (001) PRE  
+   - add: `test-[vbs].bat` (001) PRE  
+6. add: `test/glob/sources`  
+   - add: `test.wsf`       (001) PRE  
+   - add: `main.vbs`       (003) PRE  
+7. upd: `project.root`     (003) PRE  
+
+[#3-dev-glob]: tasks/2024-02-17-0003-dev-glob.md
+<div/>
+
+
 [![S]][H] **v0.0.2 (dev)**
 --------------------------------------------------------------------------------
 [![V]][VE002] [![2024-02-15 09:00]][VE002]  
