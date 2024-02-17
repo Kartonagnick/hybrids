@@ -61,7 +61,7 @@
 
 --------------------------------------------------------------------------------
 
-[![P]][H] **v0.0.3 (dev)**
+[![S]][H] **v0.0.3 (dev)**
 --------------------------------------------------------------------------------
 [![V]][VE003] [![2024-02-17 20:30]][VE003]  
 
@@ -74,26 +74,26 @@
 | 2024-02-17 | 02:00 | [#3-dev-glob] | BEGIN  |  
 
 1. upd: `docs`  
-   - upd: `logo.png`       (003) PRE  
-   - upd: `changelog.md`   (003) PRE  
-   - upd: `history.md`     (003) PRE  
-   - upd: `chrono.md`      (003) PRE  
-   - upd: `docs.md`        (003) PRE  
+   - upd: `logo.png`        003  
+   - upd: `changelog.md`    003  
+   - upd: `history.md`      003  
+   - upd: `chrono.md`       003  
+   - upd: `docs.md`         003  
 2. add: `docs/docs`  
-   - add: `glob.md`        (001) PRE  
+   - add: `glob.md`         001  
 3. upd: `vbs`  
-   - upd: `vbs.ver`        (002) PRE  
-   - add: `glob.vbs`       (001) PRE  
+   - upd: `vbs.ver`         002  
+   - add: `glob.vbs`        001  
 4. upd: `test`  
-   - upd: `test.ver`       (002) PRE  
+   - upd: `test.ver`        002  
 5. add: `test/glob`  
-   - add: `make.bat`       (001) PRE  
-   - add: `test-[wsf].bat` (001) PRE  
-   - add: `test-[vbs].bat` (001) PRE  
+   - add: `make.bat`        001  
+   - add: `test-[wsf].bat`  001  
+   - add: `test-[vbs].bat`  001  
 6. add: `test/glob/sources`  
-   - add: `test.wsf`       (001) PRE  
-   - add: `main.vbs`       (003) PRE  
-7. upd: `project.root`     (003) PRE  
+   - add: `test.wsf`        001  
+   - add: `main.vbs`        003  
+7. upd: `project.root`      003  
 
 [#3-dev-glob]: tasks/2024-02-17-0003-dev-glob.md
 <div/>
