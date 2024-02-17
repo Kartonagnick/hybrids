@@ -1,7 +1,7 @@
 @echo off & call :checkParent || exit /b
 
 rem --- local/hybrids                                [test][glob/test-[vbs].bat]
-rem [2024-02-17][20:30:00] 001 Kartonagnick PRE
+rem [2024-02-17][20:30:00] 001 Kartonagnick    
 
 rem ============================================================================
 rem ============================================================================
@@ -12,7 +12,7 @@ rem ============================================================================
 ::set "eDEBUG=ON"
   set "title=glob"
   call :setDepth
-  call :show [%title%] run... 0.0.1 PRE
+  call :show [%title%] run... 0.0.1    
   cscript "/Nologo" "%~dp0sources\test.vbs" || goto :failed
 :success
   call :show [%title%] completed successfully

@@ -21,7 +21,7 @@ rem ============================================================================
 ::set "eHYBRID.VERSION=001"  
 ::set "eHYBRID.USER=Kartonagnick" 
 ::set "eHYBRID.STAMP=[2024-02-15][09:00:00]"
-::set "eHYBRID.PRE=   "      
+::set "eHYBRID.   =   "      
 ::set "eHYBRID.PROJECT=local/hybrids"
 
   set "eHYBRID.FILE=[single.vbs]"

@@ -1,7 +1,7 @@
 @echo off & call :checkParent || exit /b
 
 rem --- local/hybrids                                      [test][glob/make.bat]
-rem [2024-02-17][20:30:00] 001 Kartonagnick PRE
+rem [2024-02-17][20:30:00] 001 Kartonagnick    
 
 rem ============================================================================
 rem ============================================================================
@@ -12,7 +12,7 @@ rem ============================================================================
 ::set "eDEBUG=ON"
   set "title=glob"
   call :setDepth
-  call :show [%title%] run... 0.0.1 PRE
+  call :show [%title%] run... 0.0.1    
 
   call :normalizeD factory "%~dp0..\..\factory\factory.bat"
 
