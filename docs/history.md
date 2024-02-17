@@ -62,7 +62,7 @@
 --------------------------------------------------------------------------------
 
 
-[![P]][H] **v0.0.4 (dev)**
+[![S]][H] **v0.0.4 (dev)**
 --------------------------------------------------------------------------------
 [![V]][VE004] [![2024-02-18 02:05]][VE004]  
 
@@ -75,26 +75,26 @@
 | 2024-02-18 | 00:25 | [#4-dev-echo] | BEGIN  |  
 
 1. upd: `docs`  
-   - upd: `logo.png`       (004) PRE  
-   - upd: `history.md`     (004) PRE  
-   - upd: `docs.md`        (004) PRE  
-   - upd: `chrono.md`      (004) PRE  
-   - upd: `changelog.md`   (004) PRE  
+   - upd: `logo.png`        004  
+   - upd: `history.md`      004  
+   - upd: `docs.md`         004  
+   - upd: `chrono.md`       004  
+   - upd: `changelog.md`    004  
 2. add: `docs/docs`  
-   - add: `echo.md`        (002) PRE  
+   - add: `echo.md`         002  
 3. upd: `vbs`  
-   - upd: `vbs.ver`        (003) PRE  
-   - add: `echo.vbs`       (002) PRE  
+   - upd: `vbs.ver`         003  
+   - add: `echo.vbs`        002  
 4. upd: `test`  
-   - upd: `test.ver`       (003) PRE  
+   - upd: `test.ver`        003  
 5. add: `test/echo`  
-   - add: `make.bat`       (001) PRE  
-   - add: `test-[wsf].bat` (001) PRE  
-   - add: `test-[vbs].bat` (001) PRE  
+   - add: `make.bat`        001  
+   - add: `test-[wsf].bat`  001  
+   - add: `test-[vbs].bat`  001  
 6. add: `test/echo/sources`  
-   - add: `test.wsf`       (001) PRE  
-   - add: `main.vbs`       (001) PRE  
-7. upd: `project.root`     (004) PRE  
+   - add: `test.wsf`        001  
+   - add: `main.vbs`        001  
+7. upd: `project.root`      004  
 
 [#4-dev-echo]: tasks/2024-02-18-0004-dev-echo.md
 <div/>
