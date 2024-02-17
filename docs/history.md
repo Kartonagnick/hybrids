@@ -61,11 +61,50 @@
 
 --------------------------------------------------------------------------------
 
+
+[![P]][H] **v0.0.4 (dev)**
+--------------------------------------------------------------------------------
+[![V]][VE004] [![2024-02-18 02:05]][VE004]  
+
+[2024-02-18 06:20]: https://img.shields.io/static/v1?label=2024-02-18&message=02:05&color=yellowgreen
+[VE004]: changelog.md#-v004-dev
+
+|    дата    | время |     ветка     | статус |  
+|:----------:|:-----:|:-------------:|:------:|  
+| 2024-02-18 | 01:55 | [#4-dev-echo] | DONE   |  
+| 2024-02-18 | 00:25 | [#4-dev-echo] | BEGIN  |  
+
+1. upd: `docs`  
+   - upd: `logo.png`       (004) PRE  
+   - upd: `history.md`     (004) PRE  
+   - upd: `docs.md`        (004) PRE  
+   - upd: `chrono.md`      (004) PRE  
+   - upd: `changelog.md`   (004) PRE  
+2. add: `docs/docs`  
+   - add: `echo.md`        (002) PRE  
+3. upd: `vbs`  
+   - upd: `vbs.ver`        (003) PRE  
+   - add: `echo.vbs`       (002) PRE  
+4. upd: `test`  
+   - upd: `test.ver`       (003) PRE  
+5. add: `test/echo`  
+   - add: `make.bat`       (001) PRE  
+   - add: `test-[wsf].bat` (001) PRE  
+   - add: `test-[vbs].bat` (001) PRE  
+6. add: `test/echo/sources`  
+   - add: `test.wsf`       (001) PRE  
+   - add: `main.vbs`       (001) PRE  
+7. upd: `project.root`     (004) PRE  
+
+[#4-dev-echo]: tasks/2024-02-18-0004-dev-echo.md
+<div/>
+
+
 [![S]][H] **v0.0.3 (dev)**
 --------------------------------------------------------------------------------
 [![V]][VE003] [![2024-02-17 20:30]][VE003]  
 
-[2024-02-16 06:20]: https://img.shields.io/static/v1?label=2024-02-17&message=20:30&color=yellowgreen
+[2024-02-17 06:20]: https://img.shields.io/static/v1?label=2024-02-17&message=20:30&color=yellowgreen
 [VE003]: changelog.md#-v003-dev
 
 |    дата    | время |     ветка     | статус |  
