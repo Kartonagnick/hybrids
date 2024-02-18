@@ -62,7 +62,7 @@
 --------------------------------------------------------------------------------
 
 
-[![P]][H] **v0.0.5 (dev)**
+[![S]][H] **v0.0.5 (dev)**
 --------------------------------------------------------------------------------
 [![V]][VE005] [![2024-02-18 03:25]][VE005]  
 
@@ -75,26 +75,26 @@
 | 2024-02-18 | 02:25 | [#5-dev-util] | BEGIN  |  
 
 1. upd: `docs`  
-   - upd: `logo.png`       (005) PRE  
-   - upd: `changelog.md`   (005) PRE  
-   - upd: `chrono.md`      (005) PRE  
-   - upd: `history.md`     (005) PRE  
-   - upd: `docs.md`        (005) PRE  
+   - upd: `logo.png`        005  
+   - upd: `changelog.md`    005  
+   - upd: `chrono.md`       005  
+   - upd: `history.md`      005  
+   - upd: `docs.md`         005  
 2. add: `docs/docs`  
-   - add: `twoDigits.md`   (001) PRE  
+   - add: `twoDigits.md`    001  
 3. upd: `vbs`  
-   - upd: `vbs.ver`        (004) PRE  
-   - add: `twoDigits.vbs`  (001) PRE  
+   - upd: `vbs.ver`         004  
+   - add: `twoDigits.vbs`   001  
 4. upd: `test`  
-   - upd: `test.ver`       (004) PRE  
+   - upd: `test.ver`        004  
 5. add: `test/twoDigits`  
-   - add: `test-[wsf].bat` (001) PRE  
-   - add: `test-[vbs].bat` (001) PRE  
-   - add: `make.bat`       (001) PRE  
+   - add: `test-[wsf].bat`  001  
+   - add: `test-[vbs].bat`  001  
+   - add: `make.bat`        001  
 6. add: `test/twoDigits/sources`  
-   - add: `test.wsf`       (001) PRE  
-   - add: `main.vbs`       (003) PRE  
-7. upd: `project.root`     (005) PRE  
+   - add: `test.wsf`        001  
+   - add: `main.vbs`        003  
+7. upd: `project.root`      005  
 
 [#5-dev-util]: tasks/2024-02-18-0005-dev-util.md
 <div/>
