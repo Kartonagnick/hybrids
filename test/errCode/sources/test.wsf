@@ -1,0 +1,14 @@
+
+<!-- 
+... local/hybrids                                       [test/errCode][test.wsf]
+[2024-02-19][15:00:00] 001 Kartonagnick PRE
+-->
+
+<job>
+  <script language='VBScript' src='../../test.ver'/>
+  <script language='VBScript' src='../../init.vbs'/>
+  <script language='VBScript' src='../../../vbs/glob.vbs'/>
+  <script language='VBScript' src='../../../vbs/echo.vbs'/>
+  <script language='VBScript' src='../../../vbs/errCode.vbs'/>
+  <script language='VBScript' src='main.vbs'/>
+</job>
