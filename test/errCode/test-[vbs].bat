@@ -1,7 +1,7 @@
 @echo off & call :checkParent || exit /b
 
 rem --- local/hybrids                             [test][errCode/test-[vbs].bat]
-rem [2024-02-18][03:25:00] 001 Kartonagnick PRE
+rem [2024-02-18][03:25:00] 001 Kartonagnick    
 
 rem ============================================================================
 rem ============================================================================
