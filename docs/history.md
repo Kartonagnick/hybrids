@@ -62,7 +62,7 @@
 --------------------------------------------------------------------------------
 
 
-[![P]][H] **v0.0.7 (dev)**
+[![S]][H] **v0.0.7 (dev)**
 --------------------------------------------------------------------------------
 [![V]][VE007] [![2024-02-19 90:00]][VE007]  
 
@@ -75,29 +75,29 @@
 | 2024-02-19 | 16:00 | [#7-dev-assert] | BEGIN  |  
 
 1. upd: `docs`  
-   - upd: `logo.png`         (007) PRE  
-   - upd: `changelog.md`     (007) PRE  
-   - upd: `history.md`       (007) PRE  
-   - upd: `chrono.md`        (007) PRE  
-   - upd: `docs.md`          (007) PRE  
-   - upd: `docs/assert.md`   (001) PRE  
+   - upd: `logo.png`          007  
+   - upd: `changelog.md`      007  
+   - upd: `history.md`        007  
+   - upd: `chrono.md`         007  
+   - upd: `docs.md`           007  
+   - upd: `docs/assert.md`    001  
 2. upd: `vbs`  
-   - upd: `vbs.ver`          (006) PRE  
-   - add: `assert.vbs`       (003) PRE  
+   - upd: `vbs.ver`           006  
+   - add: `assert.vbs`        003  
 3. upd: `test`  
-   - upd: `test.ver`         (006) PRE  
+   - upd: `test.ver`          006  
 4. add: `test/assert`  
-   - add: `make.bat`         (001) PRE  
-   - add: `test-[vbs].bat`   (001) PRE  
-   - add: `test-[wsf].bat`   (001) PRE  
+   - add: `make.bat`          001  
+   - add: `test-[vbs].bat`    001  
+   - add: `test-[wsf].bat`    001  
 5. add: `test/assert/sources`  
-   - add: `success.vbs`      (002) PRE  
-   - add: `assert-01.vbs`    (003) PRE  
-   - add: `assert-02.vbs`    (003) PRE  
-   - add: `assert-03.vbs`    (003) PRE  
-   - add: `assert-04.vbs`    (003) PRE  
-   - add: `struct.txt`       (001) PRE  
-6. upd: `project.root`       (007) PRE  
+   - add: `success.vbs`       002  
+   - add: `assert-01.vbs`     003  
+   - add: `assert-02.vbs`     003  
+   - add: `assert-03.vbs`     003  
+   - add: `assert-04.vbs`     003  
+   - add: `struct.txt`        001  
+6. upd: `project.root`        007  
 
 [#7-dev-assert]: tasks/2024-02-19-0007-dev-assert.md
 <div/>
