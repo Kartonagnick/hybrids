@@ -62,7 +62,7 @@
 --------------------------------------------------------------------------------
 
 
-[![P]][H] **v0.0.6 (dev)**
+[![S]][H] **v0.0.6 (dev)**
 --------------------------------------------------------------------------------
 [![V]][VE006] [![2024-02-19 15:00]][VE006]  
 
@@ -75,26 +75,26 @@
 | 2024-02-19 | 14:20 | [#6-dev-errcode] | BEGIN  |  
 
 1. upd: `docs`  
-   - upd: `logo.png`       (006) PRE  
-   - upd: `changelog.md`   (006) PRE  
-   - upd: `history.md`     (006) PRE  
-   - upd: `chrono.md`      (006) PRE  
-   - upd: `docs.md`        (006) PRE  
+   - upd: `logo.png`        006  
+   - upd: `changelog.md`    006  
+   - upd: `history.md`      006  
+   - upd: `chrono.md`       006  
+   - upd: `docs.md`         006  
 2. add: `docs/docs`  
-   - add: `errCode.md`     (001) PRE  
+   - add: `errCode.md`      001  
 3. upd: `vbs`  
-   - upd: `vbs.ver`        (005) PRE  
-   - add: `errCode.vbs`    (002) PRE  
+   - upd: `vbs.ver`         005  
+   - add: `errCode.vbs`     002  
 4. upd: `test`  
-   - upd: `test.ver`       (005) PRE  
+   - upd: `test.ver`        005  
 5. add: `test/errCode`  
-   - add: `test-[wsf].bat` (001) PRE  
-   - add: `test-[vbs].bat` (001) PRE  
-   - add: `make.bat`       (001) PRE  
+   - add: `test-[wsf].bat`  001  
+   - add: `test-[vbs].bat`  001  
+   - add: `make.bat`        001  
 6. add: `test/errCode/sources`  
-   - add: `test.wsf`       (001) PRE  
-   - add: `main.vbs`       (003) PRE  
-7. upd: `project.root`     (006) PRE  
+   - add: `test.wsf`        001  
+   - add: `main.vbs`        003  
+7. upd: `project.root`      006  
 
 [#6-dev-errcode]: tasks/2024-02-19-0006-dev-errcode.md
 <div/>
