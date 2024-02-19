@@ -62,6 +62,44 @@
 --------------------------------------------------------------------------------
 
 
+[![P]][H] **v0.0.6 (dev)**
+--------------------------------------------------------------------------------
+[![V]][VE006] [![2024-02-19 15:00]][VE006]  
+
+[2024-02-19 15:00]: https://img.shields.io/static/v1?label=2024-02-19&message=15:00&color=yellowgreen
+[VE006]: changelog.md#-v006-dev
+
+|    дата    | время |       ветка      | статус |  
+|:----------:|:-----:|:----------------:|:------:|  
+| 2024-02-19 | 14:50 | [#6-dev-errcode] | DONE   |  
+| 2024-02-19 | 14:20 | [#6-dev-errcode] | BEGIN  |  
+
+1. upd: `docs`  
+   - upd: `logo.png`       (006) PRE  
+   - upd: `changelog.md`   (006) PRE  
+   - upd: `history.md`     (006) PRE  
+   - upd: `chrono.md`      (006) PRE  
+   - upd: `docs.md`        (006) PRE  
+2. add: `docs/docs`  
+   - add: `errCode.md`     (001) PRE  
+3. upd: `vbs`  
+   - upd: `vbs.ver`        (005) PRE  
+   - add: `errCode.vbs`    (002) PRE  
+4. upd: `test`  
+   - upd: `test.ver`       (005) PRE  
+5. add: `test/errCode`  
+   - add: `test-[wsf].bat` (001) PRE  
+   - add: `test-[vbs].bat` (001) PRE  
+   - add: `make.bat`       (001) PRE  
+6. add: `test/errCode/sources`  
+   - add: `test.wsf`       (001) PRE  
+   - add: `main.vbs`       (003) PRE  
+7. upd: `project.root`     (006) PRE  
+
+[#6-dev-errcode]: tasks/2024-02-19-0006-dev-errcode.md
+<div/>
+
+
 [![S]][H] **v0.0.5 (dev)**
 --------------------------------------------------------------------------------
 [![V]][VE005] [![2024-02-18 03:25]][VE005]  
