@@ -62,6 +62,47 @@
 --------------------------------------------------------------------------------
 
 
+[![P]][H] **v0.0.7 (dev)**
+--------------------------------------------------------------------------------
+[![V]][VE007] [![2024-02-19 90:00]][VE007]  
+
+[2024-02-19 19:00]: https://img.shields.io/static/v1?label=2024-02-19&message=19:00&color=yellowgreen
+[VE007]: changelog.md#-v007-dev
+
+|    дата    | время |      ветка      | статус |  
+|:----------:|:-----:|:---------------:|:------:|  
+| 2024-02-19 | 18:50 | [#7-dev-assert] | DONE   |  
+| 2024-02-19 | 16:00 | [#7-dev-assert] | BEGIN  |  
+
+1. upd: `docs`  
+   - upd: `logo.png`         (007) PRE  
+   - upd: `changelog.md`     (007) PRE  
+   - upd: `history.md`       (007) PRE  
+   - upd: `chrono.md`        (007) PRE  
+   - upd: `docs.md`          (007) PRE  
+   - upd: `docs/assert.md`   (001) PRE  
+2. upd: `vbs`  
+   - upd: `vbs.ver`          (006) PRE  
+   - add: `assert.vbs`       (003) PRE  
+3. upd: `test`  
+   - upd: `test.ver`         (006) PRE  
+4. add: `test/assert`  
+   - add: `make.bat`         (001) PRE  
+   - add: `test-[vbs].bat`   (001) PRE  
+   - add: `test-[wsf].bat`   (001) PRE  
+5. add: `test/assert/sources`  
+   - add: `success.vbs`      (002) PRE  
+   - add: `assert-01.vbs`    (003) PRE  
+   - add: `assert-02.vbs`    (003) PRE  
+   - add: `assert-03.vbs`    (003) PRE  
+   - add: `assert-04.vbs`    (003) PRE  
+   - add: `struct.txt`       (001) PRE  
+6. upd: `project.root`       (007) PRE  
+
+[#7-dev-assert]: tasks/2024-02-19-0007-dev-assert.md
+<div/>
+
+
 [![S]][H] **v0.0.6 (dev)**
 --------------------------------------------------------------------------------
 [![V]][VE006] [![2024-02-19 15:00]][VE006]  

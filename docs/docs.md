@@ -10,6 +10,7 @@
 
 [glob]:      docs/glob.md
 [echo]:      docs/echo.md
+[assert]:    docs/assert.md
 [errCode]:   docs/errCode.md
 [twoDigits]: docs/twoDigits.md
 
@@ -17,7 +18,7 @@
 [fac]: docs/factory.md
     
 <a name="main"></a>
-[![S]][H] Документация v0.0.6
+[![P]][H] Документация v0.0.7
 =============================
 Это уже третия реинкарнация проекта `hybrids`  
 Цель проекта: привести кодовую базу в порядок, и сделать полноценный релиз.  
@@ -30,8 +31,9 @@
 Каталог инструментов:  
 1. [glob]  
 2. [echo]  
-3. [errCode]  
-4. [twoDigits]  
+3. [assert]  
+4. [errCode]  
+5. [twoDigits]  
 
 [фабрика гибридов][fac]  
 [карта проекта][map]  
