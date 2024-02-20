@@ -62,6 +62,47 @@
 --------------------------------------------------------------------------------
 
 
+[![P]][H] **v0.1.2 (dev)**
+--------------------------------------------------------------------------------
+[![V]][VE012] [![2024-02-21 01:30]][VE012]  
+
+[2024-02-21 01:30]: https://img.shields.io/static/v1?label=2024-02-21&message=01:30&color=yellowgreen
+[VE012]: changelog.md#-v012-dev
+
+|    дата    | время |     ветка      | статус |  
+|:----------:|:-----:|:--------------:|:------:|  
+| 2024-02-21 | 01:20 | [#12-dev-trim] | DONE   |  
+| 2024-02-21 | 00:30 | [#12-dev-trim] | BEGIN  |  
+
+1. upd: `docs`  
+   - upd: `logo.png`         (012) PRE  
+   - upd: `changelog.md`     (012) PRE  
+   - upd: `history.md`       (012) PRE  
+   - upd: `chrono.md`        (012) PRE  
+   - upd: `docs.md`          (012) PRE  
+   - add: `docs/trim.md`     (001) PRE  
+2. upd: `vbs`  
+   - upd: `vbs.ver`          (009) PRE  
+   - add: `trim.vbs`         (001) PRE  
+3. upd: `test`  
+   - upd: `test.ver`         (011) PRE  
+4. add: `test/trim`  
+   - add: `make.bat`         (001) PRE  
+   - add: `test-[vbs].bat`   (001) PRE  
+   - add: `test-[wsf].bat`   (001) PRE  
+5. add: `test/trim/sources`  
+   - add: `trimmed.vbs`      (003) PRE  
+   - add: `front.vbs`        (002) PRE  
+   - add: `back.vbs`         (002) PRE  
+   - add: `both.vbs`         (002) PRE  
+   - add: `list.vbs`         (003) PRE  
+   - add: `struct.txt`       (001) PRE  
+6. upd: `project.root`       (012) PRE  
+
+[#12-dev-trim]: tasks/2024-02-21-0012-dev-trim.md
+<div/>
+
+
 [![S]][H] **v0.1.1 (dev)**
 --------------------------------------------------------------------------------
 [![V]][VE011] [![2024-02-20 23:50]][VE011]  
