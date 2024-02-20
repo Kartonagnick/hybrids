@@ -62,7 +62,7 @@
 --------------------------------------------------------------------------------
 
 
-[![P]][H] **v0.0.8 (tst)**
+[![S]][H] **v0.0.8 (tst)**
 --------------------------------------------------------------------------------
 [![V]][VE008] [![2024-02-20 20:30]][VE008]  
 
@@ -75,22 +75,21 @@
 | 2024-02-20 | 19:30 | [#8-tst-assert] | BEGIN  |  
 
 1. upd: `docs`  
-   - upd: `logo.png`         (008) PRE  
-   - upd: `changelog.md`     (008) PRE  
-   - upd: `history.md`       (008) PRE  
-   - upd: `docs.md`          (008) PRE  
-   - upd: `chrono.md`        (008) PRE  
-   - upd: `docs/assert.md`   (001) PRE  
+   - upd: `logo.png`          008  
+   - upd: `changelog.md`      008  
+   - upd: `history.md`        008  
+   - upd: `docs.md`           008  
+   - upd: `chrono.md`         008  
+   - upd: `docs/assert.md`    001  
 2. upd: `test`  
-   - upd: `test.ver`         (007) PRE  
+   - upd: `test.ver`          007  
 3. add: `test/assert/sources`  
-   - add: `assert-05.vbs`    (003) PRE  
-   - add: `assert-06.vbs`    (003) PRE  
-   - add: `assert-07.vbs`    (003) PRE  
-   - add: `assert-08.vbs`    (003) PRE  
-   - add: `assert-09.vbs`    (003) PRE  
-   - add: `assert-10.vbs`    (003) PRE  
-4. upd: `project.root`       (008) PRE  
+   - add: `assert-05.vbs`     003  
+   - add: `assert-06.vbs`     003  
+   - add: `assert-07.vbs`     003  
+   - add: `assert-09.vbs`     003  
+   - add: `assert-10.vbs`     003  
+4. upd: `project.root`        008  
 
 [#8-tst-assert]: tasks/2024-02-20-0008-tst-assert.md
 <div/>
