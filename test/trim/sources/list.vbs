@@ -1,6 +1,6 @@
 
 '--- local/hybrids                                         [test/trim][list.vbs]
-'[2024-02-21][01:30:00] 003 Kartonagnick PRE
+'[2024-02-21][01:30:00] 003 Kartonagnick    
 '  --- CastleOfDreams/hybrids                               [test][trimList.vbs]
 '  [2022-01-26][19:00:00] 002 Kartonagnick
 '  [2021-12-11][19:00:00] 001 Kartonagnick
