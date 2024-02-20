@@ -62,7 +62,7 @@
 --------------------------------------------------------------------------------
 
 
-[![P]][H] **v0.1.1 (dev)**
+[![S]][H] **v0.1.1 (dev)**
 --------------------------------------------------------------------------------
 [![V]][VE011] [![2024-02-20 23:50]][VE011]  
 
@@ -75,24 +75,24 @@
 | 2024-02-20 | 22:10 | [#11-dev-util] | BEGIN  |  
 
 1. upd: `docs`  
-   - upd: `logo.png`         (011) PRE  
-   - upd: `changelog.md`     (011) PRE  
-   - upd: `history.md`       (011) PRE  
-   - upd: `chrono.md`        (011) PRE  
-   - upd: `docs.md`          (011) PRE  
-   - add: `docs/runCmd.md`   (001) PRE  
+   - upd: `logo.png`          011  
+   - upd: `changelog.md`      011  
+   - upd: `history.md`        011  
+   - upd: `chrono.md`         011  
+   - upd: `docs.md`           011  
+   - add: `docs/runCmd.md`    001  
 2. upd: `vbs`  
-   - upd: `vbs.ver`          (008) PRE  
-   - add: `runCmd.vbs`       (001) PRE  
+   - upd: `vbs.ver`           008  
+   - add: `runCmd.vbs`        001  
 3. upd: `test`  
-   - upd: `test.ver`         (010) PRE  
+   - upd: `test.ver`          010  
 4. add: `test/runCmd`  
-   - add: `make.bat`         (001) PRE  
-   - add: `test-[wsf].bat`   (001) PRE  
-   - add: `test-[vbs].bat`   (001) PRE  
-   - add: `sources/main.vbs` (003) PRE  
-   - add: `sources/test.wsf` (001) PRE  
-5. upd: `project.root`       (011) PRE  
+   - add: `make.bat`          001  
+   - add: `test-[wsf].bat`    001  
+   - add: `test-[vbs].bat`    001  
+   - add: `sources/main.vbs`  003  
+   - add: `sources/test.wsf`  001  
+5. upd: `project.root`        011  
 
 [#11-dev-util]: tasks/2024-02-20-0011-dev-util.md
 <div/>
