@@ -62,6 +62,40 @@
 --------------------------------------------------------------------------------
 
 
+[![P]][H] **v0.0.8 (tst)**
+--------------------------------------------------------------------------------
+[![V]][VE008] [![2024-02-20 20:30]][VE008]  
+
+[2024-02-20 20:30]: https://img.shields.io/static/v1?label=2024-02-20&message=20:30&color=yellowgreen
+[VE008]: changelog.md#-v008-tst
+
+|    дата    | время |      ветка      | статус |  
+|:----------:|:-----:|:---------------:|:------:|  
+| 2024-02-20 | 20:20 | [#8-tst-assert] | DONE   |  
+| 2024-02-20 | 19:30 | [#8-tst-assert] | BEGIN  |  
+
+1. upd: `docs`  
+   - upd: `logo.png`         (008) PRE  
+   - upd: `changelog.md`     (008) PRE  
+   - upd: `history.md`       (008) PRE  
+   - upd: `docs.md`          (008) PRE  
+   - upd: `chrono.md`        (008) PRE  
+   - upd: `docs/assert.md`   (001) PRE  
+2. upd: `test`  
+   - upd: `test.ver`         (007) PRE  
+3. add: `test/assert/sources`  
+   - add: `assert-05.vbs`    (003) PRE  
+   - add: `assert-06.vbs`    (003) PRE  
+   - add: `assert-07.vbs`    (003) PRE  
+   - add: `assert-08.vbs`    (003) PRE  
+   - add: `assert-09.vbs`    (003) PRE  
+   - add: `assert-10.vbs`    (003) PRE  
+4. upd: `project.root`       (008) PRE  
+
+[#8-tst-assert]: tasks/2024-02-20-0008-tst-assert.md
+<div/>
+
+
 [![S]][H] **v0.0.7 (dev)**
 --------------------------------------------------------------------------------
 [![V]][VE007] [![2024-02-19 90:00]][VE007]  
