@@ -62,7 +62,7 @@
 --------------------------------------------------------------------------------
 
 
-[![P]][H] **v0.1.0 (dev)**
+[![S]][H] **v0.1.0 (dev)**
 --------------------------------------------------------------------------------
 [![V]][VE010] [![2024-02-20 22:50]][VE010]  
 
@@ -75,28 +75,28 @@
 | 2024-02-20 | 22:10 | [#10-dev-util] | BEGIN  |  
 
 1. upd: `docs`  
-   - upd: `logo.png`         (010) PRE  
-   - upd: `changelog.md`     (010) PRE  
-   - upd: `history.md`       (010) PRE  
-   - upd: `chrono.md`        (010) PRE  
-   - upd: `docs.md`          (010) PRE  
-   - add: `docs/padding.md`  (001) PRE  
+   - upd: `logo.png`          010  
+   - upd: `changelog.md`      010  
+   - upd: `history.md`        010  
+   - upd: `chrono.md`         010  
+   - upd: `docs.md`           010  
+   - add: `docs/padding.md`   001  
 2. upd: `vbs`  
-   - upd: `vbs.ver`          (007) PRE  
-   - add: `padding.vbs`      (002) PRE  
+   - upd: `vbs.ver`           007  
+   - add: `padding.vbs`       002  
 3. upd: `test`  
-   - upd: `test.ver`         (009) PRE  
+   - upd: `test.ver`          009  
 4. add: `test/padding`  
-   - add: `make.bat`         (001) PRE  
-   - add: `test-[vbs].bat`   (001) PRE  
-   - add: `test-[wsf].bat`   (001) PRE  
+   - add: `make.bat`          001  
+   - add: `test-[vbs].bat`    001  
+   - add: `test-[wsf].bat`    001  
 5. add: `test/padding/sources`  
-   - add: `padding.vbs`      (002) PRE  
-   - add: `assert-1.vbs`     (002) PRE  
-   - add: `assert-2.vbs`     (002) PRE  
-   - add: `assert-3.vbs`     (002) PRE  
-   - add: `struct.txt`       (001) PRE  
-6. upd: `project.root`       (010) PRE  
+   - add: `padding.vbs`       002  
+   - add: `assert-1.vbs`      002  
+   - add: `assert-2.vbs`      002  
+   - add: `assert-3.vbs`      002  
+   - add: `struct.txt`        001  
+6. upd: `project.root`        010  
 
 [#10-dev-util]: tasks/2024-02-20-0010-dev-util.md
 <div/>
