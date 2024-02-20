@@ -11,12 +11,13 @@
 [errCode]:   docs/errCode.md
 [twoDigits]: docs/twoDigits.md
 [padding]:   docs/padding.md
+[runCmd]:    docs/runCmd.md
 
 [map]: https://mind-map-online.ru/sh-9223a24c9e4a6628?panelMain=0&menubar=0&freezePanels=1&scrollable=0
 [fac]: docs/factory.md
     
 <a name="main"></a>
-[![S]][H] Документация v0.1.0
+[![P]][H] Документация v0.1.1
 =============================
 Это уже третия реинкарнация проекта `hybrids`  
 Цель проекта: привести кодовую базу в порядок, и сделать полноценный релиз.  
@@ -28,6 +29,7 @@
 4. [errCode]  
 5. [twoDigits]  
 6. [padding]  
+7. [runCmd]  
 
 [фабрика гибридов][fac]  
 [карта проекта][map]  
