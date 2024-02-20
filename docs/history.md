@@ -62,7 +62,7 @@
 --------------------------------------------------------------------------------
 
 
-[![P]][H] **v0.1.2 (dev)**
+[![S]][H] **v0.1.2 (dev)**
 --------------------------------------------------------------------------------
 [![V]][VE012] [![2024-02-21 01:30]][VE012]  
 
@@ -75,29 +75,29 @@
 | 2024-02-21 | 00:30 | [#12-dev-trim] | BEGIN  |  
 
 1. upd: `docs`  
-   - upd: `logo.png`         (012) PRE  
-   - upd: `changelog.md`     (012) PRE  
-   - upd: `history.md`       (012) PRE  
-   - upd: `chrono.md`        (012) PRE  
-   - upd: `docs.md`          (012) PRE  
-   - add: `docs/trim.md`     (001) PRE  
+   - upd: `logo.png`          012  
+   - upd: `changelog.md`      012  
+   - upd: `history.md`        012  
+   - upd: `chrono.md`         012  
+   - upd: `docs.md`           012  
+   - add: `docs/trim.md`      001  
 2. upd: `vbs`  
-   - upd: `vbs.ver`          (009) PRE  
-   - add: `trim.vbs`         (001) PRE  
+   - upd: `vbs.ver`           009  
+   - add: `trim.vbs`          001  
 3. upd: `test`  
-   - upd: `test.ver`         (011) PRE  
+   - upd: `test.ver`          011  
 4. add: `test/trim`  
-   - add: `make.bat`         (001) PRE  
-   - add: `test-[vbs].bat`   (001) PRE  
-   - add: `test-[wsf].bat`   (001) PRE  
+   - add: `make.bat`          001  
+   - add: `test-[vbs].bat`    001  
+   - add: `test-[wsf].bat`    001  
 5. add: `test/trim/sources`  
-   - add: `trimmed.vbs`      (003) PRE  
-   - add: `front.vbs`        (002) PRE  
-   - add: `back.vbs`         (002) PRE  
-   - add: `both.vbs`         (002) PRE  
-   - add: `list.vbs`         (003) PRE  
-   - add: `struct.txt`       (001) PRE  
-6. upd: `project.root`       (012) PRE  
+   - add: `trimmed.vbs`       003  
+   - add: `front.vbs`         002  
+   - add: `back.vbs`          002  
+   - add: `both.vbs`          002  
+   - add: `list.vbs`          003  
+   - add: `struct.txt`        001  
+6. upd: `project.root`        012  
 
 [#12-dev-trim]: tasks/2024-02-21-0012-dev-trim.md
 <div/>
