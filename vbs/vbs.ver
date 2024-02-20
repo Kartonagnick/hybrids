@@ -1,6 +1,7 @@
 
 '--- local/hybrids                                                     [vbs.ver]
-'[2024-02-20][22:50:00] 007 Kartonagnick    
+'[2024-02-20][23:50:00] 008 Kartonagnick PRE
+'[2024-02-20][22:50:00] 007 Kartonagnick
 '[2024-02-19][19:00:00] 006 Kartonagnick
 '[2024-02-19][15:00:00] 005 Kartonagnick
 '[2024-02-18][03:25:00] 004 Kartonagnick
@@ -10,4 +11,4 @@
 
 dim gVBS_MAJOR: gVBS_MAJOR = 0
 dim gVBS_MINOR: gVBS_MINOR = 0
-dim gVBS_PATCH: gVBS_PATCH = 7
+dim gVBS_PATCH: gVBS_PATCH = 8

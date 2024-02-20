@@ -62,6 +62,42 @@
 --------------------------------------------------------------------------------
 
 
+[![P]][H] **v0.1.1 (dev)**
+--------------------------------------------------------------------------------
+[![V]][VE011] [![2024-02-20 23:50]][VE011]  
+
+[2024-02-20 23:50]: https://img.shields.io/static/v1?label=2024-02-20&message=23:50&color=yellowgreen
+[VE011]: changelog.md#-v011-dev
+
+|    дата    | время |     ветка      | статус |  
+|:----------:|:-----:|:--------------:|:------:|  
+| 2024-02-20 | 22:40 | [#11-dev-util] | DONE   |  
+| 2024-02-20 | 22:10 | [#11-dev-util] | BEGIN  |  
+
+1. upd: `docs`  
+   - upd: `logo.png`         (011) PRE  
+   - upd: `changelog.md`     (011) PRE  
+   - upd: `history.md`       (011) PRE  
+   - upd: `chrono.md`        (011) PRE  
+   - upd: `docs.md`          (011) PRE  
+   - add: `docs/runCmd.md`   (001) PRE  
+2. upd: `vbs`  
+   - upd: `vbs.ver`          (008) PRE  
+   - add: `runCmd.vbs`       (001) PRE  
+3. upd: `test`  
+   - upd: `test.ver`         (010) PRE  
+4. add: `test/runCmd`  
+   - add: `make.bat`         (001) PRE  
+   - add: `test-[wsf].bat`   (001) PRE  
+   - add: `test-[vbs].bat`   (001) PRE  
+   - add: `sources/main.vbs` (003) PRE  
+   - add: `sources/test.wsf` (001) PRE  
+5. upd: `project.root`       (011) PRE  
+
+[#11-dev-util]: tasks/2024-02-20-0011-dev-util.md
+<div/>
+
+
 [![S]][H] **v0.1.0 (dev)**
 --------------------------------------------------------------------------------
 [![V]][VE010] [![2024-02-20 22:50]][VE010]  
