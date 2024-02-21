@@ -1,6 +1,6 @@
 
 '--- local/hybrids                                    [test/runBat][main.vbs]
-' [2024-02-21][14:20:00] 001 Kartonagnick PRE
+' [2024-02-21][14:20:00] 001 Kartonagnick    
 
 sub test(id, deep, stdout)
 
