@@ -62,7 +62,7 @@
 --------------------------------------------------------------------------------
 
 
-[![P]][H] **v0.1.3 (dev)**
+[![S]][H] **v0.1.3 (dev)**
 --------------------------------------------------------------------------------
 [![V]][VE013] [![2024-02-21 12:30]][VE013]  
 
@@ -75,42 +75,42 @@
 | 2024-02-21 | 11:30 | [#13-dev-path] | BEGIN  |  
 
 1. upd: `docs`  
-   - upd: `logo.png`         (013) PRE  
-   - upd: `changelog.md`     (013) PRE  
-   - upd: `chrono.md`        (013) PRE  
-   - upd: `history.md`       (013) PRE  
-   - upd: `docs.md`          (013) PRE  
-   - add: `docs/path.md`     (001) PRE  
+   - upd: `logo.png`          013  
+   - upd: `changelog.md`      013  
+   - upd: `chrono.md`         013  
+   - upd: `history.md`        013  
+   - upd: `docs.md`           013  
+   - add: `docs/path.md`      001  
 2. upd: `vbs`  
-   - upd: `vbs.ver`          (010) PRE  
-   - add: `path.vbs`         (001) PRE  
+   - upd: `vbs.ver`           010  
+   - add: `path.vbs`          001  
 3. upd: `test`  
-   - upd: `test.ver`         (012) PRE  
+   - upd: `test.ver`          012  
 4. add: `test/path/relativePath`  
-   - add: `make.bat`         (001) PRE  
-   - add: `test-[wsf].bat`   (001) PRE  
-   - add: `test-[vbs].bat`   (001) PRE  
-   - add: `sources/main.vbs` (001) PRE  
-   - add: `sources/test.wsf` (001) PRE  
+   - add: `make.bat`          001  
+   - add: `test-[wsf].bat`    001  
+   - add: `test-[vbs].bat`    001  
+   - add: `sources/main.vbs`  001  
+   - add: `sources/test.wsf`  001  
 5. add: `test/path/isAbsolutePath`  
-   - add: `make.bat`         (001) PRE  
-   - add: `test-[wsf].bat`   (001) PRE  
-   - add: `test-[vbs].bat`   (001) PRE  
-   - add: `sources/main.vbs` (002) PRE  
-   - add: `sources/test.wsf` (001) PRE  
+   - add: `make.bat`          001  
+   - add: `test-[wsf].bat`    001  
+   - add: `test-[vbs].bat`    001  
+   - add: `sources/main.vbs`  002  
+   - add: `sources/test.wsf`  001  
 6. add: `test/path/canonicalPathList`  
-   - add: `make.bat`         (001) PRE  
-   - add: `test-[wsf].bat`   (001) PRE  
-   - add: `test-[vbs].bat`   (001) PRE  
-   - add: `sources/main.vbs` (001) PRE  
-   - add: `sources/test.wsf` (001) PRE  
+   - add: `make.bat`          001  
+   - add: `test-[wsf].bat`    001  
+   - add: `test-[vbs].bat`    001  
+   - add: `sources/main.vbs`  001  
+   - add: `sources/test.wsf`  001  
 7. add: `test/path/canonicalPath  
-   - add: `make.bat`         (001) PRE  
-   - add: `test-[wsf].bat`   (001) PRE  
-   - add: `test-[vbs].bat`   (001) PRE  
-   - add: `sources/main.vbs` (001) PRE  
-   - add: `sources/test.wsf` (001) PRE  
-8. upd: `project.root`       (013) PRE  
+   - add: `make.bat`          001  
+   - add: `test-[wsf].bat`    001  
+   - add: `test-[vbs].bat`    001  
+   - add: `sources/main.vbs`  001  
+   - add: `sources/test.wsf`  001  
+8. upd: `project.root`        013  
 
 [#13-dev-path]: tasks/2024-02-21-0013-dev-path.md
 <div/>
