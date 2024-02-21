@@ -15,12 +15,13 @@
 [runBat]:    docs/runBat.md
 [trim]:      docs/trim.md
 [path]:      docs/path.md
+[minmax]:    docs/minmax.md
 
 [map]: https://mind-map-online.ru/sh-9223a24c9e4a6628?panelMain=0&menubar=0&freezePanels=1&scrollable=0
 [fac]: docs/factory.md
     
 <a name="main"></a>
-[![S]][H] Документация v0.1.4
+[![P]][H] Документация v0.1.5
 =============================
 Это уже третия реинкарнация проекта `hybrids`  
 Цель проекта: привести кодовую базу в порядок, и сделать полноценный релиз.  
@@ -36,6 +37,7 @@
 8.  [runBat]  
 9.  [trim]  
 10. [path]  
+11. [minmax]  
 
 [фабрика гибридов][fac]  
 [карта проекта][map]  
