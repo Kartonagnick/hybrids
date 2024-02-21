@@ -62,12 +62,49 @@
 --------------------------------------------------------------------------------
 
 
-[![P]][H] **v0.1.3 (dev)**
+[![P]][H] **v0.1.4 (dev)**
+--------------------------------------------------------------------------------
+[![V]][VE014] [![2024-02-21 14:20]][VE014]  
+
+[2024-02-21 14:20]: https://img.shields.io/static/v1?label=2024-02-21&message=14:20&color=yellowgreen
+[VE014]: changelog.md#-v014-dev
+
+|    дата    | время |     ветка      | статус |  
+|:----------:|:-----:|:--------------:|:------:|  
+| 2024-02-21 | 14:10 | [#14-dev-util] | DONE   |  
+| 2024-02-21 | 13:20 | [#14-dev-util] | BEGIN  |  
+
+1. upd: `docs`  
+   - upd: `logo.png`         (014) PRE  
+   - upd: `changelog.md`     (014) PRE  
+   - upd: `history.md`       (014) PRE  
+   - upd: `chrono.md`        (014) PRE  
+   - upd: `docs.md`          (014) PRE  
+   - add: `docs/runBat.md`   (001) PRE  
+2. upd: `vbs`  
+   - upd: `vbs.ver`          (011) PRE  
+   - add: `runBat.vbs`       (001) PRE  
+3. upd: `test`  
+   - upd: `test.ver`         (013) PRE  
+4. add: `test/runBat`  
+   - add: `make.bat`         (001) PRE  
+   - add: `test-[wsf].bat`   (001) PRE  
+   - add: `test-[vbs].bat`   (001) PRE  
+   - add: `sources/test.wsf` (001) PRE  
+   - add: `sources/main.vbs` (001) PRE  
+   - add: `sources/crol.bat` (001) PRE  
+5. upd: `project.root`       (014) PRE  
+
+[#14-dev-util]: tasks/2024-02-21-0014-dev-util.md
+<div/>
+
+
+[![S]][H] **v0.1.3 (dev)**
 --------------------------------------------------------------------------------
 [![V]][VE013] [![2024-02-21 12:30]][VE013]  
 
 [2024-02-21 12:30]: https://img.shields.io/static/v1?label=2024-02-21&message=12:30&color=yellowgreen
-[VE012]: changelog.md#-v013-dev
+[VE013]: changelog.md#-v013-dev
 
 |    дата    | время |     ветка      | статус |  
 |:----------:|:-----:|:--------------:|:------:|  
