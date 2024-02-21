@@ -62,7 +62,7 @@
 --------------------------------------------------------------------------------
 
 
-[![P]][H] **v0.1.5 (dev)**
+[![S]][H] **v0.1.5 (dev)**
 --------------------------------------------------------------------------------
 [![V]][VE015] [![2024-02-21 18:50]][VE015]  
 
@@ -75,26 +75,26 @@
 | 2024-02-21 | 17:50 | [#15-dev-minmax] | BEGIN  |  
 
 1. upd: `docs`  
-   - upd: `logo.png`         (015) PRE  
-   - upd: `changelog.md`     (015) PRE  
-   - upd: `history.md`       (015) PRE  
-   - upd: `chrono.md`        (015) PRE  
-   - upd: `docs.md`          (015) PRE  
-   - add: `docs/minmax.md`   (001) PRE  
+   - upd: `logo.png`          015  
+   - upd: `changelog.md`      015  
+   - upd: `history.md`        015  
+   - upd: `chrono.md`         015  
+   - upd: `docs.md`           015  
+   - add: `docs/minmax.md`    001  
 2. upd: `vbs`  
-   - upd: `vbs.ver`          (012) PRE  
-   - add: `minmax.vbs`       (001) PRE  
+   - upd: `vbs.ver`           012  
+   - add: `minmax.vbs`        001  
 3. upd: `test`  
-   - upd: `test.ver`         (014) PRE  
+   - upd: `test.ver`          014  
 4. add: `test/minmax`  
-   - add: `make.bat`         (001) PRE  
-   - add: `test-[vbs].bat`   (001) PRE  
-   - add: `test-[wsf].bat`   (001) PRE  
+   - add: `make.bat`          001  
+   - add: `test-[vbs].bat`    001  
+   - add: `test-[wsf].bat`    001  
 5. add: `test/minmax/sources`  
-   - add: `minElement.vbs`   (002) PRE  
-   - add: `maxElement.vbs`   (002) PRE  
-   - add: `struct.txt`       (001) PRE  
-6. upd: `project.root`       (015) PRE  
+   - add: `minElement.vbs`    002  
+   - add: `maxElement.vbs`    002  
+   - add: `struct.txt`        001  
+6. upd: `project.root`        015  
 
 [#15-dev-minmax]: tasks/2024-02-21-0015-dev-minmax.md
 <div/>
