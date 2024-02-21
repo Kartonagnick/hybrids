@@ -3,7 +3,7 @@
 #===============================================================================
 
 # local/hybrids                                             [minmax][struct.txt]
-# [2024-02-21][18:50:00] 001 Kartonagnick PRE
+# [2024-02-21][18:50:00] 001 Kartonagnick    
 
 # mode = absolute
 # mode = relative
