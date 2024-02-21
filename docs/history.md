@@ -62,6 +62,44 @@
 --------------------------------------------------------------------------------
 
 
+[![P]][H] **v0.1.5 (dev)**
+--------------------------------------------------------------------------------
+[![V]][VE015] [![2024-02-21 18:50]][VE015]  
+
+[2024-02-21 18:50]: https://img.shields.io/static/v1?label=2024-02-21&message=18:50&color=yellowgreen
+[VE015]: changelog.md#-v015-dev
+
+|    дата    | время |       ветка      | статус |  
+|:----------:|:-----:|:----------------:|:------:|  
+| 2024-02-21 | 18:40 | [#15-dev-minmax] | DONE   |  
+| 2024-02-21 | 17:50 | [#15-dev-minmax] | BEGIN  |  
+
+1. upd: `docs`  
+   - upd: `logo.png`         (015) PRE  
+   - upd: `changelog.md`     (015) PRE  
+   - upd: `history.md`       (015) PRE  
+   - upd: `chrono.md`        (015) PRE  
+   - upd: `docs.md`          (015) PRE  
+   - add: `docs/minmax.md`   (001) PRE  
+2. upd: `vbs`  
+   - upd: `vbs.ver`          (012) PRE  
+   - add: `minmax.vbs`       (001) PRE  
+3. upd: `test`  
+   - upd: `test.ver`         (014) PRE  
+4. add: `test/minmax`  
+   - add: `make.bat`         (001) PRE  
+   - add: `test-[vbs].bat`   (001) PRE  
+   - add: `test-[wsf].bat`   (001) PRE  
+5. add: `test/minmax/sources`  
+   - add: `minElement.vbs`   (002) PRE  
+   - add: `maxElement.vbs`   (002) PRE  
+   - add: `struct.txt`       (001) PRE  
+6. upd: `project.root`       (015) PRE  
+
+[#15-dev-minmax]: tasks/2024-02-21-0015-dev-minmax.md
+<div/>
+
+
 [![S]][H] **v0.1.4 (dev)**
 --------------------------------------------------------------------------------
 [![V]][VE014] [![2024-02-21 14:20]][VE014]  
