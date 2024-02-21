@@ -2,7 +2,7 @@
 @echo off
 
 rem --- local/hybrids                                    [test/runBat][crol.bat]
-rem [2024-02-21][14:20:00] 001 Kartonagnick PRE
+rem [2024-02-21][14:20:00] 001 Kartonagnick    
 
 echo run crol.bat...
 
