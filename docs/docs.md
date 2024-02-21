@@ -12,6 +12,7 @@
 [twoDigits]: docs/twoDigits.md
 [padding]:   docs/padding.md
 [runCmd]:    docs/runCmd.md
+[runBat]:    docs/runBat.md
 [trim]:      docs/trim.md
 [path]:      docs/path.md
 
@@ -19,21 +20,22 @@
 [fac]: docs/factory.md
     
 <a name="main"></a>
-[![P]][H] Документация v0.1.3
+[![P]][H] Документация v0.1.4
 =============================
 Это уже третия реинкарнация проекта `hybrids`  
 Цель проекта: привести кодовую базу в порядок, и сделать полноценный релиз.  
 
 Каталог инструментов:  
-1. [glob]  
-2. [echo]  
-3. [assert]  
-4. [errCode]  
-5. [twoDigits]  
-6. [padding]  
-7. [runCmd]  
-8. [trim]  
-9. [path]  
+1.  [glob]  
+2.  [echo]  
+3.  [assert]  
+4.  [errCode]  
+5.  [twoDigits]  
+6.  [padding]  
+7.  [runCmd]  
+8.  [runBat]  
+9.  [trim]  
+10. [path]  
 
 [фабрика гибридов][fac]  
 [карта проекта][map]  
