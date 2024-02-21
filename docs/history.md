@@ -62,6 +62,46 @@
 --------------------------------------------------------------------------------
 
 
+[![P]][H] **v0.1.3 (dev)**
+--------------------------------------------------------------------------------
+[![V]][VE013] [![2024-02-21 12:30]][VE013]  
+
+[2024-02-21 12:30]: https://img.shields.io/static/v1?label=2024-02-21&message=12:30&color=yellowgreen
+[VE012]: changelog.md#-v013-dev
+
+|    дата    | время |     ветка      | статус |  
+|:----------:|:-----:|:--------------:|:------:|  
+| 2024-02-21 | 12:20 | [#13-dev-path] | DONE   |  
+| 2024-02-21 | 11:30 | [#13-dev-path] | BEGIN  |  
+
+1. upd: `docs`  
+   - upd: `logo.png`              (013) PRE  
+   - upd: `changelog.md`          (013) PRE  
+   - upd: `chrono.md`             (013) PRE  
+   - upd: `history.md`            (013) PRE  
+   - upd: `docs.md`               (013) PRE  
+   - add: `docs/path.md`          (001) PRE  
+2. upd: `test`  
+   - upd: `test.ver`              (012) PRE  
+3. add: `test/path`  
+   - add: `make.bat`              (001) PRE  
+   - add: `test-[vbs].bat`        (001) PRE  
+   - add: `test-[wsf].bat`        (001) PRE  
+4. add: `test/path/sources`  
+   - add: `canonicalPath.vbs`     (001) PRE  
+   - add: `relativePath.vbs`      (001) PRE  
+   - add: `isAbsolutePath.vbs`    (001) PRE  
+   - add: `canonicalPathList.vbs` (001) PRE  
+   - add: `struct.txt`            (001) PRE  
+5. upd: `vbs`  
+   - upd: `vbs.ver`               (010) PRE  
+   - add: `path.vbs`              (001) PRE  
+6. upd: `project.root`            (013) PRE  
+
+[#13-dev-path]: tasks/2024-02-21-0013-dev-path.md
+<div/>
+
+
 [![S]][H] **v0.1.2 (dev)**
 --------------------------------------------------------------------------------
 [![V]][VE012] [![2024-02-21 01:30]][VE012]  
