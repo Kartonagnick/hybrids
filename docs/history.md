@@ -61,6 +61,44 @@
 
 --------------------------------------------------------------------------------
 
+[![P]][H] **v0.1.6 (dev)**
+--------------------------------------------------------------------------------
+[![V]][VE016] [![2024-02-22 17:40]][VE016]  
+
+[2024-02-22 17:40]: https://img.shields.io/static/v1?label=2024-02-22&message=17:40&color=yellowgreen
+[VE016]: changelog.md#-v016-dev
+
+|    дата    | время |      ветка      | статус |  
+|:----------:|:-----:|:---------------:|:------:|  
+| 2024-02-22 | 17:30 | [#16-dev-array] | DONE   |  
+| 2024-02-22 | 12:20 | [#16-dev-array] | BEGIN  |  
+
+1. add: `docs/docs`  
+   - upd: `logo.png`         (016) PRE  
+   - upd: `changelog.md`     (016) PRE  
+   - upd: `history.md`       (016) PRE  
+   - upd: `chrono.md`        (016) PRE  
+   - upd: `docs.md`          (016) PRE  
+   - add: `docs/array.md`    (001) PRE  
+2. upd: `vbs`  
+   - upd: `vbs.ver`          (013) PRE  
+   - add: `array.vbs`        (001) PRE  
+3. upd: `test`  
+   - upd: `test.ver`         (015) PRE  
+4. add: `test/array`
+   - add: `make.bat`         (001) PRE
+   - add: `test-[vbs].bat`   (001) PRE
+   - add: `test-[wsf].bat`   (001) PRE
+5. add: `test/array/sources`  
+   - add: `toArrayList.vbs`  (002) PRE  
+   - add: `getCount.vbs`     (002) PRE  
+   - add: `getBound.vbs`     (002) PRE  
+   - add: `struct.txt`       (001) PRE  
+6. upd: `project.root`       (016) PRE  
+
+[#16-dev-array]: tasks/2024-02-22-0016-dev-array.md
+<div/>
+
 
 [![S]][H] **v0.1.5 (dev)**
 --------------------------------------------------------------------------------
