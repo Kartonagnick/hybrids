@@ -7,6 +7,25 @@
 [![S]][H] Новости проекта
 =========================
 
+[![P]][VE016] **v0.1.6 (dev)**
+--------------------------------------------------------------------------------
+[#16-dev-array]: tasks/2024-02-22-0016-dev-array.md
+[VE016]: history.md#-v016-dev
+
+|    дата    | время |      ветка      |    статус     |  
+|:----------:|:-----:|:---------------:|:-------------:|  
+| 2024-02-22 | 17:40 | [#16-dev-array] | [![V]][VE016] |  
+
+Добавлен инструмент `vbs/array.vbs`  
+```vbs
+functions:
+  function getCount(collect)
+  function getBound(collect)
+  function toArrayList(src)
+```
+<br/>
+
+
 [![S]][VE015] **v0.1.5 (dev)**
 --------------------------------------------------------------------------------
 [#15-dev-minmax]: tasks/2024-02-21-0015-dev-minmax.md
@@ -17,6 +36,11 @@
 | 2024-02-21 | 18:50 | [#15-dev-minmax] | [![V]][VE015] |  
 
 Добавлен инструмент `vbs/minmax.vbs`  
+```vbs
+functions:
+  function maxElement(a, b)
+  function minElement(a, b)
+```
 <br/>
 
 
@@ -29,7 +53,12 @@
 |:----------:|:-----:|:--------------:|:-------------:|  
 | 2024-02-21 | 14:20 | [#14-dev-util] | [![V]][VE014] |  
 
-Добавлен инструмент `vbs/path.vbs`  
+Добавлен инструмент `vbs/runBat.vbs`  
+Позволяет запускать батники, с возможностью сохранить переменные среды,  
+которые эти батники настраивают.  
+```vbs
+function runBat(deep, hide, path_to_bat)
+```
 <br/>
 
 
@@ -43,8 +72,13 @@
 | 2024-02-21 | 12:30 | [#13-dev-path] | [![V]][VE013] |  
 
 Добавлен инструмент `vbs/path.vbs`  
+```vbs
+function relativePath(general, target)
+function isAbsolutePath(path)
+function canonicalPathList(path)
+function canonicalPath(path)
+```
 <br/>
-
 
 [![S]][VE012] **v0.1.2 (dev)**
 --------------------------------------------------------------------------------
@@ -56,6 +90,12 @@
 | 2024-02-21 | 01:30 | [#12-dev-trim] | [![V]][VE012] |  
 
 Добавлен инструмент `vbs/trim.vbs`  
+```vbs
+function trimFront(text, chars)
+function trimBack(text, chars)
+function trimBoth(text, chars)
+function trimList(lst)
+```
 <br/>
 
 
@@ -69,6 +109,9 @@
 | 2024-02-20 | 23:50 | [#11-dev-util] | [![V]][VE011] |  
 
 Добавлен инструмент `vbs/runCmd.vbs`  
+```vbs
+function runCmd(command)
+```
 <br/>
 
 
@@ -82,6 +125,9 @@
 | 2024-02-20 | 22:50 | [#10-dev-util] | [![V]][VE010] |  
 
 Добавлен инструмент `vbs/padding.vbs`  
+```vbs
+function padding(text, count, symbol)
+```
 <br/>
 
 
@@ -126,6 +172,11 @@
    С помощью которого реализована поддержка ассертов  
 2. Добавлены юнит-тесты.  
    Сценарии: 1 - 5  
+
+```vbs
+sub exitByAssert(from, desc)
+sub assert(from, desc, v)
+```
 <br/>
 
 
@@ -140,7 +191,10 @@
 
 Добавлен файл `vbs/errCode.vbs`  
 Файл содержит глобальные индентификаторы кодов ошибок,  
-и функцию `errorString`  
+и функцию:  
+```vbs
+function errorString(v)
+```
 <br/>
 
 
@@ -156,6 +210,9 @@
 Добавлен файл `vbs/twoDigits.vbs`  
 Инструмент служит для выравнивания числа по двум символам.  
 Если количество цифр в числе не равно 1, тогда добавляется нолик спереди.  
+```vbs
+function twoDigits(num)
+```
 <br/>
 
 
@@ -170,6 +227,10 @@
 
 Добавлен файл `vbs/echo.vbs`  
 Содержит функции `echo` и `dbg` для вывода текста в консоль  
+```vbs
+sub echo(deep, msg)
+sub dbg(deep, v)
+```
 <br/>
 
 
@@ -185,6 +246,13 @@
 Добавлен файл `vbs/glob.vbs`  
 Содержит набор стандартных глобальных переменных,  
 которые нужны практически каждому гибриду.  
+```vbs
+set g_list   = CreateObject("System.Collections.ArrayList")
+set g_fso    = CreateObject("Scripting.FileSystemObject")
+set g_regexp = CreateObject("VBScript.RegExp")
+set g_shell  = CreateObject("WScript.Shell")
+set g_env    = g_shell.Environment("PROCESS")
+```
 <br/>
 
 
