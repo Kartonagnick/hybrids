@@ -1,7 +1,7 @@
 @echo off & call :checkParent || exit /b
 
 rem --- local/hybrids                           [test][mask/maskToRegexp-2/make]
-rem [2024-02-23][07:30:00] 001 Kartonagnick PRE
+rem [2024-02-23][07:30:00] 001 Kartonagnick    
 
 rem ============================================================================
 rem ============================================================================
