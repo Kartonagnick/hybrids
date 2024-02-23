@@ -1,6 +1,6 @@
 
 '--- local/hybrids                          [test/mask/maskToRegexp-1][main.vbs]
-'[2024-02-23][07:30:00] 001 Kartonagnick PRE
+'[2024-02-23][07:30:00] 001 Kartonagnick    
 '  --- CastleOfDreams/hybrids                     [test][maskToRegexp][case.vbs]
 '  [2022-02-06][19:00:00] 001 Kartonagnick
 '    --- CastleOfDreams/vbs                             [test][maskToRegexp.vbs]
