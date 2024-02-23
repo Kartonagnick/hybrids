@@ -7,11 +7,14 @@
 [E]: icons/empty.png     "нет данных"
 [N]: icons/na.png        "не доступно"
 
-[![S]][H] Хронология v0.1.8
+[![P]][H] Хронология v0.1.9
 ---------------------------
 
 | **ID** |      версия     |    дата    | время |      ветка       | status  |  продукт  |  
 |:------:|:---------------:|:----------:|:-----:|:----------------:|:-------:|:---------:|  
+|  0054  | 0.1.9 [![S]][M] | 2024-02-23 | 08:20 | [#19-tst-mask]   | VERSION |   0.1.9   |  
+|  0053  | 0.1.9 [![S]][M] | 2024-02-23 | 08:10 | [#19-tst-mask]   |  DONE   |   0.1.9   |  
+|  0052  | 0.1.9 [![E]][M] | 2024-02-23 | 07:40 | [#19-tst-mask]   |  BEGIN  |   0.1.9   |  
 |  0051  | 0.1.8 [![S]][M] | 2024-02-23 | 07:30 | [#18-tst-mask]   | VERSION |   0.1.8   |  
 |  0050  | 0.1.8 [![S]][M] | 2024-02-23 | 07:20 | [#18-tst-mask]   |  DONE   |   0.1.8   |  
 |  0049  | 0.1.8 [![E]][M] | 2024-02-23 | 07:10 | [#18-tst-mask]   |  BEGIN  |   0.1.8   |  
@@ -86,6 +89,7 @@
 [#13-dev-path]:   history.md#-v013-dev
 [#14-dev-util]:   history.md#-v014-dev
 [#15-dev-minmax]: history.md#-v015-dev
-[#16-dev-array]:  history.md#-v015-dev
-[#17-dev-mask]:   history.md#-v016-dev
-[#18-tst-mask]:   history.md#-v017-dev
+[#16-dev-array]:  history.md#-v016-dev
+[#17-dev-mask]:   history.md#-v017-dev
+[#18-tst-mask]:   history.md#-v018-tst
+[#19-tst-mask]:   history.md#-v019-tst
