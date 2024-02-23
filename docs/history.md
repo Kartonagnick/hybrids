@@ -61,7 +61,7 @@
 
 --------------------------------------------------------------------------------
 
-[![P]][H] **v0.1.7 (dev)**
+[![S]][H] **v0.1.7 (dev)**
 --------------------------------------------------------------------------------
 [![V]][VE017] [![2024-02-23 06:50]][VE016]  
 
@@ -74,28 +74,28 @@
 | 2024-02-23 | 02:20 | [#17-dev-mask] | BEGIN  |  
 
 1. upd: `docs`  
-   - upd: `logo.png`                 (017) PRE  
-   - upd: `changelog.md`             (017) PRE  
-   - upd: `history.md`               (017) PRE  
-   - upd: `chrono.md`                (017) PRE  
-   - upd: `docs.md`                  (017) PRE  
-   - add: `docs/mask.md`             (001) PRE  
+   - upd: `logo.png`                  017  
+   - upd: `changelog.md`              017  
+   - upd: `history.md`                017  
+   - upd: `chrono.md`                 017  
+   - upd: `docs.md`                   017  
+   - add: `docs/mask.md`              001  
 2. upd: `vbs`  
-   - upd: `vbs.ver`                  (014) PRE  
-   - add: `mask.vbs`                 (001) PRE  
+   - upd: `vbs.ver`                   014  
+   - add: `mask.vbs`                  001  
 3. upd: `test`  
-   - upd: `test.ver`                 (016) PRE  
+   - upd: `test.ver`                  016  
 4. add: `test/mask/MaskExp`  
-   - add: `make.bat`                 (001) PRE  
-   - add: `test-[wsf].bat`           (001) PRE  
-   - add: `test-[vbs].bat`           (001) PRE  
+   - add: `make.bat`                  001  
+   - add: `test-[wsf].bat`            001  
+   - add: `test-[vbs].bat`            001  
 5. add: `test/mask/MaskExp/sources`  
-   - add: `toRegexp.vbs`             (001) PRE  
-   - add: `countInclude.vbs`         (001) PRE  
-   - add: `countExclude.vbs`         (001) PRE  
-   - add: `match.vbs`                (001) PRE  
-   - add: `struct.txt`               (001) PRE  
-6. upd: `project.root`               (017) PRE  
+   - add: `toRegexp.vbs`              001  
+   - add: `countInclude.vbs`          001  
+   - add: `countExclude.vbs`          001  
+   - add: `match.vbs`                 001  
+   - add: `struct.txt`                001  
+6. upd: `project.root`                017  
 
 [#17-dev-mask]: tasks/2024-02-23-0017-dev-mask.md
 <div/>
@@ -228,28 +228,28 @@
 | 2024-02-21 | 11:30 | [#13-dev-path] | BEGIN  |  
 
 1. upd: `docs`  
-   - upd: `logo.png`              (013) PRE  
-   - upd: `changelog.md`          (013) PRE  
-   - upd: `chrono.md`             (013) PRE  
-   - upd: `history.md`            (013) PRE  
-   - upd: `docs.md`               (013) PRE  
-   - add: `docs/path.md`          (001) PRE  
+   - upd: `logo.png`               013  
+   - upd: `changelog.md`           013  
+   - upd: `chrono.md`              013  
+   - upd: `history.md`             013  
+   - upd: `docs.md`                013  
+   - add: `docs/path.md`           001  
 2. upd: `test`  
-   - upd: `test.ver`              (012) PRE  
+   - upd: `test.ver`               012  
 3. add: `test/path`  
-   - add: `make.bat`              (001) PRE  
-   - add: `test-[vbs].bat`        (001) PRE  
-   - add: `test-[wsf].bat`        (001) PRE  
+   - add: `make.bat`               001  
+   - add: `test-[vbs].bat`         001  
+   - add: `test-[wsf].bat`         001  
 4. add: `test/path/sources`  
-   - add: `canonicalPath.vbs`     (001) PRE  
-   - add: `relativePath.vbs`      (001) PRE  
-   - add: `isAbsolutePath.vbs`    (001) PRE  
-   - add: `canonicalPathList.vbs` (001) PRE  
-   - add: `struct.txt`            (001) PRE  
+   - add: `canonicalPath.vbs`      001  
+   - add: `relativePath.vbs`       001  
+   - add: `isAbsolutePath.vbs`     001  
+   - add: `canonicalPathList.vbs`  001  
+   - add: `struct.txt`             001  
 5. upd: `vbs`  
-   - upd: `vbs.ver`               (010) PRE  
-   - add: `path.vbs`              (001) PRE  
-6. upd: `project.root`            (013) PRE  
+   - upd: `vbs.ver`                010  
+   - add: `path.vbs`               001  
+6. upd: `project.root`             013  
 
 [#13-dev-path]: tasks/2024-02-21-0013-dev-path.md
 <div/>

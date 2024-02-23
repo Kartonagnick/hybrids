@@ -3,7 +3,7 @@
 #===============================================================================
 
 # local/hybrids                                       [mask/MaskExp][struct.txt]
-# [2024-02-23][06:50:00] 001 Kartonagnick PRE
+# [2024-02-23][06:50:00] 001 Kartonagnick    
 
 # mode = absolute
 # mode = relative
