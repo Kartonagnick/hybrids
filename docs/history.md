@@ -61,6 +61,60 @@
 
 --------------------------------------------------------------------------------
 
+[![P]][H] **v0.1.7 (dev)**
+--------------------------------------------------------------------------------
+[![V]][VE017] [![2024-02-23 06:50]][VE016]  
+
+[2024-02-23 06:50]: https://img.shields.io/static/v1?label=2024-02-23&message=06:50&color=yellowgreen
+[VE017]: changelog.md#-v017-dev
+
+|    дата    | время |     ветка      | статус |  
+|:----------:|:-----:|:--------------:|:------:|  
+| 2024-02-23 | 06:40 | [#17-dev-mask] | DONE   |  
+| 2024-02-23 | 02:20 | [#17-dev-mask] | BEGIN  |  
+
+1. upd: `docs`  
+   - upd: `logo.png`         (017) PRE  
+   - upd: `changelog.md`     (017) PRE  
+   - upd: `history.md`       (017) PRE  
+   - upd: `chrono.md`        (017) PRE  
+   - upd: `docs.md`          (017) PRE  
+   - add: `docs/mask.md`     (001) PRE  
+2. upd: `vbs`  
+   - upd: `vbs.ver`          (014) PRE  
+   - add: `mask.vbs`         (001) PRE  
+3. upd: `test`  
+   - upd: `test.ver`         (016) PRE  
+4. add: `test/mask/MaskExp.toRegexp`  
+   - add: `make.bat`         (001) PRE  
+   - add: `test-[wsf].bat`   (001) PRE  
+   - add: `test-[vbs].bat`   (001) PRE  
+   - add: `sources/main.vbs` (001) PRE  
+   - add: `sources/test.wsf` (001) PRE  
+5. add: `test/mask/MaskExp.match`  
+   - add: `make.bat`         (001) PRE  
+   - add: `test-[wsf].bat`   (001) PRE  
+   - add: `test-[vbs].bat`   (001) PRE  
+   - add: `sources/main.vbs` (001) PRE  
+   - add: `sources/test.wsf` (001) PRE  
+6. add: `test/mask/MaskExp.countInclude`  
+   - add: `make.bat`         (001) PRE  
+   - add: `test-[wsf].bat`   (001) PRE  
+   - add: `test-[vbs].bat`   (001) PRE  
+   - add: `sources/main.vbs` (001) PRE  
+   - add: `sources/test.wsf` (001) PRE  
+7. add: `test/mask/MaskExp.countExclude`  
+   - add: `make.bat`         (001) PRE  
+   - add: `test-[wsf].bat`   (001) PRE  
+   - add: `test-[vbs].bat`   (001) PRE  
+   - add: `sources/main.vbs` (001) PRE  
+   - add: `sources/test.wsf` (001) PRE  
+8. upd: `project.root`       (017) PRE  
+
+[#17-dev-mask]: tasks/2024-02-23-0017-dev-mask.md
+<div/>
+
+
 [![S]][H] **v0.1.6 (dev)**
 --------------------------------------------------------------------------------
 [![V]][VE016] [![2024-02-22 17:40]][VE016]  
