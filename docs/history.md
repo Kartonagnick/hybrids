@@ -62,9 +62,60 @@
 --------------------------------------------------------------------------------
 
 
+[![P]][H] **v0.2.0 (tst)**
+--------------------------------------------------------------------------------
+[![V]][VE020] [![2024-02-23 08:50]][VE020]  
+
+[2024-02-23 08:50]: https://img.shields.io/static/v1?label=2024-02-23&message=08:50&color=yellowgreen
+[VE020]: changelog.md#-v020-tst
+
+|    дата    | время |     ветка      | статус |  
+|:----------:|:-----:|:--------------:|:------:|  
+| 2024-02-23 | 08:40 | [#20-tst-mask] | DONE   |  
+| 2024-02-23 | 08:30 | [#20-tst-mask] | BEGIN  |  
+
+1. upd: `docs`  
+   - upd: `logo.png`         (020) PRE  
+   - upd: `changelog.md`     (020) PRE  
+   - upd: `chrono.md`        (020) PRE  
+   - upd: `history.md`       (020) PRE  
+   - upd: `docs.md`          (020) PRE  
+   - upd: `docs/mask.md`     (001) PRE  
+1. upd: `test`  
+   - upd: `test.ver`         (019) PRE  
+2. add: `test/mask/versionByRegexp`  
+   - add: `make.bat`         (001) PRE  
+   - add: `test-[wsf].bat`   (001) PRE  
+   - add: `test-[vbs].bat`   (001) PRE  
+   - add: `sources/main.vbs` (001) PRE  
+   - add: `sources/test.wsf` (001) PRE  
+2. add: `test/mask/matchByRegexp`  
+   - add: `make.bat`         (001) PRE  
+   - add: `test-[wsf].bat`   (001) PRE  
+   - add: `test-[vbs].bat`   (001) PRE  
+   - add: `sources/main.vbs` (001) PRE  
+   - add: `sources/test.wsf` (001) PRE  
+3. add: `test/mask/checkByRegexp`  
+   - add: `make.bat`         (001) PRE  
+   - add: `test-[wsf].bat`   (001) PRE  
+   - add: `test-[vbs].bat`   (001) PRE  
+   - add: `sources/main.vbs` (001) PRE  
+   - add: `sources/test.wsf` (001) PRE  
+4. add: `test/mask/checkByMasks`  
+   - add: `make.bat`         (001) PRE  
+   - add: `test-[wsf].bat`   (001) PRE  
+   - add: `test-[vbs].bat`   (001) PRE  
+   - add: `sources/main.vbs` (001) PRE  
+   - add: `sources/test.wsf` (001) PRE  
+5. upd: `project.root`       (020) PRE  
+
+[#20-tst-mask]: tasks/2024-02-23-0020-tst-mask.md
+<div/>
+
+
 [![S]][H] **v0.1.9 (tst)**
 --------------------------------------------------------------------------------
-[![V]][VE018] [![2024-02-23 08:20]][VE018]  
+[![V]][VE019] [![2024-02-23 08:20]][VE019]  
 
 [2024-02-23 08:20]: https://img.shields.io/static/v1?label=2024-02-23&message=08:20&color=yellowgreen
 [VE019]: changelog.md#-v019-tst
