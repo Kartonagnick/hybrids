@@ -1,7 +1,8 @@
 @echo off & call :checkParent || exit /b
 
-rem --- local/hybrids                                    [mask/MaskExp/make.bat]
-rem [2024-02-23][06:50:00] 001 Kartonagnick PRE
+rem --- local/hybrids                       [test][MaskExp.match/test-[vbs].bat]
+rem [2024-02-23][06:50:00] 001 Kartonagnick    
+
 rem ============================================================================
 rem ============================================================================
 
