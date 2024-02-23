@@ -7,6 +7,38 @@
 [![S]][H] Новости проекта
 =========================
 
+[![P]][VE017] **v0.1.7 (dev)**
+--------------------------------------------------------------------------------
+[#17-dev-mask]: tasks/2024-02-23-0017-dev-mask.md
+[VE017]: history.md#-v017-dev
+
+|    дата    | время |      ветка     |    статус     |  
+|:----------:|:-----:|:--------------:|:-------------:|  
+| 2024-02-23 | 06:50 | [#17-dev-mask] | [![V]][VE017] |  
+
+Добавлен инструмент `vbs/mask.vbs`  
+
+```vbs
+functions:
+  function maskToRegexp(mask)
+  function masksToRegexp(masks)
+  function matchByRegexp(text, regex)
+  function matchByInclude(text, list)
+  function matchByExclude(text, list)
+  function checkByRegexp(text, includes, excludes)
+
+  function matchByMask(text, mask)
+  function matchByMasks(text, masks)
+  function checkByMasks(text, includes, excludes)
+
+  function versionByRegexp(prefix, line)
+
+classes
+  class MaskExp
+```
+<br/>
+
+
 [![S]][VE016] **v0.1.6 (dev)**
 --------------------------------------------------------------------------------
 [#16-dev-array]: tasks/2024-02-22-0016-dev-array.md
