@@ -1,7 +1,7 @@
 @echo off & call :checkParent || exit /b
 
 rem --- local/hybrids                    [test][MaskExp.toRegexp/test-[vbs].bat]
-rem [2024-02-23][06:50:00] 001 Kartonagnick PRE
+rem [2024-02-23][06:50:00] 001 Kartonagnick    
 
 rem ============================================================================
 rem ============================================================================
