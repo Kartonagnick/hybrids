@@ -62,7 +62,7 @@
 --------------------------------------------------------------------------------
 
 
-[![P]][H] **v0.2.1 (tst)**
+[![S]][H] **v0.2.1 (tst)**
 --------------------------------------------------------------------------------
 [![V]][VE021] [![2024-02-23 09:20]][VE021]  
 
@@ -75,39 +75,39 @@
 | 2024-02-23 | 09:00 | [#21-tst-mask] | BEGIN  |  
 
 1. upd: `docs`  
-   - upd: `logo.png`         (021) PRE  
-   - upd: `changelog.md`     (021) PRE  
-   - upd: `history.md`       (021) PRE  
-   - upd: `chrono.md`        (021) PRE  
-   - upd: `docs.md`          (021) PRE  
-   - upd: `docs/mask.md`     (001) PRE  
+   - upd: `logo.png`          021  
+   - upd: `changelog.md`      021  
+   - upd: `history.md`        021  
+   - upd: `chrono.md`         021  
+   - upd: `docs.md`           021  
+   - upd: `docs/mask.md`      001  
 2. upd: `test`  
-   - upd: `test.ver`         (020) PRE  
+   - upd: `test.ver`          020  
 3. add: `test/mask/matchByMasks`  
-   - add: `make.bat`         (001) PRE  
-   - add: `test-[wsf].bat`   (001) PRE  
-   - add: `test-[vbs].bat`   (001) PRE  
-   - add: `sources/main.vbs` (001) PRE  
-   - add: `sources/test.wsf` (001) PRE  
+   - add: `make.bat`          001  
+   - add: `test-[wsf].bat`    001  
+   - add: `test-[vbs].bat`    001  
+   - add: `sources/main.vbs`  001  
+   - add: `sources/test.wsf`  001  
 4. add: `test/mask/matchByMask`  
-   - add: `make.bat`         (001) PRE  
-   - add: `test-[wsf].bat`   (001) PRE  
-   - add: `test-[vbs].bat`   (001) PRE  
-   - add: `sources/main.vbs` (001) PRE  
-   - add: `sources/test.wsf` (001) PRE  
+   - add: `make.bat`          001  
+   - add: `test-[wsf].bat`    001  
+   - add: `test-[vbs].bat`    001  
+   - add: `sources/main.vbs`  001  
+   - add: `sources/test.wsf`  001  
 5. add: `test/mask/matchByInclude`  
-   - add: `make.bat`         (001) PRE  
-   - add: `test-[wsf].bat`   (001) PRE  
-   - add: `test-[vbs].bat`   (001) PRE  
-   - add: `sources/main.vbs` (001) PRE  
-   - add: `sources/test.wsf` (001) PRE  
+   - add: `make.bat`          001  
+   - add: `test-[wsf].bat`    001  
+   - add: `test-[vbs].bat`    001  
+   - add: `sources/main.vbs`  001  
+   - add: `sources/test.wsf`  001  
 6. add: `test/mask/matchByExclude`  
-   - add: `make.bat`         (001) PRE  
-   - add: `test-[wsf].bat`   (001) PRE  
-   - add: `test-[vbs].bat`   (001) PRE  
-   - add: `sources/main.vbs` (001) PRE  
-   - add: `sources/test.wsf` (001) PRE  
-7. upd: `project.root`       (021) PRE  
+   - add: `make.bat`          001  
+   - add: `test-[wsf].bat`    001  
+   - add: `test-[vbs].bat`    001  
+   - add: `sources/main.vbs`  001  
+   - add: `sources/test.wsf`  001  
+7. upd: `project.root`        021  
 
 [#21-tst-mask]: tasks/2024-02-23-0021-tst-mask.md
 <div/>
