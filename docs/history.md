@@ -62,7 +62,7 @@
 --------------------------------------------------------------------------------
 
 
-[![P]][H] **v0.1.8 (dev)**
+[![S]][H] **v0.1.8 (dev)**
 --------------------------------------------------------------------------------
 [![V]][VE018] [![2024-02-23 07:30]][VE017]  
 
@@ -75,24 +75,24 @@
 | 2024-02-23 | 07:10 | [#18-tst-mask] | BEGIN  |  
 
 1. upd: `docs`  
-   - upd: `logo.png`         (018) PRE  
-   - upd: `changelog.md`     (018) PRE  
-   - upd: `history.md`       (018) PRE  
-   - upd: `chrono.md`        (018) PRE  
-   - upd: `docs.md`          (018) PRE  
-   - upd: `docs/mask.md`     (001) PRE  
+   - upd: `logo.png`          018  
+   - upd: `changelog.md`      018  
+   - upd: `history.md`        018  
+   - upd: `chrono.md`         018  
+   - upd: `docs.md`           018  
+   - upd: `docs/mask.md`      001  
 2. upd: `test`  
-   - upd: `test.ver`         (017) PRE  
+   - upd: `test.ver`          017  
 3. add: `test/mask/maskToRegexp`  
-   - add: `make.bat`         (001) PRE  
-   - add: `test-[vbs].bat`   (001) PRE  
-   - add: `test-[wsf].bat`   (001) PRE  
+   - add: `make.bat`          001  
+   - add: `test-[vbs].bat`    001  
+   - add: `test-[wsf].bat`    001  
 4. add: `test/mask/maskToRegexp/sources`  
-   - add: `assert-2.vbs`     (001) PRE  
-   - add: `assert-1.vbs`     (001) PRE  
-   - add: `main.vbs`         (001) PRE  
-   - add: `struct.txt`       (001) PRE  
-5. upd: `project.root`       (018) PRE  
+   - add: `assert-2.vbs`      001  
+   - add: `assert-1.vbs`      001  
+   - add: `main.vbs`          001  
+   - add: `struct.txt`        001  
+5. upd: `project.root`        018  
 
 [#18-tst-mask]: tasks/2024-02-23-0018-tst-mask.md
 <div/>
