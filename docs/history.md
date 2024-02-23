@@ -61,6 +61,52 @@
 
 --------------------------------------------------------------------------------
 
+
+[![P]][H] **v0.1.8 (dev)**
+--------------------------------------------------------------------------------
+[![V]][VE018] [![2024-02-23 07:30]][VE017]  
+
+[2024-02-23 07:30]: https://img.shields.io/static/v1?label=2024-02-23&message=07:30&color=yellowgreen
+[VE018]: changelog.md#-v018-tst
+
+|    дата    | время |     ветка      | статус |  
+|:----------:|:-----:|:--------------:|:------:|  
+| 2024-02-23 | 07:20 | [#18-tst-mask] | DONE   |  
+| 2024-02-23 | 07:10 | [#18-tst-mask] | BEGIN  |  
+
+1. upd: `docs`  
+   - upd: `logo.png`         (018) PRE  
+   - upd: `changelog.md`     (018) PRE  
+   - upd: `history.md`       (018) PRE  
+   - upd: `chrono.md`        (018) PRE  
+   - upd: `docs.md`          (018) PRE  
+   - upd: `docs/mask.md`     (001) PRE  
+2. upd: `test`  
+   - upd: `test.ver`         (017) PRE  
+3. add: `test/mask/maskToRegexp-1`  
+   - add: `make.bat`         (001) PRE  
+   - add: `test-[wsf].bat`   (001) PRE  
+   - add: `test-[vbs].bat`   (001) PRE  
+   - add: `sources/main.vbs` (001) PRE  
+   - add: `sources/test.wsf` (001) PRE  
+2. add: `test/mask/maskToRegexp-2`  
+   - add: `make.bat`         (001) PRE  
+   - add: `test-[wsf].bat`   (001) PRE  
+   - add: `test-[vbs].bat`   (001) PRE  
+   - add: `sources/main.vbs` (001) PRE  
+   - add: `sources/test.wsf` (001) PRE  
+3. add: `test/mask/maskToRegexp-3`  
+   - add: `make.bat`         (001) PRE  
+   - add: `test-[wsf].bat`   (001) PRE  
+   - add: `test-[vbs].bat`   (001) PRE  
+   - add: `sources/main.vbs` (001) PRE  
+   - add: `sources/test.wsf` (001) PRE  
+4. upd: `project.root`       (018) PRE  
+
+[#18-tst-mask]: tasks/2024-02-23-0018-tst-mask.md
+<div/>
+
+
 [![S]][H] **v0.1.7 (dev)**
 --------------------------------------------------------------------------------
 [![V]][VE017] [![2024-02-23 06:50]][VE016]  
