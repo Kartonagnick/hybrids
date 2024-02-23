@@ -62,7 +62,44 @@
 --------------------------------------------------------------------------------
 
 
-[![S]][H] **v0.1.8 (dev)**
+[![P]][H] **v0.1.9 (tst)**
+--------------------------------------------------------------------------------
+[![V]][VE018] [![2024-02-23 08:20]][VE018]  
+
+[2024-02-23 08:20]: https://img.shields.io/static/v1?label=2024-02-23&message=08:20&color=yellowgreen
+[VE019]: changelog.md#-v019-tst
+
+|    дата    | время |     ветка      | статус |  
+|:----------:|:-----:|:--------------:|:------:|  
+| 2024-02-23 | 08:10 | [#19-tst-mask] | DONE   |  
+| 2024-02-23 | 07:40 | [#19-tst-mask] | BEGIN  |  
+
+1. upd: `docs`  
+   - upd: `logo.png`         (019) PRE  
+   - upd: `changelog.md`     (019) PRE  
+   - upd: `history.md`       (019) PRE  
+   - upd: `chrono.md`        (019) PRE  
+   - upd: `docs.md`          (019) PRE  
+   - upd: `docs/mask.md`     (001) PRE  
+2. upd: `test`  
+   - upd: `test.ver`         (018) PRE  
+3. add: `test/mask/masksToRegexp`  
+   - add: `make.bat`         (001) PRE  
+   - add: `test-[vbs].bat`   (001) PRE  
+   - add: `test-[wsf].bat`   (001) PRE  
+4. add: `test/mask/masksToRegexp/sources`  
+   - add: `assert-3.vbs`     (001) PRE  
+   - add: `assert-2.vbs`     (001) PRE  
+   - add: `assert-1.vbs`     (001) PRE  
+   - add: `main.vbs`         (001) PRE  
+   - add: `struct.txt`       (001) PRE  
+5. upd: `project.root`       (019) PRE  
+
+[#19-tst-mask]: tasks/2024-02-23-0019-tst-mask.md
+<div/>
+
+
+[![S]][H] **v0.1.8 (tst)**
 --------------------------------------------------------------------------------
 [![V]][VE018] [![2024-02-23 07:30]][VE017]  
 
@@ -100,7 +137,7 @@
 
 [![S]][H] **v0.1.7 (dev)**
 --------------------------------------------------------------------------------
-[![V]][VE017] [![2024-02-23 06:50]][VE016]  
+[![V]][VE017] [![2024-02-23 06:50]][VE017]  
 
 [2024-02-23 06:50]: https://img.shields.io/static/v1?label=2024-02-23&message=06:50&color=yellowgreen
 [VE017]: changelog.md#-v017-dev
