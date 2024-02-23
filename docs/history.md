@@ -62,7 +62,7 @@
 --------------------------------------------------------------------------------
 
 
-[![P]][H] **v0.1.9 (tst)**
+[![S]][H] **v0.1.9 (tst)**
 --------------------------------------------------------------------------------
 [![V]][VE018] [![2024-02-23 08:20]][VE018]  
 
@@ -75,39 +75,39 @@
 | 2024-02-23 | 07:40 | [#19-tst-mask] | BEGIN  |  
 
 1. upd: `docs`  
-   - upd: `logo.png`         (019) PRE  
-   - upd: `changelog.md`     (019) PRE  
-   - upd: `history.md`       (019) PRE  
-   - upd: `chrono.md`        (019) PRE  
-   - upd: `docs.md`          (019) PRE  
-   - upd: `docs/mask.md`     (001) PRE  
+   - upd: `logo.png`          019  
+   - upd: `changelog.md`      019  
+   - upd: `history.md`        019  
+   - upd: `chrono.md`         019  
+   - upd: `docs.md`           019  
+   - upd: `docs/mask.md`      001  
 2. upd: `test`  
-   - upd: `test.ver`         (018) PRE  
+   - upd: `test.ver`          018  
 3. add: `test/mask/masksToRegexp-1`  
-   - add: `make.bat`         (001) PRE  
-   - add: `test-[wsf].bat`   (001) PRE  
-   - add: `test-[vbs].bat`   (001) PRE  
-   - add: `sources/main.vbs` (001) PRE  
-   - add: `sources/test.wsf` (001) PRE  
+   - add: `make.bat`          001  
+   - add: `test-[wsf].bat`    001  
+   - add: `test-[vbs].bat`    001  
+   - add: `sources/main.vbs`  001  
+   - add: `sources/test.wsf`  001  
 4. add: `test/mask/masksToRegexp-2`  
-   - add: `make.bat`         (001) PRE  
-   - add: `test-[wsf].bat`   (001) PRE  
-   - add: `test-[vbs].bat`   (001) PRE  
-   - add: `sources/main.vbs` (001) PRE  
-   - add: `sources/test.wsf` (001) PRE  
+   - add: `make.bat`          001  
+   - add: `test-[wsf].bat`    001  
+   - add: `test-[vbs].bat`    001  
+   - add: `sources/main.vbs`  001  
+   - add: `sources/test.wsf`  001  
 3. add: `test/mask/masksToRegexp-3`  
-   - add: `make.bat`         (001) PRE  
-   - add: `test-[wsf].bat`   (001) PRE  
-   - add: `test-[vbs].bat`   (001) PRE  
-   - add: `sources/main.vbs` (001) PRE  
-   - add: `sources/test.wsf` (001) PRE  
+   - add: `make.bat`          001  
+   - add: `test-[wsf].bat`    001  
+   - add: `test-[vbs].bat`    001  
+   - add: `sources/main.vbs`  001  
+   - add: `sources/test.wsf`  001  
 4. add: `test/mask/masksToRegexp-4`  
-   - add: `make.bat`         (001) PRE  
-   - add: `test-[wsf].bat`   (001) PRE  
-   - add: `test-[vbs].bat`   (001) PRE  
-   - add: `sources/main.vbs` (001) PRE  
-   - add: `sources/test.wsf` (001) PRE  
-5. upd: `project.root`       (019) PRE  
+   - add: `make.bat`          001  
+   - add: `test-[wsf].bat`    001  
+   - add: `test-[vbs].bat`    001  
+   - add: `sources/main.vbs`  001  
+   - add: `sources/test.wsf`  001  
+5. upd: `project.root`        019  
 
 [#19-tst-mask]: tasks/2024-02-23-0019-tst-mask.md
 <div/>
