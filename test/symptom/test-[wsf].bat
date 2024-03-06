@@ -1,7 +1,7 @@
 @echo off & call :checkParent || exit /b
 
 rem --- local/hybrids                             [test][symptom/test-[wsf].bat]
-rem [2024-03-06][06:20:00] 001 Kartonagnick PRE
+rem [2024-03-06][06:20:00] 001 Kartonagnick    
 rem ============================================================================
 rem ============================================================================
 
