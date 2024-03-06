@@ -61,7 +61,7 @@
 
 --------------------------------------------------------------------------------
 
-[![P]][H] **v0.2.2 (dev)**
+[![S]][H] **v0.2.2 (dev)**
 --------------------------------------------------------------------------------
 [![V]][VE022] [![2024-03-06 06:20]][VE022]  
 
@@ -74,25 +74,25 @@
 | 2024-03-06 | 05:10 | [#22-dev-symptom] | BEGIN  |  
 
 1. upd: `docs`  
-   - upd: `logo.png`            (022) PRE  
-   - upd: `changelog.md`        (022) PRE  
-   - upd: `history.md`          (022) PRE  
-   - upd: `chrono.md`           (022) PRE  
-   - upd: `docs.md`             (022) PRE  
-   - add: `docs/symptom.md`     (001) PRE  
+   - upd: `logo.png`             022  
+   - upd: `changelog.md`         022  
+   - upd: `history.md`           022  
+   - upd: `chrono.md`            022  
+   - upd: `docs.md`              022  
+   - add: `docs/symptom.md`      001  
 2. upd: `vbs/vbs.ver`  
-   - upd: `vbs.ver`             (015) PRE  
-   - add: `symptom.vbs`         (002) PRE  
+   - upd: `vbs.ver`              015  
+   - add: `symptom.vbs`          002  
 3. upd: `test`  
-   - upd: `test.ver`            (021) PRE  
+   - upd: `test.ver`             021  
 4. add: `test/symptom`  
-   - add: `make.bat`            (001) PRE  
-   - add: `test-[wsf].bat`      (001) PRE  
-   - add: `test-[vbs].bat`      (001) PRE  
-   - add: `sources/sandbox` ... (002) PRE  
-   - add: `sources/test.wsf`    (001) PRE  
-   - add: `sources/main.vbs`    (002) PRE  
-5. upd: `project.root`          (022) PRE  
+   - add: `make.bat`             001  
+   - add: `test-[wsf].bat`       001  
+   - add: `test-[vbs].bat`       001  
+   - add: `sources/sandbox` ...  002  
+   - add: `sources/test.wsf`     001  
+   - add: `sources/main.vbs`     002  
+5. upd: `project.root`           022  
 
 [#22-dev-symptom]: tasks/2024-03-06-0022-dev-symptom.md
 <div/>
