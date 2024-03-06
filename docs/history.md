@@ -61,6 +61,42 @@
 
 --------------------------------------------------------------------------------
 
+[![P]][H] **v0.2.2 (dev)**
+--------------------------------------------------------------------------------
+[![V]][VE022] [![2024-03-06 06:20]][VE022]  
+
+[2024-03-06 06:20]: https://img.shields.io/static/v1?label=2024-03-06&message=06:20&color=yellowgreen
+[VE022]: changelog.md#-v022-dev
+
+|    дата    | время |       ветка       | статус |  
+|:----------:|:-----:|:-----------------:|:------:|  
+| 2024-03-06 | 06:10 | [#22-dev-symptom] | DONE   |  
+| 2024-03-06 | 05:10 | [#22-dev-symptom] | BEGIN  |  
+
+1. upd: `docs`  
+   - upd: `logo.png`            (022) PRE  
+   - upd: `changelog.md`        (022) PRE  
+   - upd: `history.md`          (022) PRE  
+   - upd: `chrono.md`           (022) PRE  
+   - upd: `docs.md`             (022) PRE  
+   - add: `docs/symptom.md`     (001) PRE  
+2. upd: `vbs/vbs.ver`  
+   - upd: `vbs.ver`             (015) PRE  
+   - add: `symptom.vbs`         (002) PRE  
+3. upd: `test`  
+   - upd: `test.ver`            (021) PRE  
+4. add: `test/symptom`  
+   - add: `make.bat`            (001) PRE  
+   - add: `test-[wsf].bat`      (001) PRE  
+   - add: `test-[vbs].bat`      (001) PRE  
+   - add: `sources/sandbox` ... (002) PRE  
+   - add: `sources/test.wsf`    (001) PRE  
+   - add: `sources/main.vbs`    (002) PRE  
+5. upd: `project.root`          (022) PRE  
+
+[#22-dev-symptom]: tasks/2024-03-06-0022-dev-symptom.md
+<div/>
+
 
 [![S]][H] **v0.2.1 (tst)**
 --------------------------------------------------------------------------------
