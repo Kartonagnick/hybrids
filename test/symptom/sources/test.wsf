@@ -1,0 +1,17 @@
+
+<!-- 
+... local/hybrids                                       [test/symptom][test.wsf]
+[2024-03-06][06:20:00] 001 Kartonagnick PRE
+-->
+
+<job>
+  <script language='VBScript' src='../../test.ver'/>
+  <script language='VBScript' src='../../init.vbs'/>
+  <script language='VBScript' src='../../../vbs/errCode.vbs'/>
+  <script language='VBScript' src='../../../vbs/glob.vbs'/>
+  <script language='VBScript' src='../../../vbs/echo.vbs'/>
+  <script language='VBScript' src='../../../vbs/mask.vbs'/>
+  <script language='VBScript' src='../../../vbs/symptom.vbs'/>
+  <script language='VBScript' src='../../staff/except.vbs'/>
+  <script language='VBScript' src='main.vbs'/>
+</job>
