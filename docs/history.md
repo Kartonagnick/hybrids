@@ -61,6 +61,46 @@
 
 --------------------------------------------------------------------------------
 
+
+[![P]][H] **v0.2.3 (dev)**
+--------------------------------------------------------------------------------
+[![V]][VE023] [![2024-03-07 23:50]][VE023]  
+
+[2024-03-07 23:50]: https://img.shields.io/static/v1?label=2024-03-07&message=23:50&color=yellowgreen
+[VE023]: changelog.md#-v023-dev
+
+|    дата    | время |       ветка       | статус |  
+|:----------:|:-----:|:-----------------:|:------:|  
+| 2024-03-06 | 23:40 | [#23-dev-find_in] | DONE   |  
+| 2024-03-06 | 20:00 | [#23-dev-find_in] | BEGIN  |  
+
+1. upd: `docs`  
+   - upd: `logo.png`              (023) PRE  
+   - upd: `changelog.md`          (023) PRE  
+   - upd: `history.md`            (023) PRE  
+   - upd: `chrono.md`             (023) PRE  
+   - upd: `docs.md`               (023) PRE  
+   - add: `docs/find_in.md`       (002) PRE  
+2. upd: `vbs`  
+   - upd: `vbs.ver`               (016) PRE  
+   - add: `find_in.vbs`           (002) PRE  
+3. upd: `test`  
+   - upd: `test.ver`              (022) PRE  
+4. add: `test/find_in`  
+   - add: `make.bat`              (001) PRE  
+   - add: `test-[wsf].bat`        (001) PRE  
+   - add: `test-[vbs].bat`        (001) PRE  
+   - add: `sources/test.wsf`      (001) PRE  
+   - add: `sources/main.vbs`      (002) PRE  
+   - add: `sources/sandbox-1` ... (002) PRE  
+   - add: `sources/sandbox-2` ... (002) PRE  
+   - add: `sources/sandbox-3` ... (002) PRE  
+5. upd: `project.root`            (023) PRE  
+
+[#23-dev-find_in]: tasks/2024-03-07-0023-dev-find_in.md
+<div/>
+
+
 [![S]][H] **v0.2.2 (dev)**
 --------------------------------------------------------------------------------
 [![V]][VE022] [![2024-03-06 06:20]][VE022]  
