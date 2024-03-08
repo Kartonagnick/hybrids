@@ -61,7 +61,7 @@
 
 --------------------------------------------------------------------------------
 
-[![P]][H] **v0.2.4 (dev)**
+[![S]][H] **v0.2.4 (dev)**
 --------------------------------------------------------------------------------
 [![V]][VE024] [![2024-03-09 19:00]][VE024]  
 
@@ -74,30 +74,30 @@
 | 2024-03-08 | 18:30 | [#24-dev-mask] | BEGIN  |  
 
 1. upd: `docs`  
-   - upd: `logo.png`         (024) PRE  
-   - upd: `changelog.md`     (024) PRE  
-   - upd: `history.md`       (024) PRE  
-   - upd: `chrono.md`        (024) PRE  
-   - upd: `docs.md`          (024) PRE  
-   - upd: `docs/mask.md`     (002) PRE  
+   - upd: `logo.png`          024  
+   - upd: `changelog.md`      024  
+   - upd: `history.md`        024  
+   - upd: `chrono.md`         024  
+   - upd: `docs.md`           024  
+   - upd: `docs/mask.md`      002  
 2. upd: `vbs`  
-   - upd: `vbs.ver`          (017) PRE  
-   - upd: `mask.vbs`         (002) PRE  
+   - upd: `vbs.ver`           017  
+   - upd: `mask.vbs`          002  
 3. upd: `test`  
-   - upd: `test.ver`         (023) PRE  
+   - upd: `test.ver`          023  
 4. add: `test/mask/MaskExp.include`  
-   - add: `make.bat`         (001) PRE  
-   - add: `test-[wsf].bat`   (001) PRE  
-   - add: `test-[vbs].bat`   (001) PRE  
-   - add: `sources/main.vbs` (001) PRE  
-   - add: `sources/test.wsf` (001) PRE  
+   - add: `make.bat`          001  
+   - add: `test-[wsf].bat`    001  
+   - add: `test-[vbs].bat`    001  
+   - add: `sources/main.vbs`  001  
+   - add: `sources/test.wsf`  001  
 5. add: `test/mask/MaskExp.exclude`  
-   - add: `test-[wsf].bat`   (001) PRE  
-   - add: `test-[vbs].bat`   (001) PRE  
-   - add: `make.bat`         (001) PRE  
-   - add: `sources/main.vbs` (001) PRE  
-   - add: `sources/test.wsf` (001) PRE  
-6. upd: `project.root`       (024) PRE  
+   - add: `test-[wsf].bat`    001  
+   - add: `test-[vbs].bat`    001  
+   - add: `make.bat`          001  
+   - add: `sources/main.vbs`  001  
+   - add: `sources/test.wsf`  001  
+6. upd: `project.root`        024  
 
 [#24-dev-mask]: tasks/2024-03-08-0024-dev-mask.md
 <div/>

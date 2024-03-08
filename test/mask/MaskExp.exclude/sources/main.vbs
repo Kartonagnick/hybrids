@@ -1,6 +1,6 @@
 
 '--- local/hybrids                              [test/MaskExp.exclude][main.vbs]
-'[2024-03-08][19:00:00] 001 Kartonagnick PRE
+'[2024-03-08][19:00:00] 001 Kartonagnick    
 
 sub test(id, deep, text, exc, expected)
   dim check: set check = new MaskExp
