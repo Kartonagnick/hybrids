@@ -61,6 +61,38 @@
 
 --------------------------------------------------------------------------------
 
+[![P]][H] **v0.2.4 (dev)**
+--------------------------------------------------------------------------------
+[![V]][VE024] [![2024-03-09 19:00]][VE024]  
+
+[2024-03-08 19:00]: https://img.shields.io/static/v1?label=2024-03-08&message=19:00&color=yellowgreen
+[VE024]: changelog.md#-v024-dev
+
+|    дата    | время |     ветка      | статус |  
+|:----------:|:-----:|:--------------:|:------:|  
+| 2024-03-08 | 18:50 | [#24-dev-mask] | DONE   |  
+| 2024-03-08 | 18:30 | [#24-dev-mask] | BEGIN  |  
+
+1. upd: `docs`  
+   - upd: `logo.png`         (024) PRE  
+   - upd: `changelog.md`     (024) PRE  
+   - upd: `history.md`       (024) PRE  
+   - upd: `chrono.md`        (024) PRE  
+   - upd: `docs.md`          (024) PRE  
+   - upd: `docs/mask.md`     (002) PRE  
+2. upd: `vbs`  
+   - upd: `vbs.ver`          (017) PRE  
+   - upd: `mask.vbs`         (002) PRE  
+3. upd: `test`  
+   - upd: `test.ver`         (023) PRE  
+4. add: `test/mask/MaskExp/sources`  
+   - add: `exclude.vbs`      (001) PRE  
+   - add: `include.vbs`      (001) PRE  
+5. upd: `project.root`       (024) PRE  
+
+[#24-dev-mask]: tasks/2024-03-08-0024-dev-mask.md
+<div/>
+
 
 [![S]][H] **v0.2.3 (dev)**
 --------------------------------------------------------------------------------
@@ -71,8 +103,8 @@
 
 |    дата    | время |       ветка       | статус |  
 |:----------:|:-----:|:-----------------:|:------:|  
-| 2024-03-06 | 23:40 | [#23-dev-find_in] | DONE   |  
-| 2024-03-06 | 20:00 | [#23-dev-find_in] | BEGIN  |  
+| 2024-03-07 | 23:40 | [#23-dev-find_in] | DONE   |  
+| 2024-03-07 | 20:00 | [#23-dev-find_in] | BEGIN  |  
 
 1. upd: `docs`  
    - upd: `logo.png`               023  
