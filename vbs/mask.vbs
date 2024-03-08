@@ -1,6 +1,7 @@
 
 '--- local/hybrids                                                    [mask.vbs]
-'[2024-02-23][06:50:00] 001 Kartonagnick    
+'[2024-03-08][19:00:00] 002 Kartonagnick PRE
+'[2024-02-23][06:50:00] 001 Kartonagnick
 '  --- CastleOfDreams\hybrids                                         [mask.vbs]
 '  [2022-02-06][19:00:00] 001 Kartonagnick
 '    --- CastleOfDreams\vbs                                           [mask.vbs]
@@ -23,6 +24,15 @@
 '
 ' classes
 '   class MaskExp
+'     default function init(includes, excludes) 'списки масок
+'     property Let include(masks) 'список масок нужного текста
+'     property Let exclude(masks) 'список масок игнорируемого текста
+'     property Get include()      'получение списка регулярок
+'     property Get exclude()      'получение списка регулярок
+'     property Get countInclude() 'получение количества регулярок
+'     property Get countExclude() 'получение количества регулярок
+'     function toRegexp(mask)     'преобразование маски в регулярку
+'     function match(text)        'проверка соответсвия текста маскам
 
 '===============================================================================
 '===============================================================================
@@ -253,8 +263,8 @@ end function
 '===============================================================================
 '===============================================================================
 
-'empty-include -> always true
 'empty-exclude -> ignored
+'empty-include -> always true
 function checkByMasks(text, includes, excludes)
   dim rx_includes: set rx_includes = masksToRegexp(includes)
   dim rx_excludes: set rx_excludes = masksToRegexp(excludes)
@@ -268,9 +278,6 @@ class MaskExp
   private m_include
   private m_exclude
 
-'  private sub Class_Terminate()
-'  end sub
-
   private sub Class_Initialize()
     set m_include = CreateObject("System.Collections.ArrayList")
     set m_exclude = CreateObject("System.Collections.ArrayList")
@@ -282,33 +289,20 @@ class MaskExp
     set init = me
   end function
 
-'---------------------------
-
-  property Let include(masks)
-    set m_include = masksToRegexp(masks)
-  end property
-
-  property Let exclude(masks)
-    set m_exclude = masksToRegexp(masks)
-  end property
-
-  property Get countInclude()
-    countInclude = m_include.count
-  end property
-
-  property Get countExclude()
-    countExclude = m_exclude.count
-  end property
+  property Let include(masks) set m_include = masksToRegexp(masks) end property
+  property Let exclude(masks) set m_exclude = masksToRegexp(masks) end property
+  property Get include()      set include   = m_include            end property
+  property Get exclude()      set exclude   = m_exclude            end property
+  property Get countInclude() countInclude  = m_include.count      end property
+  property Get countExclude() countExclude  = m_exclude.count      end property
 
   function match(text)
-    match = _
-      checkByRegexp(text, m_include, m_exclude)
+    match = checkByRegexp(text, m_include, m_exclude)
   end function
 
   function toRegexp(mask)
     toRegexp = maskToRegexp(mask)
   end function
-
 end class
 
 '===============================================================================
