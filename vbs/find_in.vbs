@@ -1,6 +1,7 @@
 
 '--- local/hybrids                                                 [find_in.vbs]
-'[2024-03-07][23:50:00] 002 Kartonagnick    
+'[2024-03-09][04:10:00] 003 Kartonagnick PRE
+'[2024-03-07][23:50:00] 002 Kartonagnick
 '  --- CastleOfDreams\hybrids                                       [finder.vbs]
 '  [2022-03-02][19:00:00] 001 Kartonagnick
 '    --- CastleOfDreams\vbs                                        [Find_in.vbs]
@@ -11,22 +12,17 @@
 ' includeVBS("echo.vbs")
 ' includeVBS("mask.vbs")
 
-class Find_IN
+class Find_in
   private mDEBUG
   private mHIDE_SKIP
   private mHIDE_SCAN
   private mDIRS_START
-  private mINCLUDE_F
-  private mINCLUDE_D
-  private mEXCLUDE_F
-  private mEXCLUDE_D
-  private mINCLUDE_S
-  private mEXCLUDE_S
-  private mVALID_F
-  private mVALID_D
   private mFOUND_S
   private mFOUND_D
   private mFOUND_F
+  private mRegexpF
+  private mRegexpD
+  private mRegexpS
   private mONCE
   private mDONE
   private mDEEP
@@ -37,39 +33,36 @@ class Find_IN
     set init = me
   end function
 
-  property Get dirs()  set dirs  = mFOUND_D        end property
-  property Get files() set files = mFOUND_F        end property
-  property Let hideSkip(v) mHIDE_SKIP = v          end property
-  property Let hideScan(v) mHIDE_SCAN = v          end property
-  property Let debug(v)    mDEBUG     = v          end property
-  property Let once(v)     mONCE      = v          end property
+  property Get dirs()  set dirs  = mFOUND_D     end property
+  property Get files() set files = mFOUND_F     end property
+  property Let hideSkip(v) mHIDE_SKIP = v       end property
+  property Let hideScan(v) mHIDE_SCAN = v       end property
+  property Let debug(v)    mDEBUG     = v       end property
+  property Let once(v)     mONCE      = v       end property
 
-  property Let scanDirs(v) setList mDIRS_START, v  end property
-  property Let includeS(v) setList mINCLUDE_S , v  end property
-  property Let excludeS(v) setList mEXCLUDE_S , v  end property
-  property Let includeF(v) setList mINCLUDE_F , v  end property
-  property Let excludeF(v) setList mEXCLUDE_F , v  end property
-  property Let includeD(v) setList mINCLUDE_D , v  end property
-  property Let excludeD(v) setList mEXCLUDE_D , v  end property
-  property Let validF(v) setList mVALID_F     , v  end property
-  property Let validD(v) setList mVALID_D     , v  end property
+  property Let scanDirs(v) setList mDIRS_START, v end property
+
+  property Let includeS(v) mRegexpS.include = v end property
+  property Let excludeS(v) mRegexpS.exclude = v end property
+  property Let includeF(v) mRegexpF.include = v end property
+  property Let excludeF(v) mRegexpF.exclude = v end property
+  property Let includeD(v) mRegexpD.include = v end property
+  property Let excludeD(v) mRegexpD.exclude = v end property
 
   sub showParams(deep)
     dim dp: dp = deep + 1
     echo deep, ">----------[" & mSELF & "]----------<"
     showArray dp, "DIRS_START", mDIRS_START
-    if mHIDE_SKIP           then echo      dp, "HIDE_SKIP: ON"
-    if mHIDE_SCAN           then echo      dp, "HIDE_SCAN: ON"
-    if mDEBUG               then echo      dp, "DEBUG: ON"
-    if mONCE                then echo      dp, "ONCE: ON"
-    if noEmpty(mINCLUDE_F)  then showArray dp, "INCLUDE_F", mINCLUDE_F
-    if noEmpty(mINCLUDE_D)  then showArray dp, "INCLUDE_D", mINCLUDE_D
-    if noEmpty(mEXCLUDE_F)  then showArray dp, "EXCLUDE_F", mEXCLUDE_F
-    if noEmpty(mEXCLUDE_D)  then showArray dp, "EXCLUDE_D", mEXCLUDE_D
-    if noEmpty(mINCLUDE_S)  then showArray dp, "INCLUDE_S", mINCLUDE_S
-    if noEmpty(mEXCLUDE_S)  then showArray dp, "EXCLUDE_S", mEXCLUDE_S
-    if noEmpty(mVALID_F)    then showArray dp, "VALID_F"  , mVALID_F
-    if noEmpty(mVALID_D)    then showArray dp, "VALID_D"  , mVALID_D
+    if mHIDE_SKIP then echo dp, "HIDE_SKIP: ON"
+    if mHIDE_SCAN then echo dp, "HIDE_SCAN: ON"
+    if mDEBUG     then echo dp, "DEBUG: ON"
+    if mONCE      then echo dp, "ONCE: ON"
+    if noEmpty(mRegexpF.include) then showArray dp, "INCLUDE_F", mRegexpF.include
+    if noEmpty(mRegexpF.exclude) then showArray dp, "EXCLUDE_F", mRegexpF.exclude    
+    if noEmpty(mRegexpD.include) then showArray dp, "INCLUDE_D", mRegexpD.include
+    if noEmpty(mRegexpD.exclude) then showArray dp, "EXCLUDE_D", mRegexpD.exclude    
+    if noEmpty(mRegexpS.include) then showArray dp, "INCLUDE_S", mRegexpS.include
+    if noEmpty(mRegexpS.exclude) then showArray dp, "EXCLUDE_S", mRegexpS.exclude    
     echo deep, ">----------------------------<"
   end sub
 
@@ -115,7 +108,7 @@ class Find_IN
     if mDONE then exit sub
     dim f
     for each f in odir.Files
-      if checkByMasks(f, mINCLUDE_F, mEXCLUDE_F) then
+       if mRegexpF.match(f) then
         dbgPrint deep + 1, "f: add: " & f
         mFOUND_F.Add f
         if mONCE then
@@ -132,7 +125,7 @@ class Find_IN
     if mDONE then exit sub
     dim d
     for each d in odir.SubFolders
-      if checkByMasks(d, mINCLUDE_D, mEXCLUDE_D) then
+       if mRegexpD.match(d) then
         dbgPrint deep + 1, "d: add: " & d
         mFOUND_D.Add d
         if mONCE then
@@ -149,7 +142,7 @@ class Find_IN
     if mDONE then exit sub
     dim d
     for each d in odir.SubFolders
-      if checkByMasks(d, mINCLUDE_S, mEXCLUDE_S) then
+       if mRegexpS.match(d) then
         dbgScan deep + 1, "s: add: " & d
         mFOUND_S.Add(d)
       else
@@ -258,7 +251,6 @@ class Find_IN
     end if
   end function
 
-'---
   private function clear(deep)
     mFOUND_S.Clear
     mFOUND_D.Clear
@@ -279,16 +271,12 @@ class Find_IN
     mDEBUG     = false
 
     set mDIRS_START = CreateObject("System.Collections.ArrayList")
-    set mINCLUDE_F  = CreateObject("System.Collections.ArrayList")
-    set mINCLUDE_D  = CreateObject("System.Collections.ArrayList")
-    set mEXCLUDE_F  = CreateObject("System.Collections.ArrayList")
-    set mEXCLUDE_D  = CreateObject("System.Collections.ArrayList")
-    set mINCLUDE_S  = CreateObject("System.Collections.ArrayList")
-    set mEXCLUDE_S  = CreateObject("System.Collections.ArrayList")
-    set mVALID_F    = CreateObject("System.Collections.ArrayList")
-    set mVALID_D    = CreateObject("System.Collections.ArrayList")
     set mFOUND_S    = CreateObject("System.Collections.ArrayList")
     set mFOUND_D    = CreateObject("System.Collections.ArrayList")
     set mFOUND_F    = CreateObject("System.Collections.ArrayList")
+
+    set mRegexpF = new MaskExp
+    set mRegexpD = new MaskExp
+    set mRegexpS = new MaskExp
   end sub
 end class
