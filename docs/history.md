@@ -61,7 +61,7 @@
 
 --------------------------------------------------------------------------------
 
-[![P]][H] **v0.2.5 (dev)**
+[![S]][H] **v0.2.5 (dev)**
 --------------------------------------------------------------------------------
 [![V]][VE025] [![2024-03-09 04:10]][VE025]  
 
@@ -74,20 +74,20 @@
 | 2024-03-09 | 03:10 | [#25-dev-find_in] | BEGIN  |  
 
 1. upd: `docs`  
-   - upd: `logo.png`        (025) PRE  
-   - upd: `changelog.md`    (025) PRE  
-   - upd: `history.md`      (025) PRE  
-   - upd: `chrono.md`       (025) PRE  
-   - upd: `docs.md`         (025) PRE  
-   - upd: `docs/find_in.md` (003) PRE  
+   - upd: `logo.png`         025  
+   - upd: `changelog.md`     025  
+   - upd: `history.md`       025  
+   - upd: `chrono.md`        025  
+   - upd: `docs.md`          025  
+   - upd: `docs/find_in.md`  003  
 2. upd: `vbs`  
-   - upd: `vbs.ver`         (018) PRE  
-   - upd: `find_in.vbs`     (003) PRE  
+   - upd: `vbs.ver`          018  
+   - upd: `find_in.vbs`      003  
 3. upd: `test`  
-   - upd: `test.ver`        (024) PRE  
+   - upd: `test.ver`         024  
 4. upd: `find_in/sources  
-   - upd: `main.vbs`        (003) PRE  
-5. upd: `project.root`      (025) PRE  
+   - upd: `main.vbs`         003  
+5. upd: `project.root`       025  
 
 [#25-dev-find_in]: tasks/2024-03-09-0025-dev-find_in.md
 <div/>
