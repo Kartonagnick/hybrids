@@ -1,6 +1,7 @@
 
 '--- local/hybrids                                      [test/find_in][main.vbs]
-'[2024-03-07][23:50:00] 002 Kartonagnick    
+'[2024-03-09][04:10:00] 003 Kartonagnick PRE
+'[2024-03-07][23:50:00] 002 Kartonagnick
 '  --- CastleOfDreams/hybrids                            [test/finder][case.vbs]
 '  [2022-03-02][19:00:00] 001 Kartonagnick
 '    --- CastleOfDreams/vbs                                   [test/Find_in.vbs]
@@ -49,46 +50,46 @@ sub test(id, expectedF, expectedD)
 end sub
 
 function main()
-  set oFind = (new Find_IN)(getSandbox(1))
+  set oFind = (new Find_in)(getSandbox(1))
   test 1, 6, 3
 
-  set oFind = (new Find_IN)(d_starts)
+  set oFind = (new Find_in)(d_starts)
     oFind.includeS = "*" 
   test 2, 3, 0
  
-  set oFind = (new Find_IN)(getSandbox(2))
+  set oFind = (new Find_in)(getSandbox(2))
     oFind.excludeS = "3rd*; proj*"
   test 3, 26, 12
  
-  set oFind = (new Find_IN)(getSandbox(2))
+  set oFind = (new Find_in)(getSandbox(2))
     oFind.excludeS = "3*; proj*"
   test 4, 17, 7
 
-  set oFind = (new Find_IN)(getSandbox(2))
+  set oFind = (new Find_in)(getSandbox(2))
     oFind.includeS = "2*"
   test 5, 11, 5
 
-  set oFind = (new Find_IN)(getSandbox(2))
+  set oFind = (new Find_in)(getSandbox(2))
     oFind.once = true
   test 6, 1, 0
 
-  set oFind = (new Find_IN)(getSandbox(2))
+  set oFind = (new Find_in)(getSandbox(2))
     oFind.excludeD = "*"
     oFind.once = true
   test 7, 1, 0
 
-  set oFind = (new Find_IN)(getSandbox(2))
+  set oFind = (new Find_in)(getSandbox(2))
     oFind.excludeF = "*"
     oFind.once = true
   test 8, 0, 1
 
-  set oFind = (new Find_IN)(getSandbox(2))
+  set oFind = (new Find_in)(getSandbox(2))
     oFind.includeS = "*"
     oFind.includeF = "2*"
     oFind.includeD = "2*"
   test 9, 8, 4
 
-  set oFind = (new Find_IN)(getSandbox(2))
+  set oFind = (new Find_in)(getSandbox(2))
     oFind.excludeS = ""
     oFind.includeF = ""
     oFind.excludeF = "*"
@@ -96,21 +97,21 @@ function main()
     oFind.excludeD = "3rd*"
   test 10, 0, 4
 
-  set oFind = (new Find_IN)(getSandbox(2))
+  set oFind = (new Find_in)(getSandbox(2))
     oFind.includeF = "pro*.root"
     oFind.excludeF = ""
     oFind.includeD = ""
     oFind.excludeD = "*"
   test 11, 1, 0
 
-  set oFind = (new Find_IN)(getSandbox(2))
+  set oFind = (new Find_in)(getSandbox(2))
     oFind.includeF = "pro*.root"
     oFind.excludeF = ""
     oFind.includeD = ""
     oFind.excludeD = "*"
   test 11, 1, 0
 
-  set oFind = (new Find_IN)(d_this)
+  set oFind = (new Find_in)(d_this)
     oFind.includeD = "*кактус*"
     oFind.includeF = "*кактус*"
     oFind.run deep + 1
