@@ -61,6 +61,38 @@
 
 --------------------------------------------------------------------------------
 
+[![P]][H] **v0.2.5 (dev)**
+--------------------------------------------------------------------------------
+[![V]][VE025] [![2024-03-09 04:10]][VE025]  
+
+[2024-03-09 04:10]: https://img.shields.io/static/v1?label=2024-03-09&message=04:10&color=yellowgreen
+[VE025]: changelog.md#-v025-dev
+
+|    дата    | время |       ветка       | статус |  
+|:----------:|:-----:|:-----------------:|:------:|  
+| 2024-03-09 | 04:00 | [#25-dev-find_in] | DONE   |  
+| 2024-03-09 | 03:10 | [#25-dev-find_in] | BEGIN  |  
+
+1. upd: `docs`  
+   - upd: `logo.png`        (025) PRE  
+   - upd: `changelog.md`    (025) PRE  
+   - upd: `history.md`      (025) PRE  
+   - upd: `chrono.md`       (025) PRE  
+   - upd: `docs.md`         (025) PRE  
+   - upd: `docs/find_in.md` (003) PRE  
+2. upd: `vbs`  
+   - upd: `vbs.ver`         (018) PRE  
+   - upd: `find_in.vbs`     (003) PRE  
+3. upd: `test`  
+   - upd: `test.ver`        (024) PRE  
+4. upd: `find_in/sources  
+   - upd: `main.vbs`        (003) PRE  
+5. upd: `project.root`      (025) PRE  
+
+[#25-dev-find_in]: tasks/2024-03-09-0025-dev-find_in.md
+<div/>
+
+
 [![S]][H] **v0.2.4 (dev)**
 --------------------------------------------------------------------------------
 [![V]][VE024] [![2024-03-09 19:00]][VE024]  
