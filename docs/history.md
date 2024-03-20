@@ -61,7 +61,7 @@
 
 --------------------------------------------------------------------------------
 
-[![P]][H] **v0.2.6 (dev)**
+[![S]][H] **v0.2.6 (dev)**
 --------------------------------------------------------------------------------
 [![V]][VE026] [![2024-03-20 13:00]][VE026]  
 
@@ -74,27 +74,27 @@
 | 2024-03-20 | 10:40 | [#26-dev-value] | BEGIN  |  
 
 1. upd: `docs`  
-   - upd: `logo.png`         (026) PRE  
-   - upd: `changelog.md`     (026) PRE  
-   - upd: `history.md`       (026) PRE  
-   - upd: `chrono.md`        (026) PRE  
-   - upd: `docs.md`          (026) PRE  
-   - add: `docs/value.md`    (001) PRE  
+   - upd: `logo.png`          026  
+   - upd: `changelog.md`      026  
+   - upd: `history.md`        026  
+   - upd: `chrono.md`         026  
+   - upd: `docs.md`           026  
+   - add: `docs/value.md`     001  
 2. upd: `vbs`  
-   - upd: `vbs.ver`          (019) PRE  
-   - add: `value.vbs`        (001) PRE  
+   - upd: `vbs.ver`           019  
+   - add: `value.vbs`         001  
 3. upd: `test`  
-   - upd: `test.ver`         (025) PRE  
+   - upd: `test.ver`          025  
 4. add: `test/value`  
-   - add: `make.bat`         (001) PRE  
-   - add: `test-[vbs].bat`   (001) PRE  
-   - add: `test-[wsf].bat`   (001) PRE  
+   - add: `make.bat`          001  
+   - add: `test-[vbs].bat`    001  
+   - add: `test-[wsf].bat`    001  
 5. add: `test/value/sources`  
-   - add: `is_empty.vbs`     (001) PRE  
-   - add: `show_empty.vbs`   (001) PRE  
-   - add: `hide_empty.vbs`   (001) PRE  
-   - add: `struct.txt`       (001) PRE  
-6. upd: `project.root`       (026) PRE  
+   - add: `is_empty.vbs`      001  
+   - add: `show_empty.vbs`    001  
+   - add: `hide_empty.vbs`    001  
+   - add: `struct.txt`        001  
+6. upd: `project.root`        026  
 
 [#26-dev-value]: tasks/2024-03-20-0026-dev-value.md
 <div/>
