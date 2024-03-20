@@ -61,7 +61,7 @@
 
 --------------------------------------------------------------------------------
 
-[![P]][H] **v0.2.6 (dev)**
+[![S]][H] **v0.2.6 (dev)**
 --------------------------------------------------------------------------------
 [![V]][VE026] [![2024-03-20 13:00]][VE026]  
 
@@ -74,36 +74,36 @@
 | 2024-03-20 | 10:40 | [#26-dev-value] | BEGIN  |  
 
 1. upd: `docs`  
-   - upd: `logo.png`         (026) PRE  
-   - upd: `changelog.md`     (026) PRE  
-   - upd: `history.md`       (026) PRE  
-   - upd: `chrono.md`        (026) PRE  
-   - upd: `docs.md`          (026) PRE  
-   - add: `docs/value.md`    (001) PRE  
+   - upd: `logo.png`          026  
+   - upd: `changelog.md`      026  
+   - upd: `history.md`        026  
+   - upd: `chrono.md`         026  
+   - upd: `docs.md`           026  
+   - add: `docs/value.md`     001  
 2. upd: `vbs`  
-   - upd: `vbs.ver`          (019) PRE  
-   - add: `value.vbs`        (001) PRE  
+   - upd: `vbs.ver`           019  
+   - add: `value.vbs`         001  
 3. upd: `test`  
-   - upd: `test.ver`         (025) PRE  
+   - upd: `test.ver`          025  
 4. add: `test/value/show_empty`  
-   - add: `make.bat`         (001) PRE  
-   - add: `test-[vbs].bat`   (001) PRE  
-   - add: `test-[wsf].bat`   (001) PRE  
-   - add: `sources/main.vbs` (001) PRE  
-   - add: `sources/test.wsf` (001) PRE  
+   - add: `make.bat`          001  
+   - add: `test-[vbs].bat`    001  
+   - add: `test-[wsf].bat`    001  
+   - add: `sources/main.vbs`  001  
+   - add: `sources/test.wsf`  001  
 5. add: `test/value/is_empty`  
-   - add: `make.bat`         (001) PRE  
-   - add: `test-[vbs].bat`   (001) PRE  
-   - add: `test-[wsf].bat`   (001) PRE  
-   - add: `sources/test.wsf` (001) PRE  
-   - add: `sources/main.vbs` (001) PRE  
+   - add: `make.bat`          001  
+   - add: `test-[vbs].bat`    001  
+   - add: `test-[wsf].bat`    001  
+   - add: `sources/test.wsf`  001  
+   - add: `sources/main.vbs`  001  
 7. add: `test/value/hide_empty`  
-   - add: `make.bat`         (001) PRE  
-   - add: `test-[vbs].bat`   (001) PRE  
-   - add: `test-[wsf].bat`   (001) PRE  
-   - add: `sources/test.wsf` (001) PRE  
-   - add: `sources/main.vbs` (001) PRE  
-8. upd: `project.root`       (026) PRE  
+   - add: `make.bat`          001  
+   - add: `test-[vbs].bat`    001  
+   - add: `test-[wsf].bat`    001  
+   - add: `sources/test.wsf`  001  
+   - add: `sources/main.vbs`  001  
+8. upd: `project.root`        026  
 
 [#26-dev-value]: tasks/2024-03-20-0026-dev-value.md
 <div/>
