@@ -1,6 +1,6 @@
 
 '--- local/hybrids                             [test/value/show_empty][main.vbs]
-'[2024-03-20][13:00:00] 001 Kartonagnick PRE
+'[2024-03-20][13:00:00] 001 Kartonagnick    
 
 class TestDummy
 end class
