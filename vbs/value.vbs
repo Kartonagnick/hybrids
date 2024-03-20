@@ -1,6 +1,6 @@
 
 '--- local/hybrids                                               [vbs/value.vbs]
-'[2024-03-20][13:00:00] 001 Kartonagnick PRE
+'[2024-03-20][13:00:00] 001 Kartonagnick    
 '
 '  class Value
 '    default function init(v)   'enable/disable show empty values
