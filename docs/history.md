@@ -61,6 +61,66 @@
 
 --------------------------------------------------------------------------------
 
+[![P]][H] **v0.2.7 (dev)**
+--------------------------------------------------------------------------------
+[![V]][VE027] [![2024-04-02 07:40]][VE027]  
+
+[2024-04-02 07:40]: https://img.shields.io/static/v1?label=2024-04-02&message=07:40&color=yellowgreen
+[VE027]: changelog.md#-v027-dev
+
+|    дата    | время |       ветка      | статус |  
+|:----------:|:-----:|:----------------:|:------:|  
+| 2024-04-02 | 07:30 | [#27-dev-traits] | DONE   |  
+| 2024-04-02 | 04:40 | [#27-dev-traits] | BEGIN  |  
+
+1. upd: `docs`  
+   - upd: `logo.png`         (027) PRE  
+   - upd: `changelog.md`     (027) PRE  
+   - upd: `history.md`       (027) PRE  
+   - upd: `chrono.md`        (027) PRE  
+   - upd: `docs.md`          (027) PRE  
+   - add: `docs/traits.md`   (001) PRE  
+2. upd: `test`  
+   - upd: `test.ver`         (026) PRE  
+3. add: `test/traits/is_empty_value`  
+   - add: `make.bat`         (001) PRE  
+   - add: `test-[wsf].bat`   (001) PRE  
+   - add: `test-[vbs].bat`   (001) PRE  
+   - add: `sources/test.wsf` (001) PRE  
+   - add: `sources/main.vbs` (001) PRE  
+4. add: `test/traits/has_method_stamp`  
+   - add: `make.bat`         (001) PRE  
+   - add: `test-[wsf].bat`   (001) PRE  
+   - add: `test-[vbs].bat`   (001) PRE  
+   - add: `sources/test.wsf` (001) PRE  
+   - add: `sources/main.vbs` (001) PRE  
+5. add: `test/traits/has_method_count`  
+   - add: `make.bat`         (001) PRE  
+   - add: `test-[wsf].bat`   (001) PRE  
+   - add: `test-[vbs].bat`   (001) PRE  
+   - add: `sources/test.wsf` (001) PRE  
+   - add: `sources/main.vbs` (001) PRE  
+6. add: `test/traits/double_to_string`  
+   - add: `make.bat`         (001) PRE  
+   - add: `test-[wsf].bat`   (001) PRE  
+   - add: `test-[vbs].bat`   (001) PRE  
+   - add: `sources/test.wsf` (001) PRE  
+   - add: `sources/main.vbs` (001) PRE  
+7. add: `test/traits/boolean_to_string`  
+   - add: `make.bat`         (001) PRE  
+   - add: `test-[wsf].bat`   (001) PRE  
+   - add: `test-[vbs].bat`   (001) PRE  
+   - add: `sources/test.wsf` (001) PRE  
+   - add: `sources/main.vbs` (001) PRE  
+8. upd: `vbs`  
+   - upd: `vbs.ver`          (020) PRE  
+   - add: `traits.vbs`       (001) PRE  
+9. upd: `project.root`       (027) PRE  
+
+[#27-dev-traits]: tasks/2024-03-20-0026-dev-value.md
+<div/>
+
+
 [![S]][H] **v0.2.6 (dev)**
 --------------------------------------------------------------------------------
 [![V]][VE026] [![2024-03-20 13:00]][VE026]  
