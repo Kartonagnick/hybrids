@@ -1,7 +1,7 @@
 @echo off & call :checkParent || exit /b
 
 rem --- local/hybrids             [test][traits/has_method_stamp/test-[wsf].bat]
-rem [2024-04-02][06:10:00] 001 Kartonagnick PRE
+rem [2024-04-02][06:10:00] 001 Kartonagnick    
 
 rem ============================================================================
 rem ============================================================================
