@@ -65,7 +65,7 @@
 
 --------------------------------------------------------------------------------
 
-[![P]][H] **v0.2.8 (dev)**
+[![S]][H] **v0.2.8 (dev)**
 --------------------------------------------------------------------------------
 [![V]][VE028] [![2024-04-02 08:30]][VE028]  
 
@@ -78,16 +78,16 @@
 | 2024-04-02 | 06:30 | [#28-dev-echo] | BEGIN  |  
 
 1. upd: `docs`  
-   - upd: `logo.png`     (028) PRE  
-   - upd: `changelog.md` (028) PRE  
-   - upd: `history.md`   (028) PRE  
-   - upd: `chrono.md`    (028) PRE  
-   - upd: `docs.md`      (028) PRE  
-   - upd: `docs/echo.md` (003) PRE  
+   - upd: `logo.png`      028  
+   - upd: `changelog.md`  028  
+   - upd: `history.md`    028  
+   - upd: `chrono.md`     028  
+   - upd: `docs.md`       028  
+   - upd: `docs/echo.md`  003  
 2. upd: `vbs`  
-   - upd: `vbs.ver`      (021) PRE  
-   - upd: `echo.vbs`     (003) PRE  
-3. upd: `project.root`   (028) PRE  
+   - upd: `vbs.ver`       021  
+   - upd: `echo.vbs`      003  
+3. upd: `project.root`    028  
 
 [#28-dev-echo]: tasks/2024-04-02-0028-dev-echo.md
 <div/>
