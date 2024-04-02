@@ -1,6 +1,6 @@
 
 '--- local/hybrids                          [test][traits][has_method_stamp.vbs]
-'[2024-04-02][06:10:00] 001 Kartonagnick PRE
+'[2024-04-02][06:10:00] 001 Kartonagnick    
 
 dim deep: deep = 0
 
