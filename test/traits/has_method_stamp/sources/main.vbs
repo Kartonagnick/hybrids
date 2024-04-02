@@ -1,6 +1,6 @@
 
 '--- local/hybrids                     [test][traits/has_method_stamp][main.vbs]
-'[2024-04-02][06:10:00] 001 Kartonagnick PRE
+'[2024-04-02][06:10:00] 001 Kartonagnick    
 
 sub test(id, deep, src, must)
   dim real: real = has_method_stamp(src)

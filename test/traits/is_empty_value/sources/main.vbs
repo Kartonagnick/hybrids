@@ -1,6 +1,6 @@
 
 '--- local/hybrids                       [test][traits/is_empty_value][main.vbs]
-'[2024-04-02][06:10:00] 001 Kartonagnick PRE
+'[2024-04-02][06:10:00] 001 Kartonagnick    
 
 dim sl: set sl = CreateObject("System.Collections.SortedList")
 dim al: set al = CreateObject("System.Collections.ArrayList")
