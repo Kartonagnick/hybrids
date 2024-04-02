@@ -21,12 +21,13 @@
 [symptom]:   docs/symptom.md
 [find_in]:   docs/find_in.md
 [value]:     docs/value.md
+[traits]:    docs/traits.md
 
 [map]: https://mind-map-online.ru/sh-9223a24c9e4a6628?panelMain=0&menubar=0&freezePanels=1&scrollable=0
 [fac]: docs/factory.md
     
 <a name="main"></a>
-[![S]][H] Документация v0.2.6
+[![P]][H] Документация v0.2.7
 =============================
 Это уже третия реинкарнация проекта `hybrids`  
 Цель проекта: привести кодовую базу в порядок, и сделать полноценный релиз.  
@@ -47,7 +48,8 @@
 13. [mask]  
 14. [symptom]  
 15. [find_in]  
-16. [value]  
+16. [traits]  
+17. [value]  
 
 [фабрика гибридов][fac]  
 [карта проекта][map]  
