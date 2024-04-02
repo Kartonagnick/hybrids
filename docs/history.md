@@ -61,7 +61,7 @@
 
 --------------------------------------------------------------------------------
 
-[![P]][H] **v0.2.7 (dev)**
+[![S]][H] **v0.2.7 (dev)**
 --------------------------------------------------------------------------------
 [![V]][VE027] [![2024-04-02 06:10]][VE027]  
 
@@ -74,29 +74,29 @@
 | 2024-04-02 | 04:40 | [#27-dev-traits] | BEGIN  |  
 
 1. upd: `docs`  
-   - upd: `logo.png`              (027) PRE  
-   - upd: `changelog.md`          (027) PRE  
-   - upd: `history.md`            (027) PRE  
-   - upd: `chrono.md`             (027) PRE  
-   - upd: `docs.md`               (027) PRE  
-   - add: `docs/traits.md`        (001) PRE  
+   - upd: `logo.png`               027  
+   - upd: `changelog.md`           027  
+   - upd: `history.md`             027  
+   - upd: `chrono.md`              027  
+   - upd: `docs.md`                027  
+   - add: `docs/traits.md`         001  
 2. upd: `test`  
-   - upd: `test.ver`              (026) PRE  
+   - upd: `test.ver`               026  
 3. add: `test/traits`  
-   - add: `test-[vbs].bat`        (001) PRE  
-   - add: `test-[wsf].bat`        (001) PRE  
-   - add: `make.bat`              (001) PRE  
+   - add: `test-[vbs].bat`         001  
+   - add: `test-[wsf].bat`         001  
+   - add: `make.bat`               001  
 4. add: `test/traits/sources`  
-   - add: `boolean_to_string.vbs` (001) PRE  
-   - add: `double_to_string.vbs`  (001) PRE  
-   - add: `has_method_count.vbs`  (001) PRE  
-   - add: `has_method_stamp.vbs`  (001) PRE  
-   - add: `is_empty_value.vbs`    (001) PRE  
-   - add: `struct.txt`            (001) PRE  
+   - add: `boolean_to_string.vbs`  001  
+   - add: `double_to_string.vbs`   001  
+   - add: `has_method_count.vbs`   001  
+   - add: `has_method_stamp.vbs`   001  
+   - add: `is_empty_value.vbs`     001  
+   - add: `struct.txt`             001  
 5. upd: `vbs`  
-   - upd: `vbs.ver`               (020) PRE  
-   - add: `traits.vbs`            (001) PRE  
-6. upd: `project.root`            (027) PRE  
+   - upd: `vbs.ver`                020  
+   - add: `traits.vbs`             001  
+6. upd: `project.root`             027  
 
 [#27-dev-traits]: tasks/2024-03-20-0026-dev-value.md
 <div/>

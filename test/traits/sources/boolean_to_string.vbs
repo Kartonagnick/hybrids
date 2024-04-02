@@ -1,6 +1,6 @@
 
 '--- local/hybrids                         [test][traits][boolean_to_string.vbs]
-'[2024-04-02][06:10:00] 001 Kartonagnick PRE
+'[2024-04-02][06:10:00] 001 Kartonagnick    
 
 dim deep: deep = 0
 
