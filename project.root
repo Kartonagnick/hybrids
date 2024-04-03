@@ -1,6 +1,7 @@
 
 # --- local/hybrids                                               [project.root]
-# [2024-04-02][08:30:00] 028 Kartonagnick    
+# [2024-04-05][23:50:00] 029 Kartonagnick PRE
+# [2024-04-02][08:30:00] 028 Kartonagnick
 # [2024-04-02][06:10:00] 027 Kartonagnick
 # [2024-03-20][13:00:00] 026 Kartonagnick
 # [2024-03-09][04:10:00] 025 Kartonagnick
@@ -35,4 +36,4 @@
 
 # INCLUDE_CONFIGURATIONS =
 # EXCLUDE_CONFIGURATIONS =
-VERSION = ver-0.2.8
+VERSION = ver-0.2.9
