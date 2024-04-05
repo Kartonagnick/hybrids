@@ -66,7 +66,7 @@
 --------------------------------------------------------------------------------
 
 
-[![P]][H] **v0.2.9 (dev)**
+[![S]][H] **v0.2.9 (dev)**
 --------------------------------------------------------------------------------
 [![V]][VE029] [![2024-04-05 23:50]][VE029]  
 
@@ -79,44 +79,44 @@
 | 2024-04-03 | 11:30 | [#29-dev-tree] | BEGIN  |  
 
 1. upd: `docs`  
-   - upd: `logo.png`         (029) PRE  
-   - upd: `changelog.md`     (029) PRE  
-   - upd: `chrono.md`        (029) PRE  
-   - upd: `history.md`       (029) PRE  
-   - upd: `docs.md`          (029) PRE  
+   - upd: `logo.png`          029  
+   - upd: `changelog.md`      029  
+   - upd: `chrono.md`         029  
+   - upd: `history.md`        029  
+   - upd: `docs.md`           029  
 2. add: `docs/docs/view`  
-   - add: `tree.md`          (001) PRE  
+   - add: `tree.md`           001  
 3. upd: `test`  
-   - upd: `test.ver`         (027) PRE  
+   - upd: `test.ver`          027  
 4. add: `test/view/tree/with_type`  
-   - add: `make.bat`         (001) PRE  
-   - add: `test-[wsf].bat`   (001) PRE  
-   - add: `test-[vbs].bat`   (001) PRE  
-   - add: `sources/test.wsf` (001) PRE  
-   - add: `sources/main.vbs` (001) PRE  
+   - add: `make.bat`          001  
+   - add: `test-[wsf].bat`    001  
+   - add: `test-[vbs].bat`    001  
+   - add: `sources/test.wsf`  001  
+   - add: `sources/main.vbs`  001  
 5. add: `test/view/tree/with_empty`  
-   - add: `make.bat`         (001) PRE  
-   - add: `test-[wsf].bat`   (001) PRE  
-   - add: `test-[vbs].bat`   (001) PRE  
-   - add: `sources/test.wsf` (001) PRE  
-   - add: `sources/main.vbs` (001) PRE  
+   - add: `make.bat`          001  
+   - add: `test-[wsf].bat`    001  
+   - add: `test-[vbs].bat`    001  
+   - add: `sources/test.wsf`  001  
+   - add: `sources/main.vbs`  001  
 6. add: `test/view/tree/typical`  
-   - add: `make.bat`         (001) PRE  
-   - add: `test-[wsf].bat`   (001) PRE  
-   - add: `test-[vbs].bat`   (001) PRE  
-   - add: `sources/test.wsf` (001) PRE  
-   - add: `sources/main.vbs` (001) PRE  
+   - add: `make.bat`          001  
+   - add: `test-[wsf].bat`    001  
+   - add: `test-[vbs].bat`    001  
+   - add: `sources/test.wsf`  001  
+   - add: `sources/main.vbs`  001  
 7. add: `test/view/tree/type_empty`  
-   - add: `make.bat`         (001) PRE  
-   - add: `test-[wsf].bat`   (001) PRE  
-   - add: `test-[vbs].bat`   (001) PRE  
-   - add: `sources/test.wsf` (001) PRE  
-   - add: `sources/main.vbs` (001) PRE  
+   - add: `make.bat`          001  
+   - add: `test-[wsf].bat`    001  
+   - add: `test-[vbs].bat`    001  
+   - add: `sources/test.wsf`  001  
+   - add: `sources/main.vbs`  001  
 8. upd: `vbs`  
-   - upd: `vbs.ver`          (022) PRE  
+   - upd: `vbs.ver`           022  
 9. add: `vbs/view`  
-   - add: `tree.vbs`         (001) PRE  
-10. upd: `project.root`      (029) PRE  
+   - add: `tree.vbs`          001  
+10. upd: `project.root`       029  
 
 [#29-dev-tree]: tasks/2024-04-03-0029-dev-tree.md
 <div/>
