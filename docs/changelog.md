@@ -7,6 +7,29 @@
 [![S]][H] Новости проекта
 =========================
 
+
+[![P]][VE029] **v0.2.9 (dev)**
+--------------------------------------------------------------------------------
+[#29-dev-tree]: tasks/2024-04-03-0029-dev-tree.md
+[VE029]: history.md#-v029-dev
+
+|    дата    | время |      ветка     |    статус     |  
+|:----------:|:-----:|:--------------:|:-------------:|  
+| 2024-04-05 | 23:50 | [#29-dev-tree] | [![V]][VE029] |  
+
+Добавлен `view/tree.vbs`  
+Класс для отображения содержимоего древовидных структур:  
+
+```vbs
+class Tree
+  public default function init(enable_empty, enable_type)
+  property Let show_type(v)  mSHOW_TYPE  = v end property  
+  property Let show_empty(v) mSHOW_EMPTY = v end property
+  public function getText(v)
+```
+<br/>
+
+
 [![S]][VE028] **v0.2.8 (dev)**
 --------------------------------------------------------------------------------
 [#28-dev-echo]: tasks/2024-04-02-0028-dev-echo.md
