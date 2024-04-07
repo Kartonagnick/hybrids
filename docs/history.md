@@ -66,6 +66,44 @@
 --------------------------------------------------------------------------------
 
 
+[![P]][H] **v0.3.0 (dev)**
+--------------------------------------------------------------------------------
+[![V]][VE030] [![2024-04-07 19:00]][VE030]  
+
+[2024-04-07 19:00]: https://img.shields.io/static/v1?label=2024-04-07&message=19:00&color=yellowgreen
+[VE030]: changelog.md#-v030-dev
+
+|    дата    | время |      ветка     | статус |  
+|:----------:|:-----:|:--------------:|:------:|  
+| 2024-04-07 | 18:50 | [#30-dev-tree] | DONE   |  
+| 2024-04-06 | 11:00 | [#30-dev-tree] | BEGIN  |  
+
+1. upd: `docs`  
+   - upd: `logo.png`         (030) PRE  
+   - upd: `changelog.md`     (030) PRE  
+   - upd: `chrono.md`        (030) PRE  
+   - upd: `history.md`       (030) PRE  
+   - upd: `docs.md`          (030) PRE  
+2. add: `docs/docs/view`  
+   - add: `tree_short.md`    (001) PRE  
+3. upd: `vbs`  
+   - upd: `vbs.ver`          (023) PRE  
+4. add: `vbs/view`  
+   - add: `tree_short.vbs`   (001) PRE  
+5. upd: `test`  
+   - upd: `test.ver`         (028) PRE  
+6. add: `test/view/tree_short`  
+   - add: `make.bat`         (001) PRE  
+   - add: `test-[wsf].bat`   (001) PRE  
+   - add: `test-[vbs].bat`   (001) PRE  
+   - add: `sources/test.wsf` (001) PRE  
+   - add: `sources/main.vbs` (001) PRE  
+7. upd: `project.root`       (030) PRE  
+
+[#30-dev-tree]: tasks/2024-04-06-0030-dev-tree.md
+<div/>
+
+
 [![S]][H] **v0.2.9 (dev)**
 --------------------------------------------------------------------------------
 [![V]][VE029] [![2024-04-05 23:50]][VE029]  
