@@ -8,6 +8,35 @@
 =========================
 
 
+[![P]][VE030] **v0.3.0 (dev)**
+--------------------------------------------------------------------------------
+[#30-dev-tree]: tasks/2024-04-06-0030-dev-tree.md
+[VE030]: history.md#-v030-dev
+
+|    дата    | время |      ветка     |    статус     |  
+|:----------:|:-----:|:--------------:|:-------------:|  
+| 2024-04-07 | 19:00 | [#30-dev-tree] | [![V]][VE030] |  
+
+Добавлен `view/tree_short.vbs`  
+Класс для отображения содержимоего древовидных структур.  
+
+```vbs
+class TreeShort
+  public function getText(v)
+  sub show(deep, title, v)
+```
+
+Отображает содержимое в режиме:  
+  - не показывать пустые элементы  
+  - не показывать типы элементов  
+
+Является оптимизированной версией:  
+```vbs
+  dim out: set out = (new Tree)(false, false)
+```
+<br/>
+
+
 [![S]][VE029] **v0.2.9 (dev)**
 --------------------------------------------------------------------------------
 [#29-dev-tree]: tasks/2024-04-03-0029-dev-tree.md
@@ -26,6 +55,7 @@ class Tree
   property Let show_type(v)  mSHOW_TYPE  = v end property  
   property Let show_empty(v) mSHOW_EMPTY = v end property
   public function getText(v)
+  sub show(deep, title, v)
 ```
 <br/>
 
