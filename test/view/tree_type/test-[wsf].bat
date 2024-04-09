@@ -1,7 +1,7 @@
 @echo off & call :checkParent || exit /b
 
 rem --- local/hybrids                     [test][view/tree_type][test-[wsf].bat]
-rem [2024-04-09][19:00:00] 001 Kartonagnick PRE
+rem [2024-04-09][19:00:00] 001 Kartonagnick    
 rem ============================================================================
 rem ============================================================================
 
