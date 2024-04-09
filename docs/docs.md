@@ -25,12 +25,13 @@
 
 [view/tree]:       docs/view/tree.md  
 [view/tree_short]: docs/view/tree_short.md
+[view/tree_type]:  docs/view/tree_type.md
 
 [map]: https://mind-map-online.ru/sh-9223a24c9e4a6628?panelMain=0&menubar=0&freezePanels=1&scrollable=0
 [fac]: docs/factory.md
     
 <a name="main"></a>
-[![S]][H] Документация v0.3.0
+[![P]][H] Документация v0.3.1
 =============================
 Это уже третия реинкарнация проекта `hybrids`  
 Цель проекта: привести кодовую базу в порядок, и сделать полноценный релиз.  
@@ -55,6 +56,7 @@
 17. [value]  
 18. [view/tree]  
 19. [view/tree_short]  
+20. [view/tree_type]  
 
 [фабрика гибридов][fac]  
 [карта проекта][map]  
