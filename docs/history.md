@@ -66,7 +66,7 @@
 --------------------------------------------------------------------------------
 
 
-[![P]][H] **v0.3.2 (dev)**
+[![S]][H] **v0.3.2 (dev)**
 --------------------------------------------------------------------------------
 [![V]][VE032] [![2024-04-11 19:00]][VE032]  
 
@@ -79,26 +79,26 @@
 | 2024-04-10 | 11:00 | [#32-dev-tree] | BEGIN  |  
 
 1. upd: `docs`  
-   - upd: `logo.png`         (032) PRE  
-   - upd: `changelog.md`     (032) PRE  
-   - upd: `chrono.md`        (032) PRE  
-   - upd: `history.md`       (032) PRE  
-   - upd: `docs.md`          (032) PRE  
+   - upd: `logo.png`          032  
+   - upd: `changelog.md`      032  
+   - upd: `chrono.md`         032  
+   - upd: `history.md`        032  
+   - upd: `docs.md`           032  
 2. add: `docs/docs/view`  
-   - add: `tree_empty.md`    (001) PRE  
+   - add: `tree_empty.md`     001  
 3. upd: `test`  
-   - upd: `test.ver`         (030) PRE  
+   - upd: `test.ver`          030  
 4. add: `test/view/tree_empty`  
-   - add: `make.bat`         (001) PRE  
-   - add: `test-[wsf].bat`   (001) PRE  
-   - add: `test-[vbs].bat`   (001) PRE  
-   - add: `sources/test.wsf` (001) PRE  
-   - add: `sources/main.vbs` (001) PRE  
+   - add: `make.bat`          001  
+   - add: `test-[wsf].bat`    001  
+   - add: `test-[vbs].bat`    001  
+   - add: `sources/test.wsf`  001  
+   - add: `sources/main.vbs`  001  
 5. upd: `vbs`  
-   - upd: `vbs.ver`          (025) PRE  
+   - upd: `vbs.ver`           025  
 6. add: `vbs/view`  
-   - add: `tree_empty.vbs`   (001) PRE  
-7. upd: `project.root`       (032) PRE  
+   - add: `tree_empty.vbs`    001  
+7. upd: `project.root`        032  
 
 [#32-dev-tree]: tasks/2024-04-10-0032-dev-tree.md
 <div/>
