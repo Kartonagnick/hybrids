@@ -23,15 +23,16 @@
 [value]:     docs/value.md
 [traits]:    docs/traits.md
 
-[view/tree]:       docs/view/tree.md  
-[view/tree_short]: docs/view/tree_short.md
-[view/tree_type]:  docs/view/tree_type.md
+[view/tree]:        docs/view/tree.md  
+[view/tree_short]:  docs/view/tree_short.md
+[view/tree_type]:   docs/view/tree_type.md
+[view/tree_empty]:  docs/view/tree_empty.md
 
 [map]: https://mind-map-online.ru/sh-9223a24c9e4a6628?panelMain=0&menubar=0&freezePanels=1&scrollable=0
 [fac]: docs/factory.md
     
 <a name="main"></a>
-[![S]][H] Документация v0.3.1
+[![P]][H] Документация v0.3.2
 =============================
 Это уже третия реинкарнация проекта `hybrids`  
 Цель проекта: привести кодовую базу в порядок, и сделать полноценный релиз.  
@@ -57,6 +58,7 @@
 18. [view/tree]  
 19. [view/tree_short]  
 20. [view/tree_type]  
+21. [view/tree_empty]  
 
 [фабрика гибридов][fac]  
 [карта проекта][map]  
