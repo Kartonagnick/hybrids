@@ -65,7 +65,7 @@
 
 --------------------------------------------------------------------------------
 
-[![P]][H] **v0.3.4 (dev)**
+[![S]][H] **v0.3.4 (dev)**
 --------------------------------------------------------------------------------
 [![V]][VE034] [![2024-04-14 19:00]][VE034]  
 
@@ -78,16 +78,16 @@
 | 2024-04-14 | 11:00 | [#34-dev-toggle] | BEGIN  |  
 
 1. upd: `docs`  
-   - upd: `logo.png`       (034) PRE  
-   - upd: `changelog.md`   (034) PRE  
-   - upd: `history.md`     (034) PRE  
-   - upd: `chrono.md`      (034) PRE  
-   - upd: `docs.md`        (034) PRE  
-   - add: `docs/toggle.md` (001) PRE  
+   - upd: `logo.png`        034  
+   - upd: `changelog.md`    034  
+   - upd: `history.md`      034  
+   - upd: `chrono.md`       034  
+   - upd: `docs.md`         034  
+   - add: `docs/toggle.md`  001  
 2. upd: `vbs`  
-   - upd: `vbs.ver`        (027) PRE  
-   - add: `toggle.vbs`     (001) PRE  
-3. upd: `project.root`     (034) PRE  
+   - upd: `vbs.ver`         027  
+   - add: `toggle.vbs`      001  
+3. upd: `project.root`      034  
 
 [#34-dev-toggle]: tasks/2024-04-14-0034-dev-toggle.md
 <div/>

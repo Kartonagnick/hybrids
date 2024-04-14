@@ -1,6 +1,6 @@
 
 '--- local/hybrids                                              [vbs/toggle.vbs]
-'[2024-04-14][19:00:00] 001 Kartonagnick PRE
+'[2024-04-14][19:00:00] 001 Kartonagnick    
 '
 '  class Toogle
 '    default function init(v)   'set: 1/0 true/false ON/OFF YES/NO
