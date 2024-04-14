@@ -7,6 +7,45 @@
 [![S]][H] Новости проекта
 =========================
 
+[![P]][VE034] **v0.3.4 (dev)**
+--------------------------------------------------------------------------------
+[#34-dev-toggle]: tasks/2024-04-14-0034-dev-toggle.md
+[VE034]: history.md#-v034-dev
+
+|    дата    | время |       ветка      |    статус     |  
+|:----------:|:-----:|:----------------:|:-------------:|  
+| 2024-04-14 | 19:00 | [#34-dev-toggle] | [![V]][VE034] |  
+
+Добавлен `vbs/toggle.vbs`  
+Содержит класс `Toggle` - переключатель,  
+который может быть в двух состояниях: вкл/выкл  
+
+```vbs
+class Toogle
+  default function init(v)   'set: 1/0 true/false ON/OFF YES/NO
+  property Let value(v)      'set: 1/0 true/false ON/OFF YES/NO
+  property Get disabled()    'if false -> return true
+  property Get enabled()     'if true  -> return true
+  function to_string(text)   'return string: ON/OFF
+  sub environment(name, def) 'set value from environment
+
+  function to_bool(v) 
+    if Null, Nothing, 0, false, OFF, NO, Toogle.disabled then 
+      return false   
+    if 1, true, ON, YES, Toogle.enabled then 
+      return true
+
+  function fromString(text)
+    true : 1, true , on , yes,
+    false: 0, false, off, no
+
+  function fromEnvironment(name, def) 
+    loaded value from environment
+    return true/false 
+```
+<br/>
+
+
 [![S]][VE033] **v0.3.3 (dev)**
 --------------------------------------------------------------------------------
 [#33-dev-tree]: tasks/2024-04-12-0033-dev-tree.md
