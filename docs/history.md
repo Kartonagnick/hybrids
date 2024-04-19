@@ -65,7 +65,7 @@
 
 --------------------------------------------------------------------------------
 
-[![P]][H] **v0.3.5 (tst)**
+[![S]][H] **v0.3.5 (tst)**
 --------------------------------------------------------------------------------
 [![V]][VE035] [![2024-04-14 19:00]][VE035]  
 
@@ -78,29 +78,29 @@
 | 2024-04-15 | 11:00 | [#35-tst-toggle] | BEGIN  |  
 
 1. upd: `docs`  
-   - upd: `logo.png`                (035) PRE  
-   - upd: `changelog.md`            (035) PRE  
-   - upd: `history.md`              (035) PRE  
-   - upd: `chrono.md`               (035) PRE  
-   - upd: `docs.md`                 (035) PRE  
-   - upd: `docs/toggle.md`          (002) PRE  
+   - upd: `logo.png`                 035  
+   - upd: `changelog.md`             035  
+   - upd: `history.md`               035  
+   - upd: `chrono.md`                035  
+   - upd: `docs.md`                  035  
+   - upd: `docs/toggle.md`           002  
 2. upd: `test`  
-   - upd: `test.ver`                (032) PRE  
+   - upd: `test.ver`                 032  
 3. add: `test/toggle`  
-   - add: `make.bat`                (001) PRE  
-   - add: `test-[vbs].bat`          (001) PRE  
-   - add: `test-[wsf].bat`          (001) PRE  
+   - add: `make.bat`                 001  
+   - add: `test-[vbs].bat`           001  
+   - add: `test-[wsf].bat`           001  
 3. add: `test/toggle/sources`  
-   - add: `fromString.vbs`          (001) PRE  
-   - add: `fromString.assert-1.vbs` (001) PRE  
-   - add: `fromString.assert-2.vbs` (001) PRE  
-   - add: `fromString.assert-3.vbs` (001) PRE  
-   - add: `fromString.assert-4.vbs` (001) PRE  
-   - add: `fromString.assert-5.vbs` (001) PRE  
-   - add: `fromString.assert-6.vbs` (001) PRE  
-   - add: `fromString.assert-7.vbs` (001) PRE  
-   - add: `struct.txt`              (001) PRE  
-4. upd: `project.root`              (035) PRE  
+   - add: `fromString.vbs`           001  
+   - add: `fromString.assert-1.vbs`  001  
+   - add: `fromString.assert-2.vbs`  001  
+   - add: `fromString.assert-3.vbs`  001  
+   - add: `fromString.assert-4.vbs`  001  
+   - add: `fromString.assert-5.vbs`  001  
+   - add: `fromString.assert-6.vbs`  001  
+   - add: `fromString.assert-7.vbs`  001  
+   - add: `struct.txt`               001  
+4. upd: `project.root`               035  
 
 [#35-tst-toggle]: tasks/2024-04-15-0035-tst-toggle.md
 <div/>
