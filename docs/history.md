@@ -66,6 +66,37 @@
 --------------------------------------------------------------------------------
 
 
+[![P]][H] **v0.3.7 (tst)**
+--------------------------------------------------------------------------------
+[![V]][VE037] [![2024-04-23 19:00]][VE037]  
+
+[2024-04-27 19:00]: https://img.shields.io/static/v1?label=2024-04-27&message=19:00&color=yellowgreen
+[VE037]: changelog.md#-v037-tst
+
+|    дата    | время |       ветка      | статус |  
+|:----------:|:-----:|:----------------:|:------:|  
+| 2024-04-27 | 18:50 | [#37-tst-toggle] | DONE   |  
+| 2024-04-24 | 11:00 | [#37-tst-toggle] | BEGIN  |  
+
+1. upd: `docs`  
+   - upd: `logo.png`         (037) PRE  
+   - upd: `changelog.md`     (037) PRE  
+   - upd: `history.md`       (037) PRE  
+   - upd: `chrono.md`        (037) PRE  
+   - upd: `docs.md`          (037) PRE  
+   - upd: `docs/toggle.md`   (001) PRE  
+2. upd: `test`  
+   - upd: `test.ver`         (034) PRE  
+3. add: `test/toggle/sources`  
+   - add: `environment.vbs`  (001) PRE  
+   - add: `disabled.vbs`     (001) PRE  
+   - add: `enabled.vbs`      (001) PRE  
+4. upd: `project.root`       (037) PRE  
+
+[#37-tst-toggle]: tasks/2024-04-24-0037-tst-toggle.md
+<div/>
+
+
 [![S]][H] **v0.3.6 (tst)**
 --------------------------------------------------------------------------------
 [![V]][VE036] [![2024-04-23 19:00]][VE036]  
