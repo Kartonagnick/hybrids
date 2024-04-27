@@ -66,7 +66,7 @@
 --------------------------------------------------------------------------------
 
 
-[![P]][H] **v0.3.7 (tst)**
+[![S]][H] **v0.3.7 (tst)**
 --------------------------------------------------------------------------------
 [![V]][VE037] [![2024-04-23 19:00]][VE037]  
 
@@ -79,19 +79,19 @@
 | 2024-04-24 | 11:00 | [#37-tst-toggle] | BEGIN  |  
 
 1. upd: `docs`  
-   - upd: `logo.png`         (037) PRE  
-   - upd: `changelog.md`     (037) PRE  
-   - upd: `history.md`       (037) PRE  
-   - upd: `chrono.md`        (037) PRE  
-   - upd: `docs.md`          (037) PRE  
-   - upd: `docs/toggle.md`   (001) PRE  
+   - upd: `logo.png`          037  
+   - upd: `changelog.md`      037  
+   - upd: `history.md`        037  
+   - upd: `chrono.md`         037  
+   - upd: `docs.md`           037  
+   - upd: `docs/toggle.md`    001  
 2. upd: `test`  
-   - upd: `test.ver`         (034) PRE  
+   - upd: `test.ver`          034  
 3. add: `test/toggle/sources`  
-   - add: `environment.vbs`  (001) PRE  
-   - add: `disabled.vbs`     (001) PRE  
-   - add: `enabled.vbs`      (001) PRE  
-4. upd: `project.root`       (037) PRE  
+   - add: `environment.vbs`   001  
+   - add: `disabled.vbs`      001  
+   - add: `enabled.vbs`       001  
+4. upd: `project.root`        037  
 
 [#37-tst-toggle]: tasks/2024-04-24-0037-tst-toggle.md
 <div/>
