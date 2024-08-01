@@ -66,6 +66,55 @@
 --------------------------------------------------------------------------------
 
 
+[![P]][H] **v0.4.0 (dev)**
+--------------------------------------------------------------------------------
+[![V]][VE040] [![2024-08-01 19:00]][VE040]  
+
+[2024-08-01 19:00]: https://img.shields.io/static/v1?label=2024-08-01&message=19:00&color=yellowgreen
+[VE040]: changelog.md#-v040-dev
+
+|    дата    | время |     ветка      | статус |  
+|:----------:|:-----:|:--------------:|:------:|  
+| 2024-08-01 | 18:50 | [#40-dev-date] | DONE   |  
+| 2024-07-27 | 11:00 | [#40-dev-date] | BEGIN  |  
+
+1. upd: `docs`  
+   - upd: `logo.png`          (040) PRE  
+   - upd: `changelog.md`      (040) PRE  
+   - upd: `history.md`        (040) PRE  
+   - upd: `chrono.md`         (040) PRE  
+   - upd: `docs.md`           (040) PRE  
+2. add: `docs/docs`  
+   - add: `date.md`           (002) PRE  
+3. add: `docs/docs/date`  
+   - add: `value.md`          (002) PRE  
+4. upd: `test`  
+   - upd: `test.ver`          (037) PRE  
+5. add: `test/date`  
+   - add: `staff.vbs`         (001) PRE  
+6. add: `test/date/DTSValue`  
+   - add: `make.bat`          (001) PRE  
+   - add: `test-[vbs].bat`    (001) PRE  
+   - add: `test-[wsf].bat`    (001) PRE  
+7. add: `test/date/DTSValue/sources`  
+   - add: `ctor.def.vbs`      (001) PRE  
+   - add: `ctor.string.vbs`   (001) PRE  
+   - add: `ctor.date.vbs`     (001) PRE  
+   - add: `ctor.time.vbs`     (001) PRE  
+   - add: `ctor.assert-1.vbs` (001) PRE  
+   - add: `ctor.assert-2.vbs` (001) PRE  
+   - add: `ctor.assert-3.vbs` (001) PRE  
+   - add: `struct.txt`        (001) PRE  
+8. upd: `vbs`  
+   - upd: `Vbs.ver`           (030) PRE  
+9.add: `vbs/date`  
+   - add: `value.vbs`         (002) PRE  
+10. upd: `project.root`       (040) PRE  
+
+[#40-dev-date]: tasks/2024-07-27-0040-dev-date.md
+<div/>
+
+
 [![S]][H] **v0.3.9 (dev)**
 --------------------------------------------------------------------------------
 [![V]][VE039] [![2024-07-26 19:00]][VE039]  
