@@ -66,6 +66,45 @@
 --------------------------------------------------------------------------------
 
 
+[![P]][H] **v0.4.1 (tst)**
+--------------------------------------------------------------------------------
+[![V]][VE041] [![2024-08-08 19:00]][VE041]  
+
+[2024-08-08 19:00]: https://img.shields.io/static/v1?label=2024-08-08&message=19:00&color=yellowgreen
+[VE041]: changelog.md#-v041-tst
+
+|    дата    | время |     ветка      | статус |  
+|:----------:|:-----:|:--------------:|:------:|  
+| 2024-08-08 | 18:50 | [#41-tst-date] | DONE   |  
+| 2024-08-02 | 11:00 | [#41-tst-date] | BEGIN  |  
+
+1. upd: `docs`  
+   - upd: `logo.png`             (041) PRE  
+   - upd: `changelog.md`         (041) PRE  
+   - upd: `history.md`           (041) PRE  
+   - upd: `chrono.md`            (041) PRE  
+   - upd: `docs.md`              (041) PRE  
+2. upd: `docs/docs`  
+   - upd: `date.md`              (001) PRE  
+3. upd: `docs/docs/date`  
+   - upd: `value.md`             (001) PRE  
+4. upd: `test`  
+   - upd: `test.ver`             (038) PRE  
+5. add: `test/date/DTSValue/sources`  
+   - add: `ctor.value.vbs`       (001) PRE  
+   - add: `ctor.stamp.vbs`       (001) PRE  
+   - add: `ctor.posix.vbs`       (001) PRE  
+   - add: `ctor.ms.vbs`          (001) PRE  
+   - add: `ctor.ms.assert-1.vbs` (001) PRE  
+   - add: `ctor.ms.assert-2.vbs` (001) PRE  
+   - add: `clone.vbs`            (001) PRE  
+   - add: `addSeconds.vbs`       (001) PRE  
+6. upd: `project.root`           (041) PRE  
+
+[#41-tst-date]: tasks/2024-08-02-0041-tst-date.md
+<div/>
+
+
 [![S]][H] **v0.4.0 (dev)**
 --------------------------------------------------------------------------------
 [![V]][VE040] [![2024-08-01 19:00]][VE040]  
