@@ -66,7 +66,7 @@
 --------------------------------------------------------------------------------
 
 
-[![P]][H] **v0.4.1 (tst)**
+[![S]][H] **v0.4.1 (tst)**
 --------------------------------------------------------------------------------
 [![V]][VE041] [![2024-08-08 19:00]][VE041]  
 
@@ -79,27 +79,27 @@
 | 2024-08-02 | 11:00 | [#41-tst-date] | BEGIN  |  
 
 1. upd: `docs`  
-   - upd: `logo.png`             (041) PRE  
-   - upd: `changelog.md`         (041) PRE  
-   - upd: `history.md`           (041) PRE  
-   - upd: `chrono.md`            (041) PRE  
-   - upd: `docs.md`              (041) PRE  
+   - upd: `logo.png`              041  
+   - upd: `changelog.md`          041  
+   - upd: `history.md`            041  
+   - upd: `chrono.md`             041  
+   - upd: `docs.md`               041  
 2. upd: `docs/docs`  
-   - upd: `date.md`              (001) PRE  
+   - upd: `date.md`               001  
 3. upd: `docs/docs/date`  
-   - upd: `value.md`             (001) PRE  
+   - upd: `value.md`              001  
 4. upd: `test`  
-   - upd: `test.ver`             (038) PRE  
+   - upd: `test.ver`              038  
 5. add: `test/date/DTSValue/sources`  
-   - add: `ctor.value.vbs`       (001) PRE  
-   - add: `ctor.stamp.vbs`       (001) PRE  
-   - add: `ctor.posix.vbs`       (001) PRE  
-   - add: `ctor.ms.vbs`          (001) PRE  
-   - add: `ctor.ms.assert-1.vbs` (001) PRE  
-   - add: `ctor.ms.assert-2.vbs` (001) PRE  
-   - add: `clone.vbs`            (001) PRE  
-   - add: `addSeconds.vbs`       (001) PRE  
-6. upd: `project.root`           (041) PRE  
+   - add: `ctor.value.vbs`        001  
+   - add: `ctor.stamp.vbs`        001  
+   - add: `ctor.posix.vbs`        001  
+   - add: `ctor.ms.vbs`           001  
+   - add: `ctor.ms.assert-1.vbs`  001  
+   - add: `ctor.ms.assert-2.vbs`  001  
+   - add: `clone.vbs`             001  
+   - add: `addSeconds.vbs`        001  
+6. upd: `project.root`            041  
 
 [#41-tst-date]: tasks/2024-08-02-0041-tst-date.md
 <div/>
