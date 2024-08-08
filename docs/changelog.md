@@ -7,6 +7,26 @@
 [![S]][H] Новости проекта
 =========================
 
+[![P]][VE041] **v0.4.1 (tst)**
+--------------------------------------------------------------------------------
+[#41-tst-date]: tasks/2024-08-02-0041-tst-date.md
+[VE041]: history.md#-v041-tst
+
+|    дата    | время |     ветка      |    статус     |  
+|:----------:|:-----:|:--------------:|:-------------:|  
+| 2024-08-08 | 19:00 | [#41-tst-date] | [![V]][VE041] |  
+
+Добавлены юнит-тесты:  
+  - `DTSValue.ctor.posix`  
+  - `DTSValue.ctor.stamp`  
+  - `DTSValue.ctor.value`  
+  - `DTSValue.addSeconds`  
+  - `DTSValue.ctor.ms.1`  
+  - `DTSValue.ctor.ms.2`  
+  - `DTSValue.ctor.ms`  
+  - `DTSValue.clone`  
+<br/>
+
 
 [![S]][VE040] **v0.4.0 (dev)**
 --------------------------------------------------------------------------------
@@ -19,6 +39,15 @@
 
 Добавлен инструмент `date`  
   - класс `DTSValue`  
+
+Добавлены юнит-тесты:  
+  - `DTSValue.ctor.string`  
+  - `DTSValue.ctor.date`  
+  - `DTSValue.ctor.time`  
+  - `DTSValue.ctor.def`  
+  - `DTSValue.ctor.1`  
+  - `DTSValue.ctor.2`  
+  - `DTSValue.ctor.3`  
 <br/>
 
 
