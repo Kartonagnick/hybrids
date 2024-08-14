@@ -66,7 +66,7 @@
 --------------------------------------------------------------------------------
 
 
-[![P]][H] **v0.4.2 (tst)**
+[![S]][H] **v0.4.2 (tst)**
 --------------------------------------------------------------------------------
 [![V]][VE042] [![2024-08-14 19:00]][VE042]  
 
@@ -79,25 +79,25 @@
 | 2024-08-09 | 11:00 | [#42-tst-date] | BEGIN  |  
 
 1. upd: `docs`  
-   - upd: `logo.png`          (042) PRE  
-   - upd: `changelog.md`      (042) PRE  
-   - upd: `history.md`        (042) PRE  
-   - upd: `chrono.md`         (042) PRE  
-   - upd: `docs.md`           (042) PRE  
+   - upd: `logo.png`           042  
+   - upd: `changelog.md`       042  
+   - upd: `history.md`         042  
+   - upd: `chrono.md`          042  
+   - upd: `docs.md`            042  
 2. upd: `docs/docs`  
-   - upd: `date.md`           (001) PRE  
+   - upd: `date.md`            001  
 3. upd: `docs/docs/date`  
-   - upd: `value.md`          (001) PRE  
+   - upd: `value.md`           001  
 4. upd: `test`  
-   - upd: `test.ver`          (039) PRE  
+   - upd: `test.ver`           039  
 5. add: `test/date/DTSValue/sources`  
-   - add: `date.string.vbs`   (001) PRE  
-   - add: `date.time.vbs`     (001) PRE  
-   - add: `date.posix.vbs`    (001) PRE  
-   - add: `date-assert-1.vbs` (001) PRE  
-   - add: `date.assert-2.vbs` (001) PRE  
-   - add: `date.assert-3.vbs` (001) PRE  
-6. upd: `project.root`        (042) PRE  
+   - add: `date.string.vbs`    001  
+   - add: `date.time.vbs`      001  
+   - add: `date.posix.vbs`     001  
+   - add: `date-assert-1.vbs`  001  
+   - add: `date.assert-2.vbs`  001  
+   - add: `date.assert-3.vbs`  001  
+6. upd: `project.root`         042  
 
 [#42-tst-date]: tasks/2024-08-09-0042-tst-date.md
 <div/>
