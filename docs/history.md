@@ -66,6 +66,43 @@
 --------------------------------------------------------------------------------
 
 
+[![P]][H] **v0.4.2 (tst)**
+--------------------------------------------------------------------------------
+[![V]][VE042] [![2024-08-14 19:00]][VE042]  
+
+[2024-08-14 19:00]: https://img.shields.io/static/v1?label=2024-08-14&message=19:00&color=yellowgreen
+[VE042]: changelog.md#-v042-tst
+
+|    дата    | время |     ветка      | статус |  
+|:----------:|:-----:|:--------------:|:------:|  
+| 2024-08-14 | 18:50 | [#42-tst-date] | DONE   |  
+| 2024-08-09 | 11:00 | [#42-tst-date] | BEGIN  |  
+
+1. upd: `docs`  
+   - upd: `logo.png`          (042) PRE  
+   - upd: `changelog.md`      (042) PRE  
+   - upd: `history.md`        (042) PRE  
+   - upd: `chrono.md`         (042) PRE  
+   - upd: `docs.md`           (042) PRE  
+2. upd: `docs/docs`  
+   - upd: `date.md`           (001) PRE  
+3. upd: `docs/docs/date`  
+   - upd: `value.md`          (001) PRE  
+4. upd: `test`  
+   - upd: `test.ver`          (039) PRE  
+5. add: `test/date/DTSValue/sources`  
+   - add: `date.string.vbs`   (001) PRE  
+   - add: `date.time.vbs`     (001) PRE  
+   - add: `date.posix.vbs`    (001) PRE  
+   - add: `date-assert-1.vbs` (001) PRE  
+   - add: `date.assert-2.vbs` (001) PRE  
+   - add: `date.assert-3.vbs` (001) PRE  
+6. upd: `project.root`        (042) PRE  
+
+[#42-tst-date]: tasks/2024-08-09-0042-tst-date.md
+<div/>
+
+
 [![S]][H] **v0.4.1 (tst)**
 --------------------------------------------------------------------------------
 [![V]][VE041] [![2024-08-08 19:00]][VE041]  
