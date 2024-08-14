@@ -1,6 +1,6 @@
 
 '--- local/hybrids                           [test][DTSValue][date-assert-2.vbs]
-'[2024-08-14][19:00:00] 001 Kartonagnick PRE
+'[2024-08-14][19:00:00] 001 Kartonagnick    
 
 sub main()
  '[ERROR][ASSERT] DTSValue.parseDate: unexpected object: 'ArrayList'
