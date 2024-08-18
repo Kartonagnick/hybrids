@@ -66,6 +66,42 @@
 --------------------------------------------------------------------------------
 
 
+[![P]][H] **v0.4.3 (tst)**
+--------------------------------------------------------------------------------
+[![V]][VE043] [![2024-08-20 19:00]][VE043]  
+
+[2024-08-20 19:00]: https://img.shields.io/static/v1?label=2024-08-20&message=19:00&color=yellowgreen
+[VE043]: changelog.md#-v043-tst
+
+|    дата    | время |     ветка      | статус |  
+|:----------:|:-----:|:--------------:|:------:|  
+| 2024-08-20 | 18:50 | [#43-tst-date] | DONE   |  
+| 2024-08-15 | 11:00 | [#43-tst-date] | BEGIN  |  
+
+1. upd: `docs`  
+   - upd: `logo.png`       (043) PRE  
+   - upd: `changelog.md`   (043) PRE  
+   - upd: `history.md`     (043) PRE  
+   - upd: `chrono.md`      (043) PRE  
+   - upd: `docs.md`        (043) PRE  
+2. upd: `docs/docs`  
+   - upd: `date.md`        (001) PRE  
+3. upd: `docs/docs/date`  
+   - upd: `value.md`       (001) PRE  
+4. upd: `test`  
+   - upd: `test.ver`       (040) PRE  
+5. add: `test/date/DTSValue/sources`  
+   - add: `getters.vbs`    (001) PRE  
+   - add: `output.vbs`     (001) PRE  
+   - add: `posix.vbs`      (001) PRE  
+   - add: `now.vbs`        (001) PRE  
+   - add: `ms.vbs`         (001) PRE  
+6. upd: `project.root`     (043) PRE  
+
+[#43-tst-date]: tasks/2024-08-15-0043-tst-date.md
+<div/>
+
+
 [![S]][H] **v0.4.2 (tst)**
 --------------------------------------------------------------------------------
 [![V]][VE042] [![2024-08-14 19:00]][VE042]  
