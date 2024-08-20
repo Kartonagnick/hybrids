@@ -66,7 +66,7 @@
 --------------------------------------------------------------------------------
 
 
-[![P]][H] **v0.4.3 (tst)**
+[![S]][H] **v0.4.3 (tst)**
 --------------------------------------------------------------------------------
 [![V]][VE043] [![2024-08-20 19:00]][VE043]  
 
@@ -79,24 +79,24 @@
 | 2024-08-15 | 11:00 | [#43-tst-date] | BEGIN  |  
 
 1. upd: `docs`  
-   - upd: `logo.png`       (043) PRE  
-   - upd: `changelog.md`   (043) PRE  
-   - upd: `history.md`     (043) PRE  
-   - upd: `chrono.md`      (043) PRE  
-   - upd: `docs.md`        (043) PRE  
+   - upd: `logo.png`        043  
+   - upd: `changelog.md`    043  
+   - upd: `history.md`      043  
+   - upd: `chrono.md`       043  
+   - upd: `docs.md`         043  
 2. upd: `docs/docs`  
-   - upd: `date.md`        (001) PRE  
+   - upd: `date.md`         001  
 3. upd: `docs/docs/date`  
-   - upd: `value.md`       (001) PRE  
+   - upd: `value.md`        001  
 4. upd: `test`  
-   - upd: `test.ver`       (040) PRE  
+   - upd: `test.ver`        040  
 5. add: `test/date/DTSValue/sources`  
-   - add: `getters.vbs`    (001) PRE  
-   - add: `output.vbs`     (001) PRE  
-   - add: `posix.vbs`      (001) PRE  
-   - add: `now.vbs`        (001) PRE  
-   - add: `ms.vbs`         (001) PRE  
-6. upd: `project.root`     (043) PRE  
+   - add: `getters.vbs`     001  
+   - add: `output.vbs`      001  
+   - add: `posix.vbs`       001  
+   - add: `now.vbs`         001  
+   - add: `ms.vbs`          001  
+6. upd: `project.root`      043  
 
 [#43-tst-date]: tasks/2024-08-15-0043-tst-date.md
 <div/>
