@@ -1,6 +1,6 @@
 
 ' --- local/hybrids                                    [test/numeric][check.vbs]
-' [2024-07-26][19:00:00] 001 Kartonagnick PRE
+' [2024-07-26][19:00:00] 001 Kartonagnick    
 
 sub test(id, deep, from, must)
   dim message: message = checkNumeric(from)
