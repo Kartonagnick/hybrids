@@ -66,7 +66,7 @@
 --------------------------------------------------------------------------------
 
 
-[![P]][H] **v0.3.9 (dev)**
+[![S]][H] **v0.3.9 (dev)**
 --------------------------------------------------------------------------------
 [![V]][VE039] [![2024-07-26 19:00]][VE039]  
 
@@ -79,23 +79,23 @@
 | 2024-07-25 | 11:00 | [#39-dev-numeric] | BEGIN  |  
 
 1. upd: `docs`  
-   - upd: `logo.png`       (039) PRE  
-   - upd: `changelog.md`   (039) PRE  
-   - upd: `history.md`     (039) PRE  
-   - upd: `chrono.md`      (039) PRE  
-   - upd: `docs.md`        (039) PRE  
+   - upd: `logo.png`        039  
+   - upd: `changelog.md`    039  
+   - upd: `history.md`      039  
+   - upd: `chrono.md`       039  
+   - upd: `docs.md`         039  
 2. upd: `docs/docs`  
-   - upd: `numeric.md`     (002) PRE  
+   - upd: `numeric.md`      002  
 3. upd: `test`  
-   - upd: `test.ver`       (036) PRE  
+   - upd: `test.ver`        036  
 4. upd: `test/numeric/sources`  
-   - upd: `struct.txt`     (002) PRE  
-   - add: `check.vbs`      (001) PRE  
+   - upd: `struct.txt`      002  
+   - add: `check.vbs`       001  
 5. upd: `vbs`  
-   - upd: `vbs.ver`        (029) PRE  
+   - upd: `vbs.ver`         029  
 6. add: `vbs/numeric`  
-   - add: `check.vbs`      (001) PRE  
-7. upd: `project.root`     (039) PRE  
+   - add: `check.vbs`       001  
+7. upd: `project.root`      039  
 
 [#39-dev-numeric]: tasks/2024-07-24-0039-dev-numeric.md
 <div/>
