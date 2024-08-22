@@ -66,7 +66,7 @@
 --------------------------------------------------------------------------------
 
 
-[![P]][H] **v0.3.6 (tst)**
+[![S]][H] **v0.3.6 (tst)**
 --------------------------------------------------------------------------------
 [![V]][VE036] [![2024-04-23 19:00]][VE036]  
 
@@ -79,20 +79,20 @@
 | 2024-04-20 | 11:00 | [#36-tst-toggle] | BEGIN  |  
 
 1. upd: `docs`  
-   - upd: `logo.png`             (036) PRE  
-   - upd: `changelog.md`         (036) PRE  
-   - upd: `history.md`           (036) PRE  
-   - upd: `chrono.md`            (036) PRE  
-   - upd: `docs.md`              (036) PRE  
-   - upd: `docs/toggle.md`       (001) PRE  
+   - upd: `logo.png`              036  
+   - upd: `changelog.md`          036  
+   - upd: `history.md`            036  
+   - upd: `chrono.md`             036  
+   - upd: `docs.md`               036  
+   - upd: `docs/toggle.md`        001  
 1. upd: `test`  
-   - upd: `test.ver`             (033) PRE  
+   - upd: `test.ver`              033  
 2. add: `test/toggle/sources`  
-   - add: `to_bool.vbs`          (001) PRE  
-   - add: `to_bool-assert-1.vbs` (001) PRE  
-   - add: `to_bool-assert-2.vbs` (001) PRE  
-   - add: `to_bool-assert-3.vbs` (001) PRE  
-3. upd: `project.root`           (036) PRE  
+   - add: `to_bool.vbs`           001  
+   - add: `to_bool-assert-1.vbs`  001  
+   - add: `to_bool-assert-2.vbs`  001  
+   - add: `to_bool-assert-3.vbs`  001  
+3. upd: `project.root`            036  
 
 [#36-tst-toggle]: tasks/2024-04-20-0036-tst-toggle.md
 <div/>
