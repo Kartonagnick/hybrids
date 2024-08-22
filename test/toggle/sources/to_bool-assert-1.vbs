@@ -1,6 +1,6 @@
 
 '--- local/hybrids                           [test/toggle][to_bool-assert-1.vbs]
-'[2024-04-23][19:00:00] 001 Kartonagnick PRE
+'[2024-04-23][19:00:00] 001 Kartonagnick    
 
 function main()
   dim obj: set obj = new Toggle
