@@ -1,6 +1,6 @@
 
 '--- local/hybrids                                           [numeric/check.vbs]
-'[2024-07-26][19:00:00] 001 Kartonagnick PRE
+'[2024-07-26][19:00:00] 001 Kartonagnick    
 '
 ' if v: String -> сorrect dot or comma symbol
 ' if v: Nothing, Empty, Null -> 0
