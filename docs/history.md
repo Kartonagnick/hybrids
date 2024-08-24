@@ -65,6 +65,60 @@
 
 --------------------------------------------------------------------------------
 
+[![P]][H] **v0.4.4 (tst)**
+--------------------------------------------------------------------------------
+[![V]][VE044] [![2024-08-24 19:00]][VE044]  
+
+[2024-08-24 19:00]: https://img.shields.io/static/v1?label=2024-08-24&message=19:00&color=yellowgreen
+[VE044]: changelog.md#-v044-tst
+
+|    дата    | время |     ветка      | статус |  
+|:----------:|:-----:|:--------------:|:------:|  
+| 2024-08-24 | 18:50 | [#44-tst-date] | DONE   |  
+| 2024-08-21 | 11:00 | [#44-tst-date] | BEGIN  |  
+
+1. upd: `docs`  
+   - upd: `logo.png`       (044) PRE  
+   - upd: `changelog.md`   (044) PRE  
+   - upd: `history.md`     (044) PRE  
+   - fix: `chrono.md`      (044) PRE  
+   - upd: `docs.md`        (044) PRE  
+2. upd: `docs/docs`  
+   - upd: `date.md`        (002) PRE  
+3. upd: `docs/docs/date`  
+   - upd: `value.md`       (002) PRE  
+4. upd: `test`  
+   - upd: `test.ver`       (041) PRE  
+5. add: `test/date/DTSValue`  
+   - add: `assert-01.vbs`  (001) PRE  
+   - add: `assert-02.vbs`  (001) PRE  
+   - add: `assert-03.vbs`  (001) PRE  
+   - add: `assert-04.vbs`  (001) PRE  
+   - add: `assert-05.vbs`  (001) PRE  
+   - add: `assert-06.vbs`  (001) PRE  
+   - add: `assert-07.vbs`  (001) PRE  
+   - add: `assert-08.vbs`  (001) PRE  
+   - add: `assert-09.vbs`  (001) PRE  
+   - add: `assert-10.vbs`  (001) PRE  
+   - add: `assert-11.vbs`  (001) PRE  
+   - add: `assert-12.vbs`  (001) PRE  
+   - add: `assert-13.vbs`  (001) PRE  
+   - add: `assert-14.vbs`  (001) PRE  
+   - add: `assert-15.vbs`  (001) PRE  
+   - add: `assert-16.vbs`  (001) PRE  
+   - add: `assert-17.vbs`  (001) PRE  
+   - add: `assert-18.vbs`  (001) PRE  
+   - add: `assert-19.vbs`  (001) PRE  
+   - add: `assert-20.vbs`  (001) PRE  
+   - add: `assert-21.vbs`  (001) PRE  
+   - add: `assert-22.vbs`  (001) PRE  
+   - add: `assert-23.vbs`  (001) PRE  
+   - add: `assert-24.vbs`  (001) PRE  
+6. upd: `project.root`     (044) PRE  
+
+[#44-tst-date]: tasks/2024-08-21-0044-tst-date.md
+<div/>
+
 
 [![S]][H] **v0.4.3 (tst)**
 --------------------------------------------------------------------------------
