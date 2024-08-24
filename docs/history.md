@@ -66,7 +66,7 @@
 --------------------------------------------------------------------------------
 
 
-[![P]][H] **v0.3.8 (dev)**
+[![S]][H] **v0.3.8 (dev)**
 --------------------------------------------------------------------------------
 [![V]][VE038] [![2024-07-24 19:00]][VE038]  
 
@@ -79,28 +79,28 @@
 | 2024-07-22 | 11:00 | [#38-dev-numeric] | BEGIN  |  
 
 1. upd: `docs`  
-   - upd: `logo.png`       (038) PRE  
-   - upd: `changelog.md`   (038) PRE  
-   - upd: `history.md`     (038) PRE  
-   - upd: `chrono.md`      (038) PRE  
-   - upd: `docs.md`        (038) PRE  
+   - upd: `logo.png`        038  
+   - upd: `changelog.md`    038  
+   - upd: `history.md`      038  
+   - upd: `chrono.md`       038  
+   - upd: `docs.md`         038  
 2. add: `docs/docs`  
-   - add: `numeric.md`     (001) PRE  
+   - add: `numeric.md`      001  
 3. upd: `test`  
-   - upd: `test.ver`       (035) PRE  
+   - upd: `test.ver`        035  
 4. add: `test/numeric`  
-   - add: `make.bat`       (001) PRE  
-   - add: `test-[vbs].bat` (001) PRE  
-   - add: `test-[wsf].bat` (001) PRE  
+   - add: `make.bat`        001  
+   - add: `test-[vbs].bat`  001  
+   - add: `test-[wsf].bat`  001  
 5. add: `test/numeric/sources`  
-   - add: `main.vbs`       (001) PRE  
-   - add: `assert-1.vbs`   (001) PRE  
-   - add: `assert-2.vbs`   (001) PRE  
-   - add: `struct.txt`     (001) PRE  
+   - add: `main.vbs`        001  
+   - add: `assert-1.vbs`    001  
+   - add: `assert-2.vbs`    001  
+   - add: `struct.txt`      001  
 6. upd: `vbs`  
-   - upd: `vbs.ver`        (028) PRE  
-   - add: `numeric.vbs`    (001) PRE  
-7. upd: `project.root`     (038) PRE  
+   - upd: `vbs.ver`         028  
+   - add: `numeric.vbs`     001  
+7. upd: `project.root`      038  
 
 [#38-dev-numeric]: tasks/2024-07-22-0038-dev-numeric.md
 <div/>
