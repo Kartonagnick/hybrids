@@ -1,6 +1,6 @@
 
 '--- local/hybrids                                      [test/numeric][main.vbs]
-'[2024-07-24][19:00:00] 001 Kartonagnick PRE
+'[2024-07-24][19:00:00] 001 Kartonagnick    
 
 sub test(id, deep, from, must, dblval)
   dim real: real = toNumeric(from)
