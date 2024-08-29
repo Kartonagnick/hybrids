@@ -3,7 +3,7 @@
 #===============================================================================
 
 # local/hybrids                                          [DTSImport][struct.txt]
-# [2024-08-29][19:00:00] 001 Kartonagnick PRE
+# [2024-08-29][19:00:00] 001 Kartonagnick    
 
 # mode = absolute
 # mode = relative
