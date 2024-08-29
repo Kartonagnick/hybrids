@@ -65,7 +65,7 @@
 
 --------------------------------------------------------------------------------
 
-[![P]][H] **v0.4.5 (dev)**
+[![S]][H] **v0.4.5 (dev)**
 --------------------------------------------------------------------------------
 [![V]][VE045] [![2024-08-29 19:00]][VE045]  
 
@@ -78,46 +78,46 @@
 | 2024-08-25 | 11:00 | [#45-dev-date] | BEGIN  |  
 
 1. upd: `docs`  
-   - upd: `logo.png`            (045) PRE  
-   - upd: `changelog.md`        (045) PRE  
-   - upd: `history.md`          (045) PRE  
-   - upd: `chrono.md`           (045) PRE  
-   - upd: `docs.md`             (045) PRE  
+   - upd: `logo.png`             045  
+   - upd: `changelog.md`         045  
+   - upd: `history.md`           045  
+   - upd: `chrono.md`            045  
+   - upd: `docs.md`              045  
 2. upd: `docs/docs`  
-   - upd: `date.md`             (002) PRE  
+   - upd: `date.md`              002  
 3. add: `docs/docs/date`  
-   - add: `import.md`           (005) PRE  
+   - add: `import.md`            005  
 4. upd: `test`  
-   - upd: `test.ver`            (042) PRE  
+   - upd: `test.ver`             042  
 5. add: `test/date/DTSImport`  
-   - add: `test-[wsf].bat`      (001) PRE  
-   - add: `test-[vbs].bat`      (001) PRE  
-   - add: `make.bat`            (001) PRE  
+   - add: `test-[wsf].bat`       001  
+   - add: `test-[vbs].bat`       001  
+   - add: `make.bat`             001  
 6. add: `test/date/DTSImport/sources`  
-   - add: `struct.txt`          (001) PRE  
-   - add: `parse.vbs`           (005) PRE  
-   - add: `parse.except.3.vbs`  (005) PRE  
-   - add: `parse.except.2.vbs`  (005) PRE  
-   - add: `parse.except.1.vbs`  (005) PRE  
-   - add: `format.vbs`          (005) PRE  
-   - add: `format.except.1.vbs` (005) PRE  
-   - add: `format.assert.5.vbs` (005) PRE  
-   - add: `format.assert.4.vbs` (005) PRE  
-   - add: `format.assert.3.vbs` (005) PRE  
-   - add: `format.assert.2.vbs` (005) PRE  
-   - add: `format.assert.1.vbs` (005) PRE  
-   - add: `ctor.vbs`            (005) PRE  
-   - add: `ctor.assert.5.vbs`   (005) PRE  
-   - add: `ctor.assert.4.vbs`   (005) PRE  
-   - add: `ctor.assert.3.vbs`   (005) PRE  
-   - add: `ctor.assert.2.vbs`   (005) PRE  
-   - add: `ctor.assert.1.vbs`   (005) PRE  
-   - add: `clone.vbs`           (005) PRE  
+   - add: `struct.txt`           001  
+   - add: `parse.vbs`            005  
+   - add: `parse.except.3.vbs`   005  
+   - add: `parse.except.2.vbs`   005  
+   - add: `parse.except.1.vbs`   005  
+   - add: `format.vbs`           005  
+   - add: `format.except.1.vbs`  005  
+   - add: `format.assert.5.vbs`  005  
+   - add: `format.assert.4.vbs`  005  
+   - add: `format.assert.3.vbs`  005  
+   - add: `format.assert.2.vbs`  005  
+   - add: `format.assert.1.vbs`  005  
+   - add: `ctor.vbs`             005  
+   - add: `ctor.assert.5.vbs`    005  
+   - add: `ctor.assert.4.vbs`    005  
+   - add: `ctor.assert.3.vbs`    005  
+   - add: `ctor.assert.2.vbs`    005  
+   - add: `ctor.assert.1.vbs`    005  
+   - add: `clone.vbs`            005  
 7. upd: `vbs`  
-   - upd: `vbs.ver`             (031) PRE  
+   - upd: `vbs.ver`              031  
 8. add: `vbs/date`  
-   - add: `import.vbs`          (005) PRE  
-9. upd: `project.root`          (045) PRE  
+   - add: `import.vbs`           005  
+9. upd: `project.root`           045  
 
 [#45-dev-date]: tasks/2024-08-25-0045-dev-date.md
 <div/>
