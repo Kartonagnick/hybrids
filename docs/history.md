@@ -65,6 +65,64 @@
 
 --------------------------------------------------------------------------------
 
+[![P]][H] **v0.4.5 (dev)**
+--------------------------------------------------------------------------------
+[![V]][VE045] [![2024-08-29 19:00]][VE045]  
+
+[2024-08-29 19:00]: https://img.shields.io/static/v1?label=2024-08-29&message=19:00&color=yellowgreen
+[VE045]: changelog.md#-v045-dev
+
+|    дата    | время |     ветка      | статус |  
+|:----------:|:-----:|:--------------:|:------:|  
+| 2024-08-29 | 18:50 | [#45-dev-date] | DONE   |  
+| 2024-08-25 | 11:00 | [#45-dev-date] | BEGIN  |  
+
+1. upd: `docs`  
+   - upd: `logo.png`            (045) PRE  
+   - upd: `changelog.md`        (045) PRE  
+   - upd: `history.md`          (045) PRE  
+   - upd: `chrono.md`           (045) PRE  
+   - upd: `docs.md`             (045) PRE  
+2. upd: `docs/docs`  
+   - upd: `date.md`             (002) PRE  
+3. add: `docs/docs/date`  
+   - add: `import.md`           (005) PRE  
+4. upd: `test`  
+   - upd: `test.ver`            (042) PRE  
+5. add: `test/date/DTSImport`  
+   - add: `test-[wsf].bat`      (001) PRE  
+   - add: `test-[vbs].bat`      (001) PRE  
+   - add: `make.bat`            (001) PRE  
+6. add: `test/date/DTSImport/sources`  
+   - add: `struct.txt`          (001) PRE  
+   - add: `parse.vbs`           (005) PRE  
+   - add: `parse.except.3.vbs`  (005) PRE  
+   - add: `parse.except.2.vbs`  (005) PRE  
+   - add: `parse.except.1.vbs`  (005) PRE  
+   - add: `format.vbs`          (005) PRE  
+   - add: `format.except.1.vbs` (005) PRE  
+   - add: `format.assert.5.vbs` (005) PRE  
+   - add: `format.assert.4.vbs` (005) PRE  
+   - add: `format.assert.3.vbs` (005) PRE  
+   - add: `format.assert.2.vbs` (005) PRE  
+   - add: `format.assert.1.vbs` (005) PRE  
+   - add: `ctor.vbs`            (005) PRE  
+   - add: `ctor.assert.5.vbs`   (005) PRE  
+   - add: `ctor.assert.4.vbs`   (005) PRE  
+   - add: `ctor.assert.3.vbs`   (005) PRE  
+   - add: `ctor.assert.2.vbs`   (005) PRE  
+   - add: `ctor.assert.1.vbs`   (005) PRE  
+   - add: `clone.vbs`           (005) PRE  
+7. upd: `vbs`  
+   - upd: `vbs.ver`             (031) PRE  
+8. add: `vbs/date`  
+   - add: `import.vbs`          (005) PRE  
+9. upd: `project.root`          (045) PRE  
+
+[#45-dev-date]: tasks/2024-08-25-0045-dev-date.md
+<div/>
+
+
 [![S]][H] **v0.4.4 (tst)**
 --------------------------------------------------------------------------------
 [![V]][VE044] [![2024-08-24 19:00]][VE044]  
