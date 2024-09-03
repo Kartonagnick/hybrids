@@ -66,7 +66,7 @@
 --------------------------------------------------------------------------------
 
 
-[![P]][H] **v0.4.8 (tst)**
+[![S]][H] **v0.4.8 (tst)**
 --------------------------------------------------------------------------------
 [![V]][VE048] [![2024-09-14 19:00]][VE048]  
 
@@ -79,32 +79,32 @@
 | 2024-09-10 | 11:00 | [#48-tst-date] | BEGIN  |  
 
 1. upd: `docs`  
-   - upd: `logo.png`            (048) PRE  
-   - upd: `changelog.md`        (048) PRE  
-   - upd: `history.md`          (048) PRE  
-   - upd: `chrono.md`           (048) PRE  
-   - upd: `docs.md`             (048) PRE  
+   - upd: `logo.png`             048  
+   - upd: `changelog.md`         048  
+   - upd: `history.md`           048  
+   - upd: `chrono.md`            048  
+   - upd: `docs.md`              048  
 2. upd: `docs/docs`  
-   - upd: `date.md`             (002) PRE  
+   - upd: `date.md`              002  
 3. upd: `docs/docs/date`  
-   - upd: `stamp.md`            (005) PRE  
+   - upd: `stamp.md`             005  
 4. upd: `test`  
-   - upd: `test.ver`            (045) PRE  
+   - upd: `test.ver`             045  
 5. add: `test/date/DTStamp/sources`  
-   - add: `workspace.vbs`       (005) PRE  
-   - add: `value.vbs`           (005) PRE  
-   - add: `usage.vbs`           (005) PRE  
-   - add: `stamp.vbs`           (005) PRE  
-   - add: `posix.vbs`           (005) PRE  
-   - add: `output.vbs`          (005) PRE  
-   - add: `now.vbs`             (005) PRE  
-   - add: `import.vbs`          (005) PRE  
-   - add: `import.except.vbs`   (005) PRE  
-   - add: `getters.vbs`         (005) PRE  
-   - add: `export.vbs`          (005) PRE  
-   - add: `addSeconds.vbs`      (005) PRE  
-   - add: `addMilliseconds.vbs` (005) PRE  
-6. upd: `project.root`          (048) PRE  
+   - add: `workspace.vbs`        005  
+   - add: `value.vbs`            005  
+   - add: `usage.vbs`            005  
+   - add: `stamp.vbs`            005  
+   - add: `posix.vbs`            005  
+   - add: `output.vbs`           005  
+   - add: `now.vbs`              005  
+   - add: `import.vbs`           005  
+   - add: `import.except.vbs`    005  
+   - add: `getters.vbs`          005  
+   - add: `export.vbs`           005  
+   - add: `addSeconds.vbs`       005  
+   - add: `addMilliseconds.vbs`  005  
+6. upd: `project.root`           048  
 
 [#48-tst-date]: tasks/2024-09-10-0048-tst-date.md
 <div/>
