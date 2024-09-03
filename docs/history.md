@@ -66,7 +66,7 @@
 --------------------------------------------------------------------------------
 
 
-[![P]][H] **v0.4.6 (dev)**
+[![S]][H] **v0.4.6 (dev)**
 --------------------------------------------------------------------------------
 [![V]][VE046] [![2024-09-03 19:00]][VE046]  
 
@@ -79,48 +79,48 @@
 | 2024-08-30 | 11:00 | [#46-dev-date] | BEGIN  |  
 
 1. upd: `docs`  
-   - upd: `logo.png`            (046) PRE  
-   - upd: `changelog.md`        (046) PRE  
-   - upd: `history.md`          (046) PRE  
-   - upd: `chrono.md`           (046) PRE  
-   - upd: `docs.md`             (046) PRE  
+   - upd: `logo.png`             046  
+   - upd: `changelog.md`         046  
+   - upd: `history.md`           046  
+   - upd: `chrono.md`            046  
+   - upd: `docs.md`              046  
 2. upd: `docs/docs`  
-   - upd: `date.md`             (002) PRE  
+   - upd: `date.md`              002  
 3. add: `docs/docs/date`  
-   - add: `export.md`           (005) PRE  
+   - add: `export.md`            005  
 4. upd: `test`  
-   - upd: `test.ver`            (043) PRE  
+   - upd: `test.ver`             043  
 5. add: `test/date/DTSExport`  
-   - add: `make.bat`            (001) PRE  
-   - add: `test-[wsf].bat`      (001) PRE  
-   - add: `test-[vbs].bat`      (001) PRE  
+   - add: `make.bat`             001  
+   - add: `test-[wsf].bat`       001  
+   - add: `test-[vbs].bat`       001  
 6. add: `test/date/DTSExport/sources`
-   - add: `struct.txt`          (001) PRE  
-   - add: `stamp.vbs`           (005) PRE  
-   - add: `stamp.assert.5.vbs`  (005) PRE  
-   - add: `stamp.assert.4.vbs`  (005) PRE  
-   - add: `stamp.assert.3.vbs`  (005) PRE  
-   - add: `stamp.assert.2.vbs`  (005) PRE  
-   - add: `stamp.assert.1.vbs`  (005) PRE  
-   - add: `format.vbs`          (005) PRE  
-   - add: `format.except.1.vbs` (005) PRE  
-   - add: `format.assert.5.vbs` (005) PRE  
-   - add: `format.assert.4.vbs` (005) PRE  
-   - add: `format.assert.3.vbs` (005) PRE  
-   - add: `format.assert.2.vbs` (005) PRE  
-   - add: `format.assert.1.vbs` (005) PRE  
-   - add: `ctor.vbs`            (005) PRE  
-   - add: `ctor.assert.5.vbs`   (005) PRE  
-   - add: `ctor.assert.4.vbs`   (005) PRE  
-   - add: `ctor.assert.3.vbs`   (005) PRE  
-   - add: `ctor.assert.2.vbs`   (005) PRE  
-   - add: `ctor.assert.1.vbs`   (005) PRE  
-   - add: `clone.vbs`           (005) PRE  
+   - add: `struct.txt`           001  
+   - add: `stamp.vbs`            005  
+   - add: `stamp.assert.5.vbs`   005  
+   - add: `stamp.assert.4.vbs`   005  
+   - add: `stamp.assert.3.vbs`   005  
+   - add: `stamp.assert.2.vbs`   005  
+   - add: `stamp.assert.1.vbs`   005  
+   - add: `format.vbs`           005  
+   - add: `format.except.1.vbs`  005  
+   - add: `format.assert.5.vbs`  005  
+   - add: `format.assert.4.vbs`  005  
+   - add: `format.assert.3.vbs`  005  
+   - add: `format.assert.2.vbs`  005  
+   - add: `format.assert.1.vbs`  005  
+   - add: `ctor.vbs`             005  
+   - add: `ctor.assert.5.vbs`    005  
+   - add: `ctor.assert.4.vbs`    005  
+   - add: `ctor.assert.3.vbs`    005  
+   - add: `ctor.assert.2.vbs`    005  
+   - add: `ctor.assert.1.vbs`    005  
+   - add: `clone.vbs`            005  
 7. upd: `vbs`  
-   - upd: `vbs.ver`             (032) PRE  
+   - upd: `vbs.ver`              032  
 8. add: `vbs/date`  
-   - add: `export.vbs`          (005) PRE  
-9. upd: `project.root`          (046) PRE  
+   - add: `export.vbs`           005  
+9. upd: `project.root`           046  
 
 [#46-dev-date]: tasks/2024-08-30-0046-dev-date.md
 <div/>
