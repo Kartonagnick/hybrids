@@ -1,6 +1,6 @@
 
 '--- local/hybrids                               [test][DTStamp][ctor.string.vbs]
-'[2024-09-09][19:00:00] 001 Kartonagnick PRE
+'[2024-09-09][19:00:00] 001 Kartonagnick    
 
 sub main()
   dim obj, deep: deep = 0
