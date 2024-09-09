@@ -66,7 +66,7 @@
 --------------------------------------------------------------------------------
 
 
-[![P]][H] **v0.4.7 (dev)**
+[![S]][H] **v0.4.7 (dev)**
 --------------------------------------------------------------------------------
 [![V]][VE047] [![2024-09-09 19:00]][VE047]  
 
@@ -79,42 +79,42 @@
 | 2024-09-04 | 11:00 | [#47-dev-date] | BEGIN  |  
 
 1. upd: `docs`  
-   - upd: `logo.png`               (047) PRE  
-   - upd: `changelog.md`           (047) PRE  
-   - upd: `history.md`             (047) PRE  
-   - upd: `chrono.md`              (047) PRE  
-   - upd: `docs.md`                (047) PRE  
+   - upd: `logo.png`                047  
+   - upd: `changelog.md`            047  
+   - upd: `history.md`              047  
+   - upd: `chrono.md`               047  
+   - upd: `docs.md`                 047  
 2. upd: `docs/docs`  
-   - upd: `date.md`                (002) PRE  
+   - upd: `date.md`                 002  
 3. add: `docs/docs/date`  
-   - add: `stamp.md`               (005) PRE  
+   - add: `stamp.md`                005  
 4. upd: `test`  
-   - upd: `test.ver`               (044) PRE  
+   - upd: `test.ver`                044  
 5. add: `test/date/DTStamp`  
-   - add: `make.bat`               (001) PRE  
-   - add: `test-[vbs].bat`         (001) PRE  
-   - add: `test-[wsf].bat`         (001) PRE  
+   - add: `make.bat`                001  
+   - add: `test-[vbs].bat`          001  
+   - add: `test-[wsf].bat`          001  
 6. add: `test/date/DTStamp/sources`  
-   - add: `struct.txt`             (001) PRE  
-   - add: `ctor.type.assert-3.vbs` (001) PRE  
-   - add: `ctor.type.assert-2.vbs` (001) PRE  
-   - add: `ctor.type.assert-1.vbs` (001) PRE  
-   - add: `ctor.time.vbs`          (001) PRE  
-   - add: `ctor.string.vbs`        (001) PRE  
-   - add: `ctor.string.except.vbs` (005) PRE  
-   - add: `ctor.posix.vbs`         (001) PRE  
-   - add: `ctor.nothing.vbs`       (001) PRE  
-   - add: `ctor.import.vbs`        (001) PRE  
-   - add: `ctor.export.vbs`        (001) PRE  
-   - add: `ctor.def.vbs`           (005) PRE  
-   - add: `ctor.date.vbs`          (001) PRE  
-   - add: `ctor.arg.vbs`           (005) PRE  
-   - add: `clone.vbs`              (005) PRE  
+   - add: `struct.txt`              001  
+   - add: `ctor.type.assert-3.vbs`  001  
+   - add: `ctor.type.assert-2.vbs`  001  
+   - add: `ctor.type.assert-1.vbs`  001  
+   - add: `ctor.time.vbs`           001  
+   - add: `ctor.string.vbs`         001  
+   - add: `ctor.string.except.vbs`  005  
+   - add: `ctor.posix.vbs`          001  
+   - add: `ctor.nothing.vbs`        001  
+   - add: `ctor.import.vbs`         001  
+   - add: `ctor.export.vbs`         001  
+   - add: `ctor.def.vbs`            005  
+   - add: `ctor.date.vbs`           001  
+   - add: `ctor.arg.vbs`            005  
+   - add: `clone.vbs`               005  
 7. upd: `vbs`  
-   - upd: `vbs.ver`                (033) PRE  
+   - upd: `vbs.ver`                 033  
 8. add: `vbs/date`  
-   - add: `stamp.vbs`              (005) PRE  
-9. upd: `project.root`             (047) PRE  
+   - add: `stamp.vbs`               005  
+9. upd: `project.root`              047  
 
 [#47-dev-date]: tasks/2024-09-04-0047-dev-date.md
 <div/>
