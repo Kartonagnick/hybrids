@@ -1,6 +1,6 @@
 
 '--- local/hybrids                          [test][date\range][type.assert-2.vbs]
-'[2024-09-17][19:00:00] 001 Kartonagnick PRE
+'[2024-09-17][19:00:00] 001 Kartonagnick    
 
 sub main()
 '[ERROR][ASSERT] dateRange: invalid type: DTStamp VS DTSValue

@@ -3,7 +3,7 @@
 #===============================================================================
 
 # local/hybrids                                         [date/range][struct.txt]
-# [2024-09-17][19:00:00] 001 Kartonagnick PRE
+# [2024-09-17][19:00:00] 001 Kartonagnick    
 
 # mode = absolute
 # mode = relative
