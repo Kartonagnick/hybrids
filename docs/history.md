@@ -65,7 +65,7 @@
 
 --------------------------------------------------------------------------------
 
-[![P]][H] **v0.4.9 (dev)**
+[![S]][H] **v0.4.9 (dev)**
 --------------------------------------------------------------------------------
 [![V]][VE049] [![2024-09-17 19:00]][VE049]  
 
@@ -78,34 +78,34 @@
 | 2024-09-10 | 11:00 | [#49-dev-date] | BEGIN  |  
 
 1. upd: `docs`  
-   - upd: `logo.png`          (049) PRE  
-   - upd: `changelog.md`      (049) PRE  
-   - upd: `history.md`        (049) PRE  
-   - upd: `chrono.md`         (049) PRE  
-   - upd: `docs.md`           (049) PRE  
+   - upd: `logo.png`           049  
+   - upd: `changelog.md`       049  
+   - upd: `history.md`         049  
+   - upd: `chrono.md`          049  
+   - upd: `docs.md`            049  
 2. upd: `docs/docs`  
-   - upd: `date.md`           (002) PRE  
+   - upd: `date.md`            002  
 3. add: `docs/docs/date`  
-   - add: `range.md`          (005) PRE  
+   - add: `range.md`           005  
 4. upd: `test`  
-   - upd: `test.ver`          (046) PRE  
+   - upd: `test.ver`           046  
 5. add: `test/date/range`  
-   - add: `make.bat`          (001) PRE  
-   - add: `test-[vbs].bat`    (001) PRE  
-   - add: `test-[wsf].bat`    (001) PRE  
+   - add: `make.bat`           001  
+   - add: `test-[vbs].bat`     001  
+   - add: `test-[wsf].bat`     001  
 6. add: `test/date/range/sources`  
-   - add: `struct.txt`        (001) PRE  
-   - add: `main.vbs`          (002) PRE  
-   - add: `except.vbs`        (001) PRE  
-   - add: `type.assert-1.vbs` (001) PRE  
-   - add: `type.assert-2.vbs` (001) PRE  
-   - add: `type.assert-3.vbs` (001) PRE  
-   - add: `type.assert-4.vbs` (001) PRE  
+   - add: `struct.txt`         001  
+   - add: `main.vbs`           002  
+   - add: `except.vbs`         001  
+   - add: `type.assert-1.vbs`  001  
+   - add: `type.assert-2.vbs`  001  
+   - add: `type.assert-3.vbs`  001  
+   - add: `type.assert-4.vbs`  001  
 7. upd: `vbs`  
-   - upd: `vbs.ver`           (034) PRE  
+   - upd: `vbs.ver`            034  
 8. add: `vbs/date`  
-   - add: `range.vbs`         (003) PRE  
-9. upd: `project.root`        (049) PRE  
+   - add: `range.vbs`          003  
+9. upd: `project.root`         049  
 
 [#49-dev-date]: tasks/2024-09-15-0049-dev-date.md
 <div/>
