@@ -65,6 +65,51 @@
 
 --------------------------------------------------------------------------------
 
+[![P]][H] **v0.4.9 (dev)**
+--------------------------------------------------------------------------------
+[![V]][VE049] [![2024-09-17 19:00]][VE049]  
+
+[2024-09-17 19:00]: https://img.shields.io/static/v1?label=2024-09-17&message=19:00&color=yellowgreen
+[VE049]: changelog.md#-v049-dev
+
+|    дата    | время |     ветка      | статус |  
+|:----------:|:-----:|:--------------:|:------:|  
+| 2024-09-14 | 18:50 | [#49-dev-date] | DONE   |  
+| 2024-09-10 | 11:00 | [#49-dev-date] | BEGIN  |  
+
+1. upd: `docs`  
+   - upd: `logo.png`          (049) PRE  
+   - upd: `changelog.md`      (049) PRE  
+   - upd: `history.md`        (049) PRE  
+   - upd: `chrono.md`         (049) PRE  
+   - upd: `docs.md`           (049) PRE  
+2. upd: `docs/docs`  
+   - upd: `date.md`           (002) PRE  
+3. add: `docs/docs/date`  
+   - add: `range.md`          (005) PRE  
+4. upd: `test`  
+   - upd: `test.ver`          (046) PRE  
+5. add: `test/date/range`  
+   - add: `make.bat`          (001) PRE  
+   - add: `test-[vbs].bat`    (001) PRE  
+   - add: `test-[wsf].bat`    (001) PRE  
+6. add: `test/date/range/sources`  
+   - add: `struct.txt`        (001) PRE  
+   - add: `main.vbs`          (002) PRE  
+   - add: `except.vbs`        (001) PRE  
+   - add: `type.assert-1.vbs` (001) PRE  
+   - add: `type.assert-2.vbs` (001) PRE  
+   - add: `type.assert-3.vbs` (001) PRE  
+   - add: `type.assert-4.vbs` (001) PRE  
+7. upd: `vbs`  
+   - upd: `vbs.ver`           (034) PRE  
+8. add: `vbs/date`  
+   - add: `range.vbs`         (003) PRE  
+9. upd: `project.root`        (049) PRE  
+
+[#49-dev-date]: tasks/2024-09-15-0049-dev-date.md
+<div/>
+
 
 [![S]][H] **v0.4.8 (tst)**
 --------------------------------------------------------------------------------
