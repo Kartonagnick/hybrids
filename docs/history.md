@@ -65,7 +65,7 @@
 
 --------------------------------------------------------------------------------
 
-[![P]][H] **v0.5.0 (dev)**
+[![S]][H] **v0.5.0 (dev)**
 --------------------------------------------------------------------------------
 [![V]][VE050] [![2024-09-20 19:00]][VE050]  
 
@@ -78,31 +78,31 @@
 | 2024-09-18 | 11:00 | [#50-dev-date] | BEGIN  |  
 
 1. upd: `docs`  
-   - upd: `logo.png`                (050) PRE  
-   - upd: `changelog.md`            (050) PRE  
-   - upd: `history.md`              (050) PRE  
-   - upd: `chrono.md`               (050) PRE  
-   - upd: `docs.md`                 (050) PRE  
+   - upd: `logo.png`                 050  
+   - upd: `changelog.md`             050  
+   - upd: `history.md`               050  
+   - upd: `chrono.md`                050  
+   - upd: `docs.md`                  050  
 2. upd: `docs/docs`  
-   - upd: `date.md`                 (002) PRE  
+   - upd: `date.md`                  002  
 3. add: `docs/docs/date`  
-   - add: `duration.md`             (002) PRE  
+   - add: `duration.md`              002  
 4. upd: `test`  
-   - upd: `test.ver`                (047) PRE  
+   - upd: `test.ver`                 047  
 5. add: `test/date/duration`  
-   - add: `make.bat`                (001) PRE  
-   - add: `test-[vbs].bat`          (001) PRE  
-   - add: `test-[wsf].bat`          (001) PRE  
+   - add: `make.bat`                 001  
+   - add: `test-[vbs].bat`           001  
+   - add: `test-[wsf].bat`           001  
 6. add: `test/date/duration/sources`  
-   - add: `struct.txt`              (001) PRE  
-   - add: `durationFromSeconds.vbs` (001) PRE  
-   - add: `durationFromMS.vbs`      (001) PRE  
-   - add: `durationFrom.vbs`        (001) PRE  
+   - add: `struct.txt`               001  
+   - add: `durationFromSeconds.vbs`  001  
+   - add: `durationFromMS.vbs`       001  
+   - add: `durationFrom.vbs`         001  
 7. upd: `vbs`  
-   - upd: `vbs.ver`                 (035) PRE  
+   - upd: `vbs.ver`                  035  
 8. add: `vbs/date`  
-   - add: `duration.vbs`            (002) PRE  
-9. upd: `project.root`              (050) PRE  
+   - add: `duration.vbs`             002  
+9. upd: `project.root`               050  
 
 [#50-dev-date]: tasks/2024-09-18-0050-dev-date.md
 <div/>

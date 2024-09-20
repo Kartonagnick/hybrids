@@ -1,6 +1,6 @@
 
 '--- local/hybrids                                       [date/durationFrom.vbs]
-'[2024-09-20][19:00:00] 001 Kartonagnick PRE
+'[2024-09-20][19:00:00] 001 Kartonagnick    
 '  --- CastleOfDreams/vbs                                  [date/periodFrom.vbs]
 '  [2021-07-30][23:30:00] 001 Kartonagnick
 
