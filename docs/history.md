@@ -65,6 +65,49 @@
 
 --------------------------------------------------------------------------------
 
+[![P]][H] **v0.5.0 (dev)**
+--------------------------------------------------------------------------------
+[![V]][VE050] [![2024-09-20 19:00]][VE050]  
+
+[2024-09-20 19:00]: https://img.shields.io/static/v1?label=2024-09-20&message=19:00&color=yellowgreen
+[VE050]: changelog.md#-v050-dev
+
+|    дата    | время |     ветка      | статус |  
+|:----------:|:-----:|:--------------:|:------:|  
+| 2024-09-20 | 18:50 | [#50-dev-date] | DONE   |  
+| 2024-09-18 | 11:00 | [#50-dev-date] | BEGIN  |  
+
+1. upd: `docs`  
+   - upd: `logo.png`                (050) PRE  
+   - upd: `changelog.md`            (050) PRE  
+   - upd: `history.md`              (050) PRE  
+   - upd: `chrono.md`               (050) PRE  
+   - upd: `docs.md`                 (050) PRE  
+2. upd: `docs/docs`  
+   - upd: `date.md`                 (002) PRE  
+3. add: `docs/docs/date`  
+   - add: `duration.md`             (002) PRE  
+4. upd: `test`  
+   - upd: `test.ver`                (047) PRE  
+5. add: `test/date/duration`  
+   - add: `make.bat`                (001) PRE  
+   - add: `test-[vbs].bat`          (001) PRE  
+   - add: `test-[wsf].bat`          (001) PRE  
+6. add: `test/date/duration/sources`  
+   - add: `struct.txt`              (001) PRE  
+   - add: `durationFromSeconds.vbs` (001) PRE  
+   - add: `durationFromMS.vbs`      (001) PRE  
+   - add: `durationFrom.vbs`        (001) PRE  
+7. upd: `vbs`  
+   - upd: `vbs.ver`                 (035) PRE  
+8. add: `vbs/date`  
+   - add: `duration.vbs`            (002) PRE  
+9. upd: `project.root`              (050) PRE  
+
+[#50-dev-date]: tasks/2024-09-18-0050-dev-date.md
+<div/>
+
+
 [![S]][H] **v0.4.9 (dev)**
 --------------------------------------------------------------------------------
 [![V]][VE049] [![2024-09-17 19:00]][VE049]  
