@@ -1,6 +1,6 @@
 
 '--- local/hybrids                                              [date/point.vbs]
-'[2024-09-22][19:00:00] 001 Kartonagnick PRE
+'[2024-09-22][19:00:00] 001 Kartonagnick    
 '
 ' includeVBS("../numeric.vbs")
 ' includeVBS("../padding.vbs")

@@ -1,6 +1,6 @@
 
 '--- local/hybrids                                   [test][date\point][main.vbs]
-'[2024-09-22][19:00:00] 001 Kartonagnick PRE
+'[2024-09-22][19:00:00] 001 Kartonagnick    
 
 dim elapsed, deep: deep = 0
 
