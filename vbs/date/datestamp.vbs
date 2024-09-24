@@ -1,6 +1,6 @@
 
 '--- local/hybrids                                          [date/datestamp.vbs]
-'[2024-09-24][19:00:00] 001 Kartonagnick PRE
+'[2024-09-24][19:00:00] 001 Kartonagnick    
 
 function datestamp()
   dim dt: dt = now()
