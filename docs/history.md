@@ -65,7 +65,7 @@
 
 --------------------------------------------------------------------------------
 
-[![P]][H] **v0.5.2 (dev)**
+[![S]][H] **v0.5.2 (dev)**
 --------------------------------------------------------------------------------
 [![V]][VE052] [![2024-09-24 19:00]][VE052]  
 
@@ -78,29 +78,29 @@
 | 2024-09-23 | 11:00 | [#52-dev-date] | BEGIN  |  
 
 1. upd: `docs`  
-   - upd: `logo.png`       (052) PRE  
-   - upd: `changelog.md`   (052) PRE  
-   - upd: `history.md`     (052) PRE  
-   - upd: `chrono.md`      (052) PRE  
-   - upd: `docs.md`        (052) PRE  
+   - upd: `logo.png`        052  
+   - upd: `changelog.md`    052  
+   - upd: `history.md`      052  
+   - upd: `chrono.md`       052  
+   - upd: `docs.md`         052  
 2. upd: `docs/docs`  
-   - upd: `date.md`        (002) PRE  
+   - upd: `date.md`         002  
 3. add: `docs/docs/date`  
-   - add: `datestamp.md`   (001) PRE  
+   - add: `datestamp.md`    001  
 4. upd: `test`  
-   - upd: `test.ver`       (049) PRE  
+   - upd: `test.ver`        049  
 5. add: `test/date/datestamp`  
-   - add: `make.bat`       (001) PRE  
-   - add: `test-[vbs].bat` (001) PRE  
-   - add: `test-[wsf].bat` (001) PRE  
+   - add: `make.bat`        001  
+   - add: `test-[vbs].bat`  001  
+   - add: `test-[wsf].bat`  001  
 6. add: `test/date/datestamp/sources`  
-   - add: `struct.txt`     (001) PRE  
-   - add: `main.vbs`       (001) PRE  
+   - add: `struct.txt`      001  
+   - add: `main.vbs`        001  
 7. upd: `vbs`  
-   - upd: `vbs.ver`        (037) PRE  
+   - upd: `vbs.ver`         037  
 8. add: `vbs/date`  
-   - add: `datestamp.vbs`  (001) PRE  
-9. upd: `project.root`     (052) PRE  
+   - add: `datestamp.vbs`   001  
+9. upd: `project.root`      052  
 
 [#52-dev-date]: tasks/2024-09-23-0052-dev-date.md
 <div/>
