@@ -40,12 +40,13 @@
 [date/duration]:    docs/date/duration.md
 [date/point]:       docs/date/point.md
 [date/datestamp]:   docs/date/datestamp.md
+[date/elapsed]:     docs/date/elapsed.md
 
 [map]: https://mind-map-online.ru/sh-9223a24c9e4a6628?panelMain=0&menubar=0&freezePanels=1&scrollable=0
 [fac]: docs/factory.md
     
 <a name="main"></a>
-[![S]][H] Документация v0.5.2
+[![P]][H] Документация v0.5.3
 =============================
 Это уже третия реинкарнация проекта `hybrids`  
 Цель проекта: привести кодовую базу в порядок, и сделать полноценный релиз.  
@@ -83,6 +84,7 @@
 30. [date/duration]  
 31. [date/point]  
 32. [date/datestamp]  
+32. [date/elapsed]  
 
 [фабрика гибридов][fac]  
 [карта проекта][map]  
