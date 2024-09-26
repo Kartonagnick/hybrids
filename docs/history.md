@@ -65,7 +65,7 @@
 
 --------------------------------------------------------------------------------
 
-[![P]][H] **v0.5.3 (dev)**
+[![S]][H] **v0.5.3 (dev)**
 --------------------------------------------------------------------------------
 [![V]][VE053] [![2024-09-26 19:00]][VE053]  
 
@@ -78,29 +78,29 @@
 | 2024-09-25 | 11:00 | [#53-dev-date] | BEGIN  |  
 
 1. upd: `docs`  
-   - upd: `logo.png`       (053) PRE  
-   - upd: `changelog.md`   (053) PRE  
-   - upd: `history.md`     (053) PRE  
-   - upd: `chrono.md`      (053) PRE  
-   - upd: `docs.md`        (053) PRE  
+   - upd: `logo.png`        053  
+   - upd: `changelog.md`    053  
+   - upd: `history.md`      053  
+   - upd: `chrono.md`       053  
+   - upd: `docs.md`         053  
 2. upd: `docs/docs`  
-   - upd: `date.md`        (002) PRE  
+   - upd: `date.md`         002  
 3. add: `docs/docs/date`  
-   - add: `elapsed.md`     (001) PRE  
+   - add: `elapsed.md`      001  
 4. upd: `test`  
-   - upd: `test.ver`       (050) PRE  
+   - upd: `test.ver`        050  
 5. add: `test/date/elapsed`  
-   - add: `make.bat`       (001) PRE  
-   - add: `test-[wsf].bat` (001) PRE  
-   - add: `test-[vbs].bat` (001) PRE  
+   - add: `make.bat`        001  
+   - add: `test-[wsf].bat`  001  
+   - add: `test-[vbs].bat`  001  
 6. add: `test/date/elapsed/sources`  
-   - add: `struct.txt`     (001) PRE  
-   - add: `main.vbs`       (001) PRE  
+   - add: `struct.txt`      001  
+   - add: `main.vbs`        001  
 7. upd: `vbs`  
-   - upd: `vbs.ver`        (038) PRE  
+   - upd: `vbs.ver`         038  
 8. add: `vbs/date`  
-   - add: `elapsed.vbs`    (001) PRE  
-9. upd: `project.root`     (053) PRE  
+   - add: `elapsed.vbs`     001  
+9. upd: `project.root`      053  
 
 [#53-dev-date]: tasks/2024-09-25-0053-dev-date.md
 <div/>
