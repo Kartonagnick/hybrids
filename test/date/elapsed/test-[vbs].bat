@@ -1,7 +1,7 @@
 @echo off & call :checkParent || exit /b
 
 rem --- local/hybrids                              [date/elapsed/test-[vbs].bat]
-rem [2024-09-26][19:00:00] 001 Kartonagnick PRE 
+rem [2024-09-26][19:00:00] 001 Kartonagnick     
 rem ============================================================================
 rem ============================================================================
 

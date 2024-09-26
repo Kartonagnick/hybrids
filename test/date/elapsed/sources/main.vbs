@@ -1,6 +1,6 @@
 
 '--- local/hybrids                                 [test][date\elapsed][main.vbs]
-'[2024-09-26][19:00:00] 001 Kartonagnick PRE
+'[2024-09-26][19:00:00] 001 Kartonagnick    
 
 const SECONDS_IN_WEEK   = 604800
 const SECONDS_IN_DAY    = 86400
