@@ -66,7 +66,7 @@
 --------------------------------------------------------------------------------
 
 
-[![P]][H] **v0.5.4 (dev)**
+[![S]][H] **v0.5.4 (dev)**
 --------------------------------------------------------------------------------
 [![V]][VE054] [![2024-09-28 19:00]][VE054]  
 
@@ -79,30 +79,30 @@
 | 2024-09-27 | 11:00 | [#54-dev-pushd] | BEGIN  |  
 
 1. upd: `docs`  
-   - upd: `logo.png`       (054) PRE  
-   - upd: `changelog.md`   (054) PRE  
-   - upd: `chrono.md`      (054) PRE  
-   - upd: `history.md`     (054) PRE  
-   - upd: `docs.md`        (054) PRE  
+   - upd: `logo.png`        054  
+   - upd: `changelog.md`    054  
+   - upd: `chrono.md`       054  
+   - upd: `history.md`      054  
+   - upd: `docs.md`         054  
 2. add: `docs/docs`  
-   - add: `pushd.md`       (001) PRE  
+   - add: `pushd.md`        001  
 3. upd: `test`  
-   - upd: `test.ver`       (051) PRE  
+   - upd: `test.ver`        051  
 4. add: `test/pushd`  
-   - add: `make.bat`       (001) PRE  
-   - add: `test-[wsf].bat` (001) PRE  
-   - add: `test-[vbs].bat` (001) PRE  
+   - add: `make.bat`        001  
+   - add: `test-[wsf].bat`  001  
+   - add: `test-[vbs].bat`  001  
 5. add: `test/pushd/sources`  
-   - add: `test.wsf`       (001) PRE  
-   - add: `main.vbs`       (001) PRE  
+   - add: `test.wsf`        001  
+   - add: `main.vbs`        001  
 6. add: `test/pushd/sources/111`  
    - add: `222/333/333.txt`  
    - add: `222/222.txt`  
    - add: `111.txt`  
 7. upd: `vbs`  
-   - upd: `vbs.ver`        (039) PRE  
-   - add: `pushd.vbs`      (001) PRE  
-8. upd: `project.root`     (054) PRE  
+   - upd: `vbs.ver`         039  
+   - add: `pushd.vbs`       001  
+8. upd: `project.root`      054  
 
 [#54-dev-pushd]: tasks/2024-09-26-0054-dev-pushd.md
 <div/>
