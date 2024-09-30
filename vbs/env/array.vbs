@@ -1,6 +1,6 @@
 
 '--- local/hybrids                                               [env/array.vbs]
-'[2024-09-30][19:00:00] 001 Kartonagnick PRE
+'[2024-09-30][19:00:00] 001 Kartonagnick    
 ' includeVBS("../runCmd.vbs")
 
 function fromEnvironmentArray(arr_name)
