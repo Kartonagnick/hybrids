@@ -1,6 +1,6 @@
 
 '--- local/hybrids                                [test][environment][string.vbs]
-'[2024-09-30][19:00:00] 001 Kartonagnick PRE
+'[2024-09-30][19:00:00] 001 Kartonagnick    
 
 dim deep: deep = 0
 
