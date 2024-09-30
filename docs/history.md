@@ -66,6 +66,48 @@
 --------------------------------------------------------------------------------
 
 
+[![P]][H] **v0.5.5 (dev)**
+--------------------------------------------------------------------------------
+[![V]][VE055] [![2024-09-30 19:00]][VE055]  
+
+[2024-09-30 19:00]: https://img.shields.io/static/v1?label=2024-09-30&message=19:00&color=yellowgreen
+[VE055]: changelog.md#-v055-dev
+
+|    дата    | время |     ветка     | статус |  
+|:----------:|:-----:|:-------------:|:------:|  
+| 2024-09-30 | 18:50 | [#55-dev-env] | DONE   |  
+| 2024-09-29 | 11:00 | [#55-dev-env] | BEGIN  |  
+
+1. upd: `docs`  
+   - upd: `logo.png`        (055) PRE  
+   - upd: `changelog.md`    (055) PRE  
+   - upd: `history.md`      (055) PRE  
+   - upd: `chrono.md`       (055) PRE  
+   - upd: `docs.md`         (055) PRE  
+2. add: `docs/docs`  
+   - add: `environment.md`  (001) PRE  
+3. upd: `test`  
+   - upd: `test.ver`        (052) PRE  
+4. add: `test/environment`  
+   - add: `make.bat`        (001) PRE  
+   - add: `test-[vbs].bat`  (001) PRE  
+   - add: `test-[wsf].bat`  (001) PRE  
+5. add: `test/environment/sources`  
+   - add: `array.vbs`       (001) PRE  
+   - add: `string.vbs`      (001) PRE  
+   - add: `struct.txt`      (001) PRE  
+6. upd: `vbs`  
+   - upd: `vbs.ver`         (040) PRE  
+   - add: `environment.vbs` (001) PRE  
+7. add: `vbs/env`  
+   - add: `string.vbs`      (001) PRE  
+   - add: `array.vbs`       (001) PRE  
+8. upd: `project.root`      (055) PRE  
+
+[#55-dev-env]: tasks/2024-09-29-0055-dev-env.md
+<div/>
+
+
 [![S]][H] **v0.5.4 (dev)**
 --------------------------------------------------------------------------------
 [![V]][VE054] [![2024-09-28 19:00]][VE054]  
