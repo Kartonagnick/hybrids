@@ -43,12 +43,13 @@
 [date/elapsed]:     docs/date/elapsed.md
 
 [pushd]:            docs/pushd.md
+[environment]:      docs/environment.md
 
 [map]: https://mind-map-online.ru/sh-9223a24c9e4a6628?panelMain=0&menubar=0&freezePanels=1&scrollable=0
 [fac]: docs/factory.md
     
 <a name="main"></a>
-[![S]][H] Документация v0.5.4
+[![P]][H] Документация v0.5.5
 =============================
 Это уже третия реинкарнация проекта `hybrids`  
 Цель проекта: привести кодовую базу в порядок, и сделать полноценный релиз.  
@@ -88,6 +89,7 @@
 32. [date/datestamp]  
 32. [date/elapsed]  
 33. [pushd]  
+34. [environment]  
 
 [фабрика гибридов][fac]  
 [карта проекта][map]  
