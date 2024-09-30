@@ -66,7 +66,7 @@
 --------------------------------------------------------------------------------
 
 
-[![P]][H] **v0.5.5 (dev)**
+[![S]][H] **v0.5.5 (dev)**
 --------------------------------------------------------------------------------
 [![V]][VE055] [![2024-09-30 19:00]][VE055]  
 
@@ -79,30 +79,30 @@
 | 2024-09-29 | 11:00 | [#55-dev-env] | BEGIN  |  
 
 1. upd: `docs`  
-   - upd: `logo.png`        (055) PRE  
-   - upd: `changelog.md`    (055) PRE  
-   - upd: `history.md`      (055) PRE  
-   - upd: `chrono.md`       (055) PRE  
-   - upd: `docs.md`         (055) PRE  
+   - upd: `logo.png`         055  
+   - upd: `changelog.md`     055  
+   - upd: `history.md`       055  
+   - upd: `chrono.md`        055  
+   - upd: `docs.md`          055  
 2. add: `docs/docs`  
-   - add: `environment.md`  (001) PRE  
+   - add: `environment.md`   001  
 3. upd: `test`  
-   - upd: `test.ver`        (052) PRE  
+   - upd: `test.ver`         052  
 4. add: `test/environment`  
-   - add: `make.bat`        (001) PRE  
-   - add: `test-[vbs].bat`  (001) PRE  
-   - add: `test-[wsf].bat`  (001) PRE  
+   - add: `make.bat`         001  
+   - add: `test-[vbs].bat`   001  
+   - add: `test-[wsf].bat`   001  
 5. add: `test/environment/sources`  
-   - add: `array.vbs`       (001) PRE  
-   - add: `string.vbs`      (001) PRE  
-   - add: `struct.txt`      (001) PRE  
+   - add: `array.vbs`        001  
+   - add: `string.vbs`       001  
+   - add: `struct.txt`       001  
 6. upd: `vbs`  
-   - upd: `vbs.ver`         (040) PRE  
-   - add: `environment.vbs` (001) PRE  
+   - upd: `vbs.ver`          040  
+   - add: `environment.vbs`  001  
 7. add: `vbs/env`  
-   - add: `string.vbs`      (001) PRE  
-   - add: `array.vbs`       (001) PRE  
-8. upd: `project.root`      (055) PRE  
+   - add: `string.vbs`       001  
+   - add: `array.vbs`        001  
+8. upd: `project.root`       055  
 
 [#55-dev-env]: tasks/2024-09-29-0055-dev-env.md
 <div/>
