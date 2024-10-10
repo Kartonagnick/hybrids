@@ -54,16 +54,54 @@
 | 2021-07-16 | 14:35:47 | день рождения vbs                |  
 | 2020-12-26 | 11:00:00 | дата рождения hybrids            |  
 
-[vbs]:        https://github.com/CastleOfDreams/vbs
-[Github]:     https://github.com/Kartonagnick/hybrids
-[гитхабе]:    https://github.com/Kartonagnick/hybrids
-[Замке Грёз]: https://github.com/CastleOfDreams/hybrids
-[Замке]:      https://github.com/CastleOfDreams/hybrids
-[local]:      D:/local/hybrids/README.md
-
 [Картонажник]: https://github.com/Kartonagnick
+[Замке Грёз]:  https://github.com/CastleOfDreams/hybrids
+[Замке]:       https://github.com/CastleOfDreams/hybrids
+[гитхабе]:     https://github.com/Kartonagnick/hybrids
+[Github]:      https://github.com/Kartonagnick/hybrids
+[vbs]:         https://github.com/CastleOfDreams/vbs
+[local]:       D:/local/hybrids/README.md
 
 --------------------------------------------------------------------------------
+
+
+[![P]][H] **v0.5.6 (dev)**
+--------------------------------------------------------------------------------
+[![V]][VE056] [![2024-10-10 19:00]][VE056]  
+
+[2024-10-10 19:00]: https://img.shields.io/static/v1?label=2024-10-10&message=19:00&color=yellowgreen
+[VE056]: changelog.md#-v055-dev
+
+|    дата    | время |       ветка       | статус |  
+|:----------:|:-----:|:-----------------:|:------:|  
+| 2024-10-10 | 18:50 | [#56-dev-include] | DONE   |  
+| 2024-10-10 | 11:00 | [#56-dev-include] | BEGIN  |  
+
+1. upd: `docs`  
+   - upd: `logo.png`       (056) PRE  
+   - upd: `history.md`     (056) PRE  
+   - upd: `changelog.md`   (056) PRE  
+   - upd: `chrono.md`      (056) PRE  
+   - upd: `docs.md`        (056) PRE  
+2. add: `docs/docs`  
+   - add: `include.md`     (013) PRE  
+3. upd: `test`  
+   - upd: `test.ver`       (053) PRE  
+4. add: `test/include`  
+   - add: `make.bat`       (001) PRE  
+   - add: `test-[wsf].bat` (001) PRE  
+   - add: `test-[vbs].bat` (001) PRE  
+5. add: `test/include/sources`  
+   - add: `struct.txt`     (001) PRE  
+   - add: `double.vbs`     (001) PRE  
+   - add: `main.vbs`       (001) PRE  
+6. upd: `vbs`  
+   - upd: `vbs.ver`        (041) PRE  
+   - add: `include.vbs`    (013) PRE  
+7. upd: `project.root`     (056) PRE  
+
+[#56-dev-include]: tasks/2024-10-10-0056-dev-include.md
+<div/>
 
 
 [![S]][H] **v0.5.5 (dev)**
@@ -196,7 +234,7 @@
 [![V]][VE052] [![2024-09-24 19:00]][VE052]  
 
 [2024-09-24 19:00]: https://img.shields.io/static/v1?label=2024-09-24&message=19:00&color=yellowgreen
-[VE051]: changelog.md#-v052-dev
+[VE052]: changelog.md#-v052-dev
 
 |    дата    | время |     ветка      | статус |  
 |:----------:|:-----:|:--------------:|:------:|  
