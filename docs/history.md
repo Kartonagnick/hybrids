@@ -65,7 +65,7 @@
 --------------------------------------------------------------------------------
 
 
-[![P]][H] **v0.5.6 (dev)**
+[![S]][H] **v0.5.6 (dev)**
 --------------------------------------------------------------------------------
 [![V]][VE056] [![2024-10-10 19:00]][VE056]  
 
@@ -78,27 +78,27 @@
 | 2024-10-10 | 11:00 | [#56-dev-include] | BEGIN  |  
 
 1. upd: `docs`  
-   - upd: `logo.png`       (056) PRE  
-   - upd: `history.md`     (056) PRE  
-   - upd: `changelog.md`   (056) PRE  
-   - upd: `chrono.md`      (056) PRE  
-   - upd: `docs.md`        (056) PRE  
+   - upd: `logo.png`        056  
+   - upd: `history.md`      056  
+   - upd: `changelog.md`    056  
+   - upd: `chrono.md`       056  
+   - upd: `docs.md`         056  
 2. add: `docs/docs`  
-   - add: `include.md`     (013) PRE  
+   - add: `include.md`      013  
 3. upd: `test`  
-   - upd: `test.ver`       (053) PRE  
+   - upd: `test.ver`        053  
 4. add: `test/include`  
-   - add: `make.bat`       (001) PRE  
-   - add: `test-[wsf].bat` (001) PRE  
-   - add: `test-[vbs].bat` (001) PRE  
+   - add: `make.bat`        001  
+   - add: `test-[wsf].bat`  001  
+   - add: `test-[vbs].bat`  001  
 5. add: `test/include/sources`  
-   - add: `struct.txt`     (001) PRE  
-   - add: `double.vbs`     (001) PRE  
-   - add: `main.vbs`       (001) PRE  
+   - add: `struct.txt`      001  
+   - add: `double.vbs`      001  
+   - add: `main.vbs`        001  
 6. upd: `vbs`  
-   - upd: `vbs.ver`        (041) PRE  
-   - add: `include.vbs`    (013) PRE  
-7. upd: `project.root`     (056) PRE  
+   - upd: `vbs.ver`         041  
+   - add: `include.vbs`     013  
+7. upd: `project.root`      056  
 
 [#56-dev-include]: tasks/2024-10-10-0056-dev-include.md
 <div/>
