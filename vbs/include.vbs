@@ -1,6 +1,6 @@
 
 '--- local/hybrids                                                 [include.vbs]
-'[2024-10-10][19:00:00] 013 Kartonagnick PRE
+'[2024-10-10][19:00:00] 013 Kartonagnick    
 '  based on the story:
 '  --- C:\workspace                                          [vbs/util/init.vbs]
 '  [2021-08-08][19:00:00] 012 Kartonagnick
