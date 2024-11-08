@@ -8,6 +8,8 @@
 [REQ]: workflow/requirements.md
 [VAR]: workflow/notation.md
 
+[yedcont]:   docs/ready/yedcont.md
+
 [glob]:      docs/glob.md
 [echo]:      docs/echo.md
 [assert]:    docs/assert.md
@@ -53,7 +55,7 @@
 [fac]: docs/factory.md
     
 <a name="main"></a>
-[![S]][H] Документация v0.5.6
+[![P]][H] Документация v0.5.7
 =============================
 Это уже третия реинкарнация проекта `hybrids`  
 Цель проекта: привести кодовую базу в порядок, и сделать полноценный релиз.  
@@ -62,6 +64,9 @@
 - [Нотация egVARIABLE][VAR]  
 - [фабрика гибридов][fac]  
 - [карта проекта][map]  
+
+Каталог гибридов:  
+1. [yedcont]  
 
 Каталог инструментов:  
 1.  [glob]  
