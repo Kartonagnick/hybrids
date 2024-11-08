@@ -74,7 +74,7 @@
 --------------------------------------------------------------------------------
 
 
-[![P]][H] **v0.5.7 (dev)**
+[![S]][H] **v0.5.7 (dev)**
 --------------------------------------------------------------------------------
 [![V]][VE057] [![2024-11-08 07:00]][VE057]  
 
@@ -87,25 +87,25 @@
 | 2024-11-08 | 02:00 | [#57-dev-yedcont] | BEGIN  |  
 
 1. upd: `docs`  
-   - upd: `logo.png`       (057) PRE  
-   - upd: `changelog.md`   (057) PRE  
-   - upd: `history.md`     (057) PRE  
-   - upd: `chrono.md`      (057) PRE  
-   - upd: `docs.md`        (057) PRE  
+   - upd: `logo.png`        057  
+   - upd: `changelog.md`    057  
+   - upd: `history.md`      057  
+   - upd: `chrono.md`       057  
+   - upd: `docs.md`         057  
 2. add: `docs/docs/ready`  
-   - add: `yedcont.md`     (001) PRE  
+   - add: `yedcont.md`      001  
 3. add: `ready`  
-   - add: `yedcont.bat`    (001) PRE  
+   - add: `yedcont.bat`     001  
 4. add: `dev/yedcont`  
-   - add: `make.bat`       (001) PRE  
-   - add: `test-[wsf].bat` (001) PRE  
-   - add: `test-[vbs].bat` (001) PRE  
+   - add: `make.bat`        001  
+   - add: `test-[wsf].bat`  001  
+   - add: `test-[vbs].bat`  001  
 5. add: `dev/yedcont/sources`  
-   - add: `yedcont.vbs`    (001) PRE  
-   - add: `struct.txt`     (001) PRE  
+   - add: `yedcont.vbs`     001  
+   - add: `struct.txt`      001  
 6. add: `dev/yedcont/resources`  
    - add: `index.graphml`  
-7. upd: `project.root`      (057) PRE  
+7. upd: `project.root`       057  
 
 [#57-dev-yedcont]: tasks/2024-11-08-0057-dev-yedcont.md
 <div/>
