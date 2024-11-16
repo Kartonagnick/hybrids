@@ -1,7 +1,7 @@
 @echo off & call :checkParent || exit /b
 
 rem --- local/hybrids                                         [tooltip/make.bat]
-rem [2024-11-16][12:40:00] 001 Kartonagnick PRE
+rem [2024-11-16][12:40:00] 001 Kartonagnick    
 rem ============================================================================
 rem ============================================================================
 
@@ -17,7 +17,7 @@ rem ============================================================================
   set "eHYBRID.VERSION=001"
   set "eHYBRID.USER=Kartonagnick"
   set "eHYBRID.STAMP=[2024-11-16][12:40:00]"
-  set "eHYBRID.PRE=PRE"
+  set "eHYBRID.PRE=   "
   set "eHYBRID.PROJECT=local/hybrids"
   set "eHYBRID.FILE=[script][tooltip.bat]"
 

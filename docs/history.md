@@ -74,7 +74,7 @@
 --------------------------------------------------------------------------------
 
 
-[![P]][H] **v0.5.8 (dev)**
+[![S]][H] **v0.5.8 (dev)**
 --------------------------------------------------------------------------------
 [![V]][VE058] [![2024-11-16 12:40]][VE058]  
 
@@ -87,22 +87,22 @@
 | 2024-11-15 | 22:50 | [#58-dev-tooltip] | BEGIN  |  
 
 1. upd: `docs`  
-   - upd: `logo.png`       (058) PRE  
-   - upd: `changelog.md`   (058) PRE  
-   - upd: `chrono.md`      (058) PRE  
-   - upd: `history.md`     (058) PRE  
-   - upd: `docs.md`        (058) PRE  
+   - upd: `logo.png`        058  
+   - upd: `changelog.md`    058  
+   - upd: `chrono.md`       058  
+   - upd: `history.md`      058  
+   - upd: `docs.md`         058  
 2. add: `docs/docs/ready`  
-   - add: `tooltip.md`     (001) PRE  
+   - add: `tooltip.md`      001  
 3. add: `ready`  
-   - add: `tooltip.bat`    (001) PRE  
+   - add: `tooltip.bat`     001  
 4. add: `dev/tooltip`  
-   - add: `make.bat`       (001) PRE  
-   - add: `test-[wsf].bat` (001) PRE  
-   - add: `test-[vbs].bat` (001) PRE  
+   - add: `make.bat`        001  
+   - add: `test-[wsf].bat`  001  
+   - add: `test-[vbs].bat`  001  
 5. add: `dev/tooltip/sources`  
-   - add: `tooltip.vbs`    (001) PRE  
-   - add: `struct.txt`     (001) PRE  
+   - add: `tooltip.vbs`     001  
+   - add: `struct.txt`      001  
 6. add: `dev/tooltip/resources`  
    - add: `tooltip.md`  
 7. add: `dev/tooltip/resources/img`  
@@ -118,7 +118,7 @@
    - add: `класс-21_1.png`  
    - add: `class-1.html`  
    - add: `класс-2.html`  
-9. upd: `project.root`     (058) PRE  
+9. upd: `project.root`      058  
 
 [#58-dev-tooltip]: tasks/2024-11-15-0058-dev-tooltip.md
 <div/>
