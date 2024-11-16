@@ -74,12 +74,62 @@
 --------------------------------------------------------------------------------
 
 
+[![P]][H] **v0.5.8 (dev)**
+--------------------------------------------------------------------------------
+[![V]][VE058] [![2024-11-16 12:40]][VE058]  
+
+[2024-11-16 12:40]: https://img.shields.io/static/v1?label=2024-11-16&message=12:40&color=yellowgreen
+[VE058]: changelog.md#-v058-dev
+
+|    дата    | время |       ветка       | статус |  
+|:----------:|:-----:|:-----------------:|:------:|  
+| 2024-11-16 | 14:30 | [#58-dev-tooltip] | DONE   |  
+| 2024-11-15 | 22:50 | [#58-dev-tooltip] | BEGIN  |  
+
+1. upd: `docs`  
+   - upd: `logo.png`       (058) PRE  
+   - upd: `changelog.md`   (058) PRE  
+   - upd: `chrono.md`      (058) PRE  
+   - upd: `history.md`     (058) PRE  
+   - upd: `docs.md`        (058) PRE  
+2. add: `docs/docs/ready`  
+   - add: `tooltip.md`     (001) PRE  
+3. add: `ready`  
+   - add: `tooltip.bat`    (001) PRE  
+4. add: `dev/tooltip`  
+   - add: `make.bat`       (001) PRE  
+   - add: `test-[wsf].bat` (001) PRE  
+   - add: `test-[vbs].bat` (001) PRE  
+5. add: `dev/tooltip/sources`  
+   - add: `tooltip.vbs`    (001) PRE  
+   - add: `struct.txt`     (001) PRE  
+6. add: `dev/tooltip/resources`  
+   - add: `tooltip.md`  
+7. add: `dev/tooltip/resources/img`  
+   - add: `plant.jpg`  
+   - add: `magnoliophyta.jpg`  
+   - add: `eukaryota.jpg`  
+   - add: `dicotyledones.jpg`  
+   - add: `caryophyllales.jpg`  
+   - add: `aizoaceae.jpg`  
+   - add: `эукариоты.jpg`  
+8. add: `dev/tooltip/resources`  
+   - add: `class-11_1.png`  
+   - add: `класс-21_1.png`  
+   - add: `class-1.html`  
+   - add: `класс-2.html`  
+9. upd: `project.root`     (058) PRE  
+
+[#58-dev-tooltip]: tasks/2024-11-15-0058-dev-tooltip.md
+<div/>
+
+
 [![S]][H] **v0.5.7 (dev)**
 --------------------------------------------------------------------------------
 [![V]][VE057] [![2024-11-08 07:00]][VE057]  
 
 [2024-11-08 07:00]: https://img.shields.io/static/v1?label=2024-11-08&message=07:00&color=yellowgreen
-[VE056]: changelog.md#-v055-dev
+[VE057]: changelog.md#-v057-dev
 
 |    дата    | время |       ветка       | статус |  
 |:----------:|:-----:|:-----------------:|:------:|  
@@ -116,7 +166,7 @@
 [![V]][VE056] [![2024-10-10 19:00]][VE056]  
 
 [2024-10-10 19:00]: https://img.shields.io/static/v1?label=2024-10-10&message=19:00&color=yellowgreen
-[VE056]: changelog.md#-v055-dev
+[VE056]: changelog.md#-v056-dev
 
 |    дата    | время |       ветка       | статус |  
 |:----------:|:-----:|:-----------------:|:------:|  
