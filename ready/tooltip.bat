@@ -4,7 +4,7 @@
 ::'exit /b
 
 '--- local/hybrids                                         [script][tooltip.bat]
-'[2024-11-16][12:40:00] 001 Kartonagnick PRE
+'[2024-11-16][12:40:00] 001 Kartonagnick    
 '===============================================================================
 
 '--------------------------------------------------------------[vbs/glob.vbs]---
@@ -258,7 +258,7 @@ end class
 '-------------------------------------------------------[sources/tooltip.vbs]---
 
 '--- local/hybrids                                        [sources][tooltip.vbs]
-'[2024-11-16][12:40:00] 001 Kartonagnick PRE
+'[2024-11-16][12:40:00] 001 Kartonagnick    
 
 
 '---[ g_fso.OpenTextFile(path, gFOR_READING) ]----------------------------------
