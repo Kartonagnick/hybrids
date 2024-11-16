@@ -1,6 +1,6 @@
 
 '--- local/hybrids                                        [sources][tooltip.vbs]
-'[2024-11-16][12:40:00] 001 Kartonagnick PRE
+'[2024-11-16][12:40:00] 001 Kartonagnick    
 
 Option Explicit
 
