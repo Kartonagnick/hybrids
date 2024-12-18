@@ -1,0 +1,26 @@
+
+#===============================================================================
+#===============================================================================
+
+# local/hybrids                                          [dev/7zrun][struct.txt]
+# [2024-12-22][08:50:00] 001 Kartonagnick PRE
+
+#===============================================================================
+#===============================================================================
+
+VBS\glob.vbs
+VBS\echo.vbs
+VBS\trim.vbs
+VBS\errCode.vbs
+VBS\runCmd.vbs
+VBS\trim.vbs
+VBS\env\string.vbs
+VBS\environment.vbs
+VBS\date\elapsed.vbs
+VBS\date\datestamp.vbs
+
+.\stamp.vbs
+.\c7zip.vbs
+.\cversion.vbs
+.\settings.vbs
+.\cmask.vbs
