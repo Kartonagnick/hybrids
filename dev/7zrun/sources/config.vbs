@@ -1,6 +1,6 @@
 
 '--- local/hybrids                                       [dev/7zrun][config.vbs]
-'[2024-12-22][08:50:00] 001 Kartonagnick PRE
+'[2024-12-22][08:50:00] 001 Kartonagnick    
 
 class CConfig
   private m_path      'string:               path to 7zrun.cfg
