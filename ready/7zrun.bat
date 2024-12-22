@@ -15,7 +15,7 @@
 ::'exit /b
 
 '--- local/hybrids                                           [script][7zrun.bat]
-'[2024-12-22][08:50:00] 001 Kartonagnick PRE
+'[2024-12-22][08:50:00] 001 Kartonagnick    
 '===============================================================================
 
 '--------------------------------------------------------------[vbs/glob.vbs]---
@@ -419,7 +419,7 @@ end function
 '---------------------------------------------------------[sources/stamp.vbs]---
 
 '--- local/hybrids                                        [dev/7zrun][stamp.vbs]
-'[2024-12-22][08:50:00] 001 Kartonagnick PRE
+'[2024-12-22][08:50:00] 001 Kartonagnick    
 
 function myTimeStamp()
   dim dt: dt = now()
@@ -438,7 +438,7 @@ end function
 '---------------------------------------------------------[sources/c7zip.vbs]---
 
 '--- local/hybrids                                        [dev/7zrun][c7zip.vbs]
-'[2024-12-22][08:50:00] 001 Kartonagnick PRE
+'[2024-12-22][08:50:00] 001 Kartonagnick    
 
 class C7Zip
   private m_src        'string: source directory
@@ -572,11 +572,11 @@ end class
 '------------------------------------------------------[sources/cversion.vbs]---
 
 '--- local/hybrids                                     [dev/7zrun][cversion.vbs]
-'[2024-12-22][08:50:00] 001 Kartonagnick PRE
+'[2024-12-22][08:50:00] 001 Kartonagnick    
 
 class CVersion
   private m_ver  'string: version of project (example: 001)
-  private m_tag  'string: tag of version of project (example: PRE | REL | BUG)
+  private m_tag  'string: tag of version of project (example:     | REL | BUG)
   private m_rxp  'RegExp: used for different situations
 
   property get ver() ver = m_ver end property
@@ -670,7 +670,7 @@ end class
 '------------------------------------------------------[sources/settings.vbs]---
 
 '--- local/hybrids                                     [dev/7zrun][settings.vbs]
-'[2024-12-22][08:50:00] 001 Kartonagnick PRE
+'[2024-12-22][08:50:00] 001 Kartonagnick    
 
 class CMode
   private m_multi   'boolean: if true -> multi  , else -> single
@@ -968,7 +968,7 @@ end class
 '---------------------------------------------------------[sources/cmask.vbs]---
 
 '--- local/hybrids                                        [dev/7zrun][cmask.vbs]
-'[2024-12-22][08:50:00] 001 Kartonagnick PRE
+'[2024-12-22][08:50:00] 001 Kartonagnick    
 '  based on the story:
 '  --- local/hybrids                                              [vbs/mask.vbs]
 '  [2024-03-08][19:00:00] 002 Kartonagnick
@@ -1059,7 +1059,7 @@ end class
 '---------------------------------------------------------[sources/7zrun.vbs]---
 
 '--- local/hybrids                                        [dev/7zrun][7zrun.vbs]
-'[2024-12-22][08:50:00] 001 Kartonagnick PRE
+'[2024-12-22][08:50:00] 001 Kartonagnick    
 
 '...............................................................................
 
