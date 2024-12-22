@@ -9,6 +9,8 @@
 [VAR]: workflow/notation.md
 
 [yedcont]:   docs/ready/yedcont.md
+[tooltip]:   docs/ready/tooltip.md
+[7zrun]:     docs/ready/7zrun.md
 
 [glob]:      docs/glob.md
 [echo]:      docs/echo.md
@@ -55,7 +57,7 @@
 [fac]: docs/factory.md
     
 <a name="main"></a>
-[![S]][H] Документация v0.5.8
+[![P]][H] Документация v0.5.9
 =============================
 Это уже третия реинкарнация проекта `hybrids`  
 Цель проекта: привести кодовую базу в порядок, и сделать полноценный релиз.  
@@ -67,6 +69,8 @@
 
 Каталог гибридов:  
 1. [yedcont]  
+2. [tooltip]  
+3. [7zrun]  
 
 Каталог инструментов:  
 1.  [glob]  
