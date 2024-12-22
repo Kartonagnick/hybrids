@@ -1,6 +1,6 @@
 
 '--- local/hybrids                                     [dev/7zrun][cversion.vbs]
-'[2024-12-22][08:50:00] 001 Kartonagnick PRE
+'[2024-12-22][08:50:00] 001 Kartonagnick    
 Option Explicit
 ' includeVBS("glob.vbs")
 

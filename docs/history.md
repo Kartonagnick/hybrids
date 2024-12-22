@@ -74,7 +74,7 @@
 --------------------------------------------------------------------------------
 
 
-[![P]][H] **v0.5.9 (dev)**
+[![S]][H] **v0.5.9 (dev)**
 --------------------------------------------------------------------------------
 [![V]][VE059] [![2024-12-22 08:50]][VE059]  
 
@@ -87,28 +87,28 @@
 | 2024-12-18 | 22:50 | [#59-dev-7zrun] | BEGIN  |  
 
 1. upd: `docs`  
-   - upd: `logo.png`       (059) PRE  
-   - upd: `changelog.md`   (059) PRE  
-   - upd: `history.md`     (059) PRE  
-   - upd: `chrono.md`      (059) PRE  
-   - upd: `docs.md`        (059) PRE  
+   - upd: `logo.png`        059  
+   - upd: `changelog.md`    059  
+   - upd: `history.md`      059  
+   - upd: `chrono.md`       059  
+   - upd: `docs.md`         059  
 2. add: `docs/docs/ready`  
-   - add: `7zrun.md`       (001) PRE  
+   - add: `7zrun.md`        001  
 3. add: `ready`  
-   - add: `7zrun.bat`      (001) PRE  
+   - add: `7zrun.bat`       001  
 4. add: `dev/7zrun`  
-   - add: `make.bat`       (001) PRE  
-   - add: `test-[wsf].bat` (001) PRE  
-   - add: `test-[vbs].bat` (001) PRE  
+   - add: `make.bat`        001  
+   - add: `test-[wsf].bat`  001  
+   - add: `test-[vbs].bat`  001  
 5. add: `dev/7zrun/sources`  
-   - add: `7zrun.vbs`      (001) PRE  
-   - add: `stamp.vbs`      (001) PRE  
-   - add: `settings.vbs`   (001) PRE  
-   - add: `cversion.vbs`   (001) PRE  
-   - add: `c7zip.vbs`      (001) PRE  
-   - add: `cmask.vbs`      (001) PRE  
-   - add: `struct.txt`     (001) PRE  
-6. upd: `project.root`     (059) PRE  
+   - add: `7zrun.vbs`       001  
+   - add: `stamp.vbs`       001  
+   - add: `settings.vbs`    001  
+   - add: `cversion.vbs`    001  
+   - add: `c7zip.vbs`       001  
+   - add: `cmask.vbs`       001  
+   - add: `struct.txt`      001  
+6. upd: `project.root`      059  
 
 [#59-dev-7zrun]: tasks/2024-12-18-0059-dev-7zrun.md
 <div/>
