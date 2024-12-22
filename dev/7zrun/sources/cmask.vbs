@@ -1,6 +1,6 @@
 
 '--- local/hybrids                                        [dev/7zrun][cmask.vbs]
-'[2024-12-22][08:50:00] 001 Kartonagnick PRE
+'[2024-12-22][08:50:00] 001 Kartonagnick    
 '  based on the story:
 '  --- local/hybrids                                              [vbs/mask.vbs]
 '  [2024-03-08][19:00:00] 002 Kartonagnick
