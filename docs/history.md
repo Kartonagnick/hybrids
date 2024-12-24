@@ -74,11 +74,64 @@
 --------------------------------------------------------------------------------
 
 
+[![P]][H] **v0.6.0 (dev)**
+--------------------------------------------------------------------------------
+[![V]][VE060] [![2024-12-24 19:00]][VE060]  
+
+[2024-12-24 19:00]: https://img.shields.io/static/v1?label=2024-12-22&message=19:00&color=yellowgreen
+[VE060]: changelog.md#-v050-dev
+
+|    дата    | время |     ветка     | статус |  
+|:----------:|:-----:|:-------------:|:------:|  
+| 2024-12-24 | 18:50 | [#60-dev-dir] | DONE   |  
+| 2024-12-24 | 11:00 | [#60-dev-dir] | BEGIN  |  
+
+1. upd: `docs`  
+   - upd: `logo.png`         (060) PRE  
+   - upd: `changelog.md`     (060) PRE  
+   - upd: `history.md`       (060) PRE  
+   - upd: `chrono.md`        (060) PRE  
+   - upd: `docs.md`          (060) PRE  
+2. add: `docs/docs`  
+   - add: `dir.md`           (001) PRE  
+3. add: `docs/docs/dir`  
+   - add: `delete.md`        (001) PRE  
+   - add: `empty.md`         (001) PRE  
+   - add: `make.md`          (001) PRE  
+   - add: `move.md`          (001) PRE  
+4. upd: `test`  
+   - upd: `test.ver`         (054) PRE  
+5. add: `test/dir`  
+   - add: `make.bat`         (001) PRE  
+   - add: `test-[wsf].bat`   (001) PRE  
+   - add: `test-[vbs].bat`   (001) PRE  
+6. add: `test/dir/sources`  
+   - add: `struct.txt`       (001) PRE  
+   - add: `move.vbs`         (001) PRE  
+   - add: `move.except.vbs`  (001) PRE  
+   - add: `make.vbs`         (001) PRE  
+   - add: `make.except.vbs`  (001) PRE  
+   - add: `empty.vbs`        (001) PRE  
+   - add: `empty.except.vbs` (001) PRE  
+   - add: `delete.vbs`       (001) PRE  
+7. upd: `vbs`  
+   - upd: `vbs.ver`          (042) PRE  
+8. add: `vbs/dir`  
+   - add: `move.vbs`         (001) PRE  
+   - add: `make.vbs`         (001) PRE  
+   - add: `empty.vbs`        (001) PRE  
+   - add: `delete.vbs`       (001) PRE  
+9. upd: `project.root`       (060) PRE  
+
+[#60-dev-dir]: tasks/2024-12-24-0060-dev-dir.md
+<div/>
+
+
 [![S]][H] **v0.5.9 (dev)**
 --------------------------------------------------------------------------------
 [![V]][VE059] [![2024-12-22 08:50]][VE059]  
 
-[2024-12-22 08:50]: https://img.shields.io/static/v1?label=2024-11-22&message=08:50&color=yellowgreen
+[2024-12-22 08:50]: https://img.shields.io/static/v1?label=2024-12-22&message=08:50&color=yellowgreen
 [VE059]: changelog.md#-v059-dev
 
 |    дата    | время |      ветка      | статус |  
