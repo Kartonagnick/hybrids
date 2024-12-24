@@ -74,7 +74,7 @@
 --------------------------------------------------------------------------------
 
 
-[![P]][H] **v0.6.0 (dev)**
+[![S]][H] **v0.6.0 (dev)**
 --------------------------------------------------------------------------------
 [![V]][VE060] [![2024-12-24 19:00]][VE060]  
 
@@ -87,41 +87,41 @@
 | 2024-12-24 | 11:00 | [#60-dev-dir] | BEGIN  |  
 
 1. upd: `docs`  
-   - upd: `logo.png`         (060) PRE  
-   - upd: `changelog.md`     (060) PRE  
-   - upd: `history.md`       (060) PRE  
-   - upd: `chrono.md`        (060) PRE  
-   - upd: `docs.md`          (060) PRE  
+   - upd: `logo.png`          060  
+   - upd: `changelog.md`      060  
+   - upd: `history.md`        060  
+   - upd: `chrono.md`         060  
+   - upd: `docs.md`           060  
 2. add: `docs/docs`  
-   - add: `dir.md`           (001) PRE  
+   - add: `dir.md`            001  
 3. add: `docs/docs/dir`  
-   - add: `delete.md`        (001) PRE  
-   - add: `empty.md`         (001) PRE  
-   - add: `make.md`          (001) PRE  
-   - add: `move.md`          (001) PRE  
+   - add: `delete.md`         001  
+   - add: `empty.md`          001  
+   - add: `make.md`           001  
+   - add: `move.md`           001  
 4. upd: `test`  
-   - upd: `test.ver`         (054) PRE  
+   - upd: `test.ver`          054  
 5. add: `test/dir`  
-   - add: `make.bat`         (001) PRE  
-   - add: `test-[wsf].bat`   (001) PRE  
-   - add: `test-[vbs].bat`   (001) PRE  
+   - add: `make.bat`          001  
+   - add: `test-[wsf].bat`    001  
+   - add: `test-[vbs].bat`    001  
 6. add: `test/dir/sources`  
-   - add: `struct.txt`       (001) PRE  
-   - add: `move.vbs`         (001) PRE  
-   - add: `move.except.vbs`  (001) PRE  
-   - add: `make.vbs`         (001) PRE  
-   - add: `make.except.vbs`  (001) PRE  
-   - add: `empty.vbs`        (001) PRE  
-   - add: `empty.except.vbs` (001) PRE  
-   - add: `delete.vbs`       (001) PRE  
+   - add: `struct.txt`        001  
+   - add: `move.vbs`          001  
+   - add: `move.except.vbs`   001  
+   - add: `make.vbs`          001  
+   - add: `make.except.vbs`   001  
+   - add: `empty.vbs`         001  
+   - add: `empty.except.vbs`  001  
+   - add: `delete.vbs`        001  
 7. upd: `vbs`  
-   - upd: `vbs.ver`          (042) PRE  
+   - upd: `vbs.ver`           042  
 8. add: `vbs/dir`  
-   - add: `move.vbs`         (001) PRE  
-   - add: `make.vbs`         (001) PRE  
-   - add: `empty.vbs`        (001) PRE  
-   - add: `delete.vbs`       (001) PRE  
-9. upd: `project.root`       (060) PRE  
+   - add: `move.vbs`          001  
+   - add: `make.vbs`          001  
+   - add: `empty.vbs`         001  
+   - add: `delete.vbs`        001  
+9. upd: `project.root`        060  
 
 [#60-dev-dir]: tasks/2024-12-24-0060-dev-dir.md
 <div/>

@@ -1,7 +1,7 @@
 @echo off & call :checkParent || exit /b
 
 rem --- local/hybrids                                  [test/dir/test-[vbs].bat]
-rem [2024-12-24][19:00:00] 001 Kartonagnick PRE
+rem [2024-12-24][19:00:00] 001 Kartonagnick    
 rem ============================================================================
 rem ============================================================================
 
@@ -12,7 +12,7 @@ rem ============================================================================
   set "eDIR=%~dp0_ready"
   set "title=dir"
   call :setDepth
-  call :show [%title%] run... 0.0.1 PRE
+  call :show [%title%] run... 0.0.1    
 ::call :run "%eDIR%\ctor.vbs" && goto :success || goto :failed
   call :runAll || goto :failed
   if defined eWAS_ERROR goto :failed
