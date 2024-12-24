@@ -1,6 +1,6 @@
 
 '--- local/hybrids                                   [test][dir][make.except.vbs]
-'[2024-12-24][19:00:00] 001 Kartonagnick PRE
+'[2024-12-24][19:00:00] 001 Kartonagnick    
 
 dim deep: deep = 0
 
