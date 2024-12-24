@@ -1,7 +1,7 @@
 @echo off & call :checkParent || exit /b
 
 rem --- local/hybrids                                        [test/dir/make.bat]
-rem [2024-12-24][19:00:00] 001 Kartonagnick PRE
+rem [2024-12-24][19:00:00] 001 Kartonagnick    
 rem ============================================================================
 rem ============================================================================
 
@@ -11,7 +11,7 @@ rem ============================================================================
 ::set "eDEBUG=ON"
   set "title=dir"
   call :setDepth
-  call :show [%title%] run... 0.0.1 PRE
+  call :show [%title%] run... 0.0.1    
   call :normalizeD factory "%~dp0..\..\factory\factory.bat"
   set "eHYBRID.SRC=%~dp0sources\struct.txt"
   set "eHYBRID.DST=%~dp0_ready"
