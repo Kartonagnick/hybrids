@@ -85,32 +85,38 @@
 | 2025-01-13 | 12:40 | [#61-dev-fcontent] | DONE   |  
 | 2025-01-13 | 07:10 | [#61-dev-fcontent] | BEGIN  |  
 
-1. upd: `docs`
-upd: docs/logo.png (061) PRE
-upd: docs/changelog.md (061) PRE
-upd: docs/history.md (061) PRE
-upd: docs/chrono.md (061) PRE
-upd: docs/docs.md (061) PRE
-add: docs/docs/fcontent.md (001) PRE
-upd: test/test.ver (055) PRE
-add: test/fcontent/make.bat (001) PRE
-add: test/fcontent/test-[wsf].bat (001) PRE
-add: test/fcontent/test-[vbs].bat (001) PRE
-add: test/fcontent/sources/test.wsf (001) PRE
-add: test/fcontent/sources/src/test.md
-add: test/fcontent/sources/src/one.md
-add: test/fcontent/sources/src/one-endl.md
-add: test/fcontent/sources/src/etalon.md
-add: test/fcontent/sources/src/empty.md
-add: test/fcontent/sources/src/empty-endl.md
-add: test/fcontent/sources/main.vbs (001) PRE
-upd: vbs/vbs.ver (043) PRE
-add: vbs/fcontent.vbs (001) PRE
-upd: project.root (061) PRE
+1. upd: `docs`  
+   - upd: `logo.png`       (061) PRE  
+   - upd: `changelog.md`   (061) PRE  
+   - upd: `history.md`     (061) PRE  
+   - upd: `chrono.md`      (061) PRE  
+   - upd: `docs.md`        (061) PRE  
+2. add: `docs/docs`  
+   - add: `fcontent.md`    (001) PRE  
+3. upd: `test`  
+   - upd: `test.ver`       (055) PRE  
+4. add: `test/fcontent`  
+   - add: `make.bat`       (001) PRE  
+   - add: `test-[wsf].bat` (001) PRE  
+   - add: `test-[vbs].bat` (001) PRE  
+5. add: `test/fcontent/sources`  
+   - add: `test.wsf`       (001) PRE  
+   - add: `main.vbs`       (001) PRE  
+6. add: `test/fcontent/sources/src`  
+   - add: `empty-endl.md`  
+   - add: `one-endl.md`  
+   - add: `etalon.md`  
+   - add: `empty.md`  
+   - add: `test.md`  
+   - add: `one.md`  
+7. upd: `vbs`  
+   - upd: `vbs.ver`        (043) PRE  
+8. add: `vbs`  
+   - add: `fcontent.vbs`   (001) PRE  
+9. upd: `project.root`     (061) PRE  
 
 [#61-dev-fcontent]: tasks/2025-01-15-0061-dev-fcontent.md
 <div/>
-
 
 
 [![S]][H] **v0.6.0 (dev)**
