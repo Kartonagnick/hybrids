@@ -73,7 +73,7 @@
 
 --------------------------------------------------------------------------------
 
-[![P]][H] **v0.6.1 (dev)**
+[![S]][H] **v0.6.1 (dev)**
 --------------------------------------------------------------------------------
 [![V]][VE061] [![2025-01-13 12:50]][VE061]  
 
@@ -86,22 +86,22 @@
 | 2025-01-13 | 07:10 | [#61-dev-fcontent] | BEGIN  |  
 
 1. upd: `docs`  
-   - upd: `logo.png`       (061) PRE  
-   - upd: `changelog.md`   (061) PRE  
-   - upd: `history.md`     (061) PRE  
-   - upd: `chrono.md`      (061) PRE  
-   - upd: `docs.md`        (061) PRE  
+   - upd: `logo.png`        061  
+   - upd: `changelog.md`    061  
+   - upd: `history.md`      061  
+   - upd: `chrono.md`       061  
+   - upd: `docs.md`         061  
 2. add: `docs/docs`  
-   - add: `fcontent.md`    (001) PRE  
+   - add: `fcontent.md`     001  
 3. upd: `test`  
-   - upd: `test.ver`       (055) PRE  
+   - upd: `test.ver`        055  
 4. add: `test/fcontent`  
-   - add: `make.bat`       (001) PRE  
-   - add: `test-[wsf].bat` (001) PRE  
-   - add: `test-[vbs].bat` (001) PRE  
+   - add: `make.bat`        001  
+   - add: `test-[wsf].bat`  001  
+   - add: `test-[vbs].bat`  001  
 5. add: `test/fcontent/sources`  
-   - add: `test.wsf`       (001) PRE  
-   - add: `main.vbs`       (001) PRE  
+   - add: `test.wsf`        001  
+   - add: `main.vbs`        001  
 6. add: `test/fcontent/sources/src`  
    - add: `empty-endl.md`  
    - add: `one-endl.md`  
@@ -110,10 +110,10 @@
    - add: `test.md`  
    - add: `one.md`  
 7. upd: `vbs`  
-   - upd: `vbs.ver`        (043) PRE  
+   - upd: `vbs.ver`         043  
 8. add: `vbs`  
-   - add: `fcontent.vbs`   (001) PRE  
-9. upd: `project.root`     (061) PRE  
+   - add: `fcontent.vbs`    001  
+9. upd: `project.root`      061  
 
 [#61-dev-fcontent]: tasks/2025-01-15-0061-dev-fcontent.md
 <div/>
