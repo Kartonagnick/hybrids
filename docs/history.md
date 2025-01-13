@@ -73,13 +73,58 @@
 
 --------------------------------------------------------------------------------
 
+[![P]][H] **v0.6.1 (dev)**
+--------------------------------------------------------------------------------
+[![V]][VE061] [![2025-01-13 12:50]][VE061]  
+
+[2025-01-13 12:50]: https://img.shields.io/static/v1?label=2025-01-13&message=12:50&color=yellowgreen
+[VE061]: changelog.md#-v061-dev
+
+|    дата    | время |        ветка       | статус |  
+|:----------:|:-----:|:------------------:|:------:|  
+| 2025-01-13 | 12:40 | [#61-dev-fcontent] | DONE   |  
+| 2025-01-13 | 07:10 | [#61-dev-fcontent] | BEGIN  |  
+
+1. upd: `docs`  
+   - upd: `logo.png`       (061) PRE  
+   - upd: `changelog.md`   (061) PRE  
+   - upd: `history.md`     (061) PRE  
+   - upd: `chrono.md`      (061) PRE  
+   - upd: `docs.md`        (061) PRE  
+2. add: `docs/docs`  
+   - add: `fcontent.md`    (001) PRE  
+3. upd: `test`  
+   - upd: `test.ver`       (055) PRE  
+4. add: `test/fcontent`  
+   - add: `make.bat`       (001) PRE  
+   - add: `test-[wsf].bat` (001) PRE  
+   - add: `test-[vbs].bat` (001) PRE  
+5. add: `test/fcontent/sources`  
+   - add: `test.wsf`       (001) PRE  
+   - add: `main.vbs`       (001) PRE  
+6. add: `test/fcontent/sources/src`  
+   - add: `empty-endl.md`  
+   - add: `one-endl.md`  
+   - add: `etalon.md`  
+   - add: `empty.md`  
+   - add: `test.md`  
+   - add: `one.md`  
+7. upd: `vbs`  
+   - upd: `vbs.ver`        (043) PRE  
+8. add: `vbs`  
+   - add: `fcontent.vbs`   (001) PRE  
+9. upd: `project.root`     (061) PRE  
+
+[#61-dev-fcontent]: tasks/2025-01-15-0061-dev-fcontent.md
+<div/>
+
 
 [![S]][H] **v0.6.0 (dev)**
 --------------------------------------------------------------------------------
 [![V]][VE060] [![2024-12-24 19:00]][VE060]  
 
 [2024-12-24 19:00]: https://img.shields.io/static/v1?label=2024-12-22&message=19:00&color=yellowgreen
-[VE060]: changelog.md#-v050-dev
+[VE060]: changelog.md#-v060-dev
 
 |    дата    | время |     ветка     | статус |  
 |:----------:|:-----:|:-------------:|:------:|  
