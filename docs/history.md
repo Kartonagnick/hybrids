@@ -73,13 +73,52 @@
 
 --------------------------------------------------------------------------------
 
+[![P]][H] **v0.6.1 (dev)**
+--------------------------------------------------------------------------------
+[![V]][VE061] [![2025-01-13 12:50]][VE061]  
+
+[2025-01-13 12:50]: https://img.shields.io/static/v1?label=2025-01-13&message=12:50&color=yellowgreen
+[VE061]: changelog.md#-v061-dev
+
+|    дата    | время |        ветка       | статус |  
+|:----------:|:-----:|:------------------:|:------:|  
+| 2025-01-13 | 12:40 | [#61-dev-fcontent] | DONE   |  
+| 2025-01-13 | 07:10 | [#61-dev-fcontent] | BEGIN  |  
+
+1. upd: `docs`
+upd: docs/logo.png (061) PRE
+upd: docs/changelog.md (061) PRE
+upd: docs/history.md (061) PRE
+upd: docs/chrono.md (061) PRE
+upd: docs/docs.md (061) PRE
+add: docs/docs/fcontent.md (001) PRE
+upd: test/test.ver (055) PRE
+add: test/fcontent/make.bat (001) PRE
+add: test/fcontent/test-[wsf].bat (001) PRE
+add: test/fcontent/test-[vbs].bat (001) PRE
+add: test/fcontent/sources/test.wsf (001) PRE
+add: test/fcontent/sources/src/test.md
+add: test/fcontent/sources/src/one.md
+add: test/fcontent/sources/src/one-endl.md
+add: test/fcontent/sources/src/etalon.md
+add: test/fcontent/sources/src/empty.md
+add: test/fcontent/sources/src/empty-endl.md
+add: test/fcontent/sources/main.vbs (001) PRE
+upd: vbs/vbs.ver (043) PRE
+add: vbs/fcontent.vbs (001) PRE
+upd: project.root (061) PRE
+
+[#61-dev-fcontent]: tasks/2025-01-15-0061-dev-fcontent.md
+<div/>
+
+
 
 [![S]][H] **v0.6.0 (dev)**
 --------------------------------------------------------------------------------
 [![V]][VE060] [![2024-12-24 19:00]][VE060]  
 
 [2024-12-24 19:00]: https://img.shields.io/static/v1?label=2024-12-22&message=19:00&color=yellowgreen
-[VE060]: changelog.md#-v050-dev
+[VE060]: changelog.md#-v060-dev
 
 |    дата    | время |     ветка     | статус |  
 |:----------:|:-----:|:-------------:|:------:|  
