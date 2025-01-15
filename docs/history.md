@@ -74,6 +74,46 @@
 --------------------------------------------------------------------------------
 
 
+[![P]][H] **v0.6.3 (dev)**
+--------------------------------------------------------------------------------
+[![V]][VE063] [![2025-01-15 23:50]][VE063]  
+
+[2025-01-15 23:50]: https://img.shields.io/static/v1?label=2025-01-15&message=23:50&color=yellowgreen
+[VE063]: changelog.md#-v063-dev
+
+|    дата    | время |      ветка      | статус |  
+|:----------:|:-----:|:---------------:|:------:|  
+| 2025-01-15 | 23:40 | [#63-dev-strip] | DONE   |  
+| 2025-01-15 | 19:40 | [#63-dev-strip] | BEGIN  |  
+
+1. upd: `docs`  
+   - upd: `logo.png`        (063) PRE  
+   - upd: `changelog.md`    (063) PRE  
+   - upd: `history.md`      (063) PRE  
+   - upd: `chrono.md`       (063) PRE  
+   - upd: `docs.md`         (063) PRE  
+2. add: `docs/docs`  
+   - add: `strip.md`        (001) PRE  
+3. upd: `test`  
+   - upd: `test.ver`        (056) PRE  
+4. add: `test/strip`  
+   - add: `make.bat`        (001) PRE  
+   - add: `test-[wsf].bat`  (001) PRE  
+   - add: `test-[vbs].bat`  (001) PRE  
+5. add: `test/strip/sources`  
+   - add: `front.vbs`       (001) PRE  
+   - add: `back.vbs`        (001) PRE  
+   - add: `struct.txt`      (001) PRE  
+6. upd: `vbs`  
+   - upd: `vbs.ver`         (044) PRE  
+   - add: `strip_front.vbs` (001) PRE  
+   - add: `strip_back.vbs`  (001) PRE  
+7. upd: `project.root`      (063) PRE  
+
+[#63-dev-strip]: tasks/2025-01-15-0063-dev-strip.md
+<div/>
+
+
 [![S]][H] **v0.6.2 (dev)**
 --------------------------------------------------------------------------------
 [![V]][VE062] [![2025-01-15 19:00]][VE062]  
