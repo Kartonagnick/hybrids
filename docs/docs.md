@@ -58,12 +58,13 @@
 [dir/make]:         docs/dir/make.md
 
 [fcontent]:         docs/fcontent.md
+[strip]:            docs/strip.md
 
 [map]: https://mind-map-online.ru/sh-9223a24c9e4a6628?panelMain=0&menubar=0&freezePanels=1&scrollable=0
 [fac]: docs/factory.md
     
 <a name="main"></a>
-[![S]][H] Документация v0.6.2
+[![P]][H] Документация v0.6.3
 =============================
 Это уже третия реинкарнация проекта `hybrids`  
 Цель проекта: привести кодовую базу в порядок, и сделать полноценный релиз.  
@@ -116,6 +117,7 @@
 38. [dir/move]  
 39. [dir/make]  
 40. [fcontent]  
+41. [strip]  
 
 [фабрика гибридов][fac]  
 [карта проекта][map]  
