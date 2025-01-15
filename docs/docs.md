@@ -11,6 +11,7 @@
 [yedcont]:   docs/ready/yedcont.md
 [tooltip]:   docs/ready/tooltip.md
 [7zrun]:     docs/ready/7zrun.md
+[badgen]:    docs/ready/badgen.md
 
 [glob]:      docs/glob.md
 [echo]:      docs/echo.md
@@ -65,7 +66,7 @@
 [fac]: docs/factory.md
     
 <a name="main"></a>
-[![S]][H] Документация v0.6.1
+[![P]][H] Документация v0.6.2
 =============================
 Это уже третия реинкарнация проекта `hybrids`  
 Цель проекта: привести кодовую базу в порядок, и сделать полноценный релиз.  
@@ -79,6 +80,7 @@
 1. [yedcont]  
 2. [tooltip]  
 3. [7zrun]  
+4. [badgen]  
 
 Каталог инструментов:  
 1.  [glob]  
