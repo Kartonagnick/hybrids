@@ -1,6 +1,6 @@
 
 '--- local/hybrids                                       [test/strip][front.vbs]
-'[2025-01-15][23:40:00] 001 Kartonagnick PRE
+'[2025-01-15][23:40:00] 001 Kartonagnick    
 
 dim deep: deep = 0
 
