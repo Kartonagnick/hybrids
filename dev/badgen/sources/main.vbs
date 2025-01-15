@@ -1,6 +1,6 @@
 
 '--- local/hybrids                                        [dev/badgen][main.vbs]
-'[2025-01-15][19:00:00] 001 Kartonagnick PRE
+'[2025-01-15][19:00:00] 001 Kartonagnick    
 ' includeVBS("date\datestamp.vbs")
 ' includeVBS("date\elapsed.vbs")
 ' includeVBS("settings.vbs")
