@@ -1,6 +1,7 @@
 
 '--- local/hybrids                                                    [test.ver]
-'[2025-01-13][12:50:00] 055 Kartonagnick    
+'[2025-01-15][23:40:00] 056 Kartonagnick PRE
+'[2025-01-13][12:50:00] 055 Kartonagnick
 '[2024-12-24][19:00:00] 054 Kartonagnick
 '[2024-10-10][19:00:00] 053 Kartonagnick
 '[2024-09-30][19:00:00] 052 Kartonagnick
@@ -58,4 +59,4 @@
 
 dim gTEST_MAJOR: gTEST_MAJOR = 0
 dim gTEST_MINOR: gTEST_MINOR = 5
-dim gTEST_PATCH: gTEST_PATCH = 5
+dim gTEST_PATCH: gTEST_PATCH = 6
