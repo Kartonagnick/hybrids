@@ -1,7 +1,7 @@
 @echo off & call :checkParent || exit /b
 
 rem --- local/hybrids                                          [badgen/make.bat]
-rem [2025-01-15][19:00:00] 001 Kartonagnick PRE
+rem [2025-01-15][19:00:00] 001 Kartonagnick    
 rem ============================================================================
 rem ============================================================================
 
@@ -17,7 +17,7 @@ rem ============================================================================
   set "eHYBRID.VERSION=001"
   set "eHYBRID.USER=Kartonagnick"
   set "eHYBRID.STAMP=[2025-01-15][19:00:00]"
-  set "eHYBRID.PRE=PRE"
+  set "eHYBRID.PRE=   "
   set "eHYBRID.PROJECT=local/hybrids"
   set "eHYBRID.FILE=[script][badgen.bat]"
 

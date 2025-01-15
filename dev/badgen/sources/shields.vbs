@@ -1,6 +1,6 @@
 
 '--- local/hybrids                                     [dev/badgen][shields.vbs]
-'[2025-01-15][19:00:00] 001 Kartonagnick PRE
+'[2025-01-15][19:00:00] 001 Kartonagnick    
 
 function makeShields(txt)
   dim yy, mo, dd, hh, mm, ss

@@ -1,6 +1,6 @@
 
 '--- local/hybrids                                       [dev/badgen][image.vbs]
-'[2025-01-15][19:00:00] 001 Kartonagnick PRE
+'[2025-01-15][19:00:00] 001 Kartonagnick    
 
 function makeImage(txt)
   dim front, yy, mo, dd, hh, mm, ss, back
