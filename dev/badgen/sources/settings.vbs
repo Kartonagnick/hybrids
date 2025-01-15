@@ -1,6 +1,6 @@
 
 '--- local/hybrids                                    [dev/badgen][settings.vbs]
-'[2025-01-15][19:00:00] 001 Kartonagnick PRE
+'[2025-01-15][19:00:00] 001 Kartonagnick    
 ' includeVBS("glob.vbs")
 ' includeVBS("echo.vbs")
 ' includeVBS("env\string.vbs")

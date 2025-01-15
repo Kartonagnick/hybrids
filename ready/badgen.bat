@@ -8,7 +8,7 @@
 ::'exit /b
 
 '--- local/hybrids                                          [script][badgen.bat]
-'[2025-01-15][19:00:00] 001 Kartonagnick PRE
+'[2025-01-15][19:00:00] 001 Kartonagnick    
 '===============================================================================
 
 '--------------------------------------------------------------[vbs/glob.vbs]---
@@ -1307,7 +1307,7 @@ end class
 '------------------------------------------------------[sources/settings.vbs]---
 
 '--- local/hybrids                                    [dev/badgen][settings.vbs]
-'[2025-01-15][19:00:00] 001 Kartonagnick PRE
+'[2025-01-15][19:00:00] 001 Kartonagnick    
 
 class CSettings
 
@@ -1444,7 +1444,7 @@ end class
 '---------------------------------------------------------[sources/image.vbs]---
 
 '--- local/hybrids                                       [dev/badgen][image.vbs]
-'[2025-01-15][19:00:00] 001 Kartonagnick PRE
+'[2025-01-15][19:00:00] 001 Kartonagnick    
 
 function makeImage(txt)
   dim front, yy, mo, dd, hh, mm, ss, back
@@ -1475,7 +1475,7 @@ end function
 '--------------------------------------------------------[sources/badgen.vbs]---
 
 '--- local/hybrids                                      [dev/badgen][badgen.vbs]
-'[2025-01-15][19:00:00] 001 Kartonagnick PRE
+'[2025-01-15][19:00:00] 001 Kartonagnick    
 
 function makeBadgen(txt)
   dim yy, mo, dd, hh, mm, ss
@@ -1512,7 +1512,7 @@ end function
 '-------------------------------------------------------[sources/shields.vbs]---
 
 '--- local/hybrids                                     [dev/badgen][shields.vbs]
-'[2025-01-15][19:00:00] 001 Kartonagnick PRE
+'[2025-01-15][19:00:00] 001 Kartonagnick    
 
 function makeShields(txt)
   dim yy, mo, dd, hh, mm, ss
@@ -1549,7 +1549,7 @@ end function
 '----------------------------------------------------------[sources/main.vbs]---
 
 '--- local/hybrids                                        [dev/badgen][main.vbs]
-'[2025-01-15][19:00:00] 001 Kartonagnick PRE
+'[2025-01-15][19:00:00] 001 Kartonagnick    
 
 dim gSetup, gREGEXP, gREGEXP2
 
