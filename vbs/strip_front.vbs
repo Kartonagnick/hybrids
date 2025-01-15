@@ -1,6 +1,6 @@
 
 '--- local/hybrids                                         [git/strip_front.vbs]
-'[2025-01-15][23:40:00] 001 Kartonagnick PRE
+'[2025-01-15][23:40:00] 001 Kartonagnick    
 
 function stripFrontImpl(front, text, mode_compare)
 

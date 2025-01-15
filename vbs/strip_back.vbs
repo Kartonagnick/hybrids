@@ -1,6 +1,6 @@
 
 '--- local/hybrids                                          [git/strip_back.vbs]
-'[2025-01-15][23:40:00] 001 Kartonagnick PRE
+'[2025-01-15][23:40:00] 001 Kartonagnick    
 
 function stripBackImpl(text, back, mode_compare)
 
