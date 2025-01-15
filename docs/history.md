@@ -74,7 +74,7 @@
 --------------------------------------------------------------------------------
 
 
-[![P]][H] **v0.6.3 (dev)**
+[![S]][H] **v0.6.3 (dev)**
 --------------------------------------------------------------------------------
 [![V]][VE063] [![2025-01-15 23:50]][VE063]  
 
@@ -87,28 +87,28 @@
 | 2025-01-15 | 19:40 | [#63-dev-strip] | BEGIN  |  
 
 1. upd: `docs`  
-   - upd: `logo.png`        (063) PRE  
-   - upd: `changelog.md`    (063) PRE  
-   - upd: `history.md`      (063) PRE  
-   - upd: `chrono.md`       (063) PRE  
-   - upd: `docs.md`         (063) PRE  
+   - upd: `logo.png`         063  
+   - upd: `changelog.md`     063  
+   - upd: `history.md`       063  
+   - upd: `chrono.md`        063  
+   - upd: `docs.md`          063  
 2. add: `docs/docs`  
-   - add: `strip.md`        (001) PRE  
+   - add: `strip.md`         001  
 3. upd: `test`  
-   - upd: `test.ver`        (056) PRE  
+   - upd: `test.ver`         056  
 4. add: `test/strip`  
-   - add: `make.bat`        (001) PRE  
-   - add: `test-[wsf].bat`  (001) PRE  
-   - add: `test-[vbs].bat`  (001) PRE  
+   - add: `make.bat`         001  
+   - add: `test-[wsf].bat`   001  
+   - add: `test-[vbs].bat`   001  
 5. add: `test/strip/sources`  
-   - add: `front.vbs`       (001) PRE  
-   - add: `back.vbs`        (001) PRE  
-   - add: `struct.txt`      (001) PRE  
+   - add: `front.vbs`        001  
+   - add: `back.vbs`         001  
+   - add: `struct.txt`       001  
 6. upd: `vbs`  
-   - upd: `vbs.ver`         (044) PRE  
-   - add: `strip_front.vbs` (001) PRE  
-   - add: `strip_back.vbs`  (001) PRE  
-7. upd: `project.root`      (063) PRE  
+   - upd: `vbs.ver`          044  
+   - add: `strip_front.vbs`  001  
+   - add: `strip_back.vbs`   001  
+7. upd: `project.root`       063  
 
 [#63-dev-strip]: tasks/2025-01-15-0063-dev-strip.md
 <div/>
