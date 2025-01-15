@@ -73,6 +73,49 @@
 
 --------------------------------------------------------------------------------
 
+
+[![P]][H] **v0.6.2 (dev)**
+--------------------------------------------------------------------------------
+[![V]][VE062] [![2025-01-15 19:00]][VE062]  
+
+[2025-01-15 19:00]: https://img.shields.io/static/v1?label=2025-01-15&message=19:00&color=yellowgreen
+[VE062]: changelog.md#-v062-dev
+
+|    дата    | время |       ветка      | статус |  
+|:----------:|:-----:|:----------------:|:------:|  
+| 2025-01-15 | 18:50 | [#62-dev-badgen] | DONE   |  
+| 2025-01-15 | 10:30 | [#62-dev-badgen] | BEGIN  |  
+
+1. upd: `docs`  
+   - upd: `logo.png`        061  
+   - upd: `history.md`      061  
+   - upd: `docs.md`         061  
+   - upd: `chrono.md`       061  
+   - upd: `changelog.md`    061  
+2. add: `docs/docs/ready`  
+   - add: `badgen.md`       001  
+3. add: `ready`  
+   - add: `badgen.bat`      001  
+4. add: `dev/badgen`  
+   - add: `make.bat`        001  
+   - add: `test-[wsf].bat`  001  
+   - add: `test-[vbs].bat`  001  
+5. add: `dev/badgen/sources`  
+   - add: `struct.txt`      001  
+   - add: `shields.vbs`     001  
+   - add: `settings.vbs`    001  
+   - add: `main.vbs`        001  
+   - add: `image.vbs`       001  
+   - add: `content.vbs`     001  
+   - add: `badgen.vbs`      001  
+6. add: `dev/badgen/resources`  
+   - add: `example.md`  
+7. upd: `project.root`      061  
+
+[#62-dev-badgen]: tasks/2025-01-15-0062-dev-badgen.md
+<div/>
+
+
 [![S]][H] **v0.6.1 (dev)**
 --------------------------------------------------------------------------------
 [![V]][VE061] [![2025-01-13 12:50]][VE061]  
