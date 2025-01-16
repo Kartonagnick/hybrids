@@ -74,6 +74,55 @@
 --------------------------------------------------------------------------------
 
 
+[![P]][H] **v0.6.4 (dev)**
+--------------------------------------------------------------------------------
+[![V]][VE064] [![2025-01-16 04:50]][VE064]  
+
+[2025-01-16 04:50]: https://img.shields.io/static/v1?label=2025-01-16&message=04:50&color=yellowgreen
+[VE064]: changelog.md#-v064-dev
+
+|    дата    | время |     ветка     | статус |  
+|:----------:|:-----:|:-------------:|:------:|  
+| 2025-01-16 | 04:40 | [#64-dev-git] | DONE   |  
+| 2025-01-16 | 00:00 | [#64-dev-git] | BEGIN  |  
+
+1. upd: `docs`  
+   - upd: `logo.png`        (064) PRE  
+   - upd: `changelog.md`    (064) PRE  
+   - upd: `history.md`      (064) PRE  
+   - upd: `chrono.md`       (064) PRE  
+   - upd: `docs.md`         (064) PRE  
+2. add: `docs/docs`  
+   - add: `git.md`          (001) PRE  
+3. add: `docs/docs/git`  
+   - add: `commit.md`       (001) PRE  
+   - add: `gitapi.md`       (001) PRE  
+4. upd: `test`  
+   - upd: `test.ver`        (057) PRE  
+5. add:` test/git`  
+   - add: `make.bat`        (001) PRE  
+   - add: `test-[wsf].bat`  (001) PRE  
+   - add: `test-[vbs].bat`  (001) PRE  
+6. add: `test/git/sources`  
+   - add: `unreachable.vbs` (001) PRE  
+   - add: `cleanRepo.vbs`   (001) PRE  
+   - add: `branch.vbs`      (001) PRE  
+   - add: `master.vbs`      (001) PRE  
+   - add: `last.vbs`        (001) PRE  
+   - add: `init.vbs`        (001) PRE  
+   - add: `struct.txt`      (001) PRE  
+7. upd: `vbs`  
+   - upd: `vbs.ver`         (045) PRE  
+8. add: `vbs/git`  
+   - add: `commit.vbs`      (001) PRE  
+   - add: `command.vbs`     (001) PRE  
+   - add: `git.vbs`         (001) PRE  
+9. upd: `project.root`      (064) PRE  
+
+[#64-dev-git]: tasks/2025-01-16-0064-dev-git.md
+<div/>
+
+
 [![S]][H] **v0.6.3 (dev)**
 --------------------------------------------------------------------------------
 [![V]][VE063] [![2025-01-15 23:50]][VE063]  
