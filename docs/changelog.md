@@ -7,6 +7,32 @@
 [![S]][H] Новости проекта
 =========================
 
+[![P]][VE064] **v0.6.4 (dev)**
+--------------------------------------------------------------------------------
+[#64-dev-git]: tasks/2025-01-16-0064-dev-git.md
+[VE064]: history.md#-v064-dev
+
+|    дата    | время |     ветка     |    статус     |  
+|:----------:|:-----:|:-------------:|:-------------:|  
+| 2025-01-16 | 04:50 | [#64-dev-git] | [![V]][VE064] |  
+
+Добавляем модуль `git`  
+Поддерживает базовый набор функций:  
+```
+class GitAPI
+  property get version()
+  property get lastCommitFull()
+  property get lastCommitShort()
+  property get branch()
+  property get unreachable()
+  sub cleanRepo(deep)
+  function branchByHash(hash)
+  function getMasterCommits()
+  function getBranchCommits()
+```
+<br/>
+
+
 [![S]][VE063] **v0.6.3 (dev)**
 --------------------------------------------------------------------------------
 [#63-dev-strip]: tasks/2025-01-15-0063-dev-strip.md
