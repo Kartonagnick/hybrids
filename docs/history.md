@@ -74,7 +74,7 @@
 --------------------------------------------------------------------------------
 
 
-[![P]][H] **v0.6.4 (dev)**
+[![S]][H] **v0.6.4 (dev)**
 --------------------------------------------------------------------------------
 [![V]][VE064] [![2025-01-16 04:50]][VE064]  
 
@@ -87,37 +87,37 @@
 | 2025-01-16 | 00:00 | [#64-dev-git] | BEGIN  |  
 
 1. upd: `docs`  
-   - upd: `logo.png`        (064) PRE  
-   - upd: `changelog.md`    (064) PRE  
-   - upd: `history.md`      (064) PRE  
-   - upd: `chrono.md`       (064) PRE  
-   - upd: `docs.md`         (064) PRE  
+   - upd: `logo.png`         064  
+   - upd: `changelog.md`     064  
+   - upd: `history.md`       064  
+   - upd: `chrono.md`        064  
+   - upd: `docs.md`          064  
 2. add: `docs/docs`  
-   - add: `git.md`          (001) PRE  
+   - add: `git.md`           001  
 3. add: `docs/docs/git`  
-   - add: `commit.md`       (001) PRE  
-   - add: `gitapi.md`       (001) PRE  
+   - add: `commit.md`        001  
+   - add: `gitapi.md`        001  
 4. upd: `test`  
-   - upd: `test.ver`        (057) PRE  
+   - upd: `test.ver`         057  
 5. add:` test/git`  
-   - add: `make.bat`        (001) PRE  
-   - add: `test-[wsf].bat`  (001) PRE  
-   - add: `test-[vbs].bat`  (001) PRE  
+   - add: `make.bat`         001  
+   - add: `test-[wsf].bat`   001  
+   - add: `test-[vbs].bat`   001  
 6. add: `test/git/sources`  
-   - add: `unreachable.vbs` (001) PRE  
-   - add: `cleanRepo.vbs`   (001) PRE  
-   - add: `branch.vbs`      (001) PRE  
-   - add: `master.vbs`      (001) PRE  
-   - add: `last.vbs`        (001) PRE  
-   - add: `init.vbs`        (001) PRE  
-   - add: `struct.txt`      (001) PRE  
+   - add: `unreachable.vbs`  001  
+   - add: `cleanRepo.vbs`    001  
+   - add: `branch.vbs`       001  
+   - add: `master.vbs`       001  
+   - add: `last.vbs`         001  
+   - add: `init.vbs`         001  
+   - add: `struct.txt`       001  
 7. upd: `vbs`  
-   - upd: `vbs.ver`         (045) PRE  
+   - upd: `vbs.ver`          045  
 8. add: `vbs/git`  
-   - add: `commit.vbs`      (001) PRE  
-   - add: `command.vbs`     (001) PRE  
-   - add: `git.vbs`         (001) PRE  
-9. upd: `project.root`      (064) PRE  
+   - add: `commit.vbs`       001  
+   - add: `command.vbs`      001  
+   - add: `git.vbs`          001  
+9. upd: `project.root`       064  
 
 [#64-dev-git]: tasks/2025-01-16-0064-dev-git.md
 <div/>
