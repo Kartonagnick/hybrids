@@ -36,7 +36,6 @@
 [toggle]:           docs/toggle.md
 [numeric]:          docs/numeric.md
 
-[date]:             docs/date.md
 [date/value]:       docs/date/value.md
 [date/import]:      docs/date/import.md
 [date/export]:      docs/date/export.md
@@ -51,7 +50,6 @@
 [environment]:      docs/environment.md
 [include]:          docs/include.md
 
-[dir]:              docs/dir/dir.md
 [dir/isEmpty]:      docs/dir/empty.md
 [dir/delete]:       docs/dir/delete.md
 [dir/move]:         docs/dir/move.md
@@ -60,11 +58,15 @@
 [fcontent]:         docs/fcontent.md
 [strip]:            docs/strip.md
 
+[git/gitapi]:       docs/git/gitapi.md
+[git/commit]:       docs/git/commit.md
+
+
 [map]: https://mind-map-online.ru/sh-9223a24c9e4a6628?panelMain=0&menubar=0&freezePanels=1&scrollable=0
 [fac]: docs/factory.md
     
 <a name="main"></a>
-[![S]][H] Документация v0.6.3
+[![P]][H] Документация v0.6.4
 =============================
 Это уже третия реинкарнация проекта `hybrids`  
 Цель проекта: привести кодовую базу в порядок, и сделать полноценный релиз.  
@@ -118,6 +120,8 @@
 39. [dir/make]  
 40. [fcontent]  
 41. [strip]  
+42. [git/gitapi]  
+43. [git/commit]  
 
 [фабрика гибридов][fac]  
 [карта проекта][map]  
