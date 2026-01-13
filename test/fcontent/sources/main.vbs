@@ -1,6 +1,6 @@
                                                 
 '--- local/hybrids                                     [test/fcontent][main.vbs]
-'[2025-01-13][12:50:00] 001 Kartonagnick PRE
+'[2025-01-13][12:50:00] 001 Kartonagnick    
 ' includeVBS("glob.vbs")
 ' includeVBS("fcontent.vbs")
 
