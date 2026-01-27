@@ -73,6 +73,40 @@
 
 --------------------------------------------------------------------------------
 
+[![P]][H] **v0.6.5 (dev)**
+--------------------------------------------------------------------------------
+[![V]][VE065] [![2026-01-28 15:40]][VE065]  
+
+[2025-01-29 01:30]: https://img.shields.io/static/v1?label=2025-01-29&message=01:30&color=yellowgreen
+[VE065]: changelog.md#-v065-dev
+
+|    дата    | время |        ветка       | статус |  
+|:----------:|:-----:|:------------------:|:------:|  
+| 2025-01-29 | 01:20 | [#65-dev-diffdate] | DONE   |  
+| 2025-01-28 | 23:50 | [#65-dev-diffdate] | BEGIN  |  
+
+1. upd: `docs`  
+   - upd: logo.png`        (001) PRE  
+   - upd: `changelog.md`   (065) PRE  
+   - upd: `history.md`     (065) PRE  
+   - upd: `chrono.md`      (065) PRE  
+   - upd: `docs.md`        (065) PRE  
+2. add: `docs/docs/ready`  
+   - add: `diffdate.md`    (001) PRE  
+3. add: `ready`  
+   - add: `diffdate.bat`   (001) PRE  
+4. add: `dev/diffdate`  
+   - add: `test-[wsf].bat` (001) PRE  
+   - add: `test-[vbs].bat` (001) PRE  
+   - add: `make.bat`       (001) PRE  
+5. add: `dev/diffdate/sources`  
+   - add: `diffdate.vbs`   (001) PRE  
+   - add: `struct.txt`     (001) PRE  
+6. upd: `project.root`     (065) PRE  
+
+[#65-dev-diffdate]: tasks/2026-01-28-0065-dev-diffdate.md
+<div/>
+
 
 [![S]][H] **v0.6.4 (dev)**
 --------------------------------------------------------------------------------
