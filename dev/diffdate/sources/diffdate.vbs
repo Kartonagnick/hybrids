@@ -1,6 +1,6 @@
 
 '--- local/hybrids                                       [sources][diffdate.vbs]
-'[2026-01-28][15:40:00] 001 Kartonagnick PRE
+'[2026-01-28][15:40:00] 001 Kartonagnick    
 
 Option Explicit
 

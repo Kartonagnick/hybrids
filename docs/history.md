@@ -73,7 +73,7 @@
 
 --------------------------------------------------------------------------------
 
-[![P]][H] **v0.6.5 (dev)**
+[![S]][H] **v0.6.5 (dev)**
 --------------------------------------------------------------------------------
 [![V]][VE065] [![2026-01-28 15:40]][VE065]  
 
@@ -86,23 +86,23 @@
 | 2025-01-28 | 23:50 | [#65-dev-diffdate] | BEGIN  |  
 
 1. upd: `docs`  
-   - upd: logo.png`        (001) PRE  
-   - upd: `changelog.md`   (065) PRE  
-   - upd: `history.md`     (065) PRE  
-   - upd: `chrono.md`      (065) PRE  
-   - upd: `docs.md`        (065) PRE  
+   - upd: logo.png`         001  
+   - upd: `changelog.md`    065  
+   - upd: `history.md`      065  
+   - upd: `chrono.md`       065  
+   - upd: `docs.md`         065  
 2. add: `docs/docs/ready`  
-   - add: `diffdate.md`    (001) PRE  
+   - add: `diffdate.md`     001  
 3. add: `ready`  
-   - add: `diffdate.bat`   (001) PRE  
+   - add: `diffdate.bat`    001  
 4. add: `dev/diffdate`  
-   - add: `test-[wsf].bat` (001) PRE  
-   - add: `test-[vbs].bat` (001) PRE  
-   - add: `make.bat`       (001) PRE  
+   - add: `test-[wsf].bat`  001  
+   - add: `test-[vbs].bat`  001  
+   - add: `make.bat`        001  
 5. add: `dev/diffdate/sources`  
-   - add: `diffdate.vbs`   (001) PRE  
-   - add: `struct.txt`     (001) PRE  
-6. upd: `project.root`     (065) PRE  
+   - add: `diffdate.vbs`    001  
+   - add: `struct.txt`      001  
+6. upd: `project.root`      065  
 
 [#65-dev-diffdate]: tasks/2026-01-28-0065-dev-diffdate.md
 <div/>
