@@ -1,6 +1,6 @@
 
 '--- local/hybrids                                                 [unquote.vbs]
-'[2026-01-28][18:10:00] 001 Kartonagnick PRE
+'[2026-01-28][18:10:00] 001 Kartonagnick    
 
 function unquote(str)
   dim quot: quot = """"
