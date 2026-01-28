@@ -1,6 +1,6 @@
 
 '--- local/hybrids                                      [test/unquote][main.vbs]
-'[2026-01-28][18:10:00] 001 Kartonagnick PRE
+'[2026-01-28][18:10:00] 001 Kartonagnick    
 
 dim deep: deep = 0
 

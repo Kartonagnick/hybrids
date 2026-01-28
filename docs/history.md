@@ -73,7 +73,7 @@
 
 --------------------------------------------------------------------------------
 
-[![P]][H] **v0.6.6 (dev)**
+[![S]][H] **v0.6.6 (dev)**
 --------------------------------------------------------------------------------
 [![V]][VE066] [![2026-01-28 18:10]][VE066]  
 
@@ -86,23 +86,23 @@
 | 2026-01-28 | 17:30 | [#66-dev-util] | BEGIN  |  
 
 1. upd: `docs`  
-   - upd: `logo.png`       (066) PRE  
-   - upd: `changelog.md`   (066) PRE  
-   - upd: `history.md`     (066) PRE  
-   - upd: `chrono.md`      (066) PRE  
-   - upd: `docs.md`        (066) PRE  
+   - upd: `logo.png`        066  
+   - upd: `changelog.md`    066  
+   - upd: `history.md`      066  
+   - upd: `chrono.md`       066  
+   - upd: `docs.md`         066  
 2. add: `docs/docs`  
-   - add: `unquote.md`     (001) PRE  
+   - add: `unquote.md`      001  
 3. add: `test/unquote`  
-   - add: `make.bat`       (001) PRE  
-   - add: `test-[wsf].bat` (001) PRE  
-   - add: `test-[vbs].bat` (001) PRE  
+   - add: `make.bat`        001  
+   - add: `test-[wsf].bat`  001  
+   - add: `test-[vbs].bat`  001  
 4. add: `test/unquote/sources`  
-   - add: `struct.txt`     (001) PRE  
-   - add: `main.vbs`       (001) PRE  
+   - add: `struct.txt`      001  
+   - add: `main.vbs`        001  
 5. add: `vbs`  
-   - add: `unquote.vbs`    (001) PRE  
-6. upd: `project.root`     (066) PRE  
+   - add: `unquote.vbs`     001  
+6. upd: `project.root`      066  
 
 [#66-dev-util]: tasks/2026-01-28-0066-dev-util.md
 <div/>
