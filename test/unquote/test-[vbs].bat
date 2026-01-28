@@ -1,7 +1,7 @@
 @echo off & call :checkParent || exit /b
 
 rem --- local/hybrids                                   [unquote/test-[vbs].bat]
-rem [2026-01-28][18:10:00] 001 Kartonagnick PRE
+rem [2026-01-28][18:10:00] 001 Kartonagnick    
 rem ============================================================================
 rem ============================================================================
 
@@ -12,7 +12,7 @@ rem ============================================================================
   set "eDIR=%~dp0_ready"
   set "title=unquote"
   call :setDepth
-  call :show [%title%] run... 0.0.1 PRE
+  call :show [%title%] run... 0.0.1    
 ::call :run "%eDIR%\ctor.string.vbs" && goto :success || goto :failed
   call :runAll || goto :failed
   if defined eWAS_ERROR goto :failed
