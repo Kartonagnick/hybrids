@@ -73,20 +73,55 @@
 
 --------------------------------------------------------------------------------
 
+[![P]][H] **v0.6.6 (dev)**
+--------------------------------------------------------------------------------
+[![V]][VE066] [![2026-01-28 18:10]][VE066]  
+
+[2026-01-28 18:10]: https://img.shields.io/static/v1?label=2026-01-18&message=18:10&color=yellowgreen
+[VE066]: changelog.md#-v066-dev
+
+|    дата    | время |      ветка     | статус |  
+|:----------:|:-----:|:--------------:|:------:|  
+| 2026-01-28 | 18:00 | [#66-dev-util] | DONE   |  
+| 2026-01-28 | 17:30 | [#66-dev-util] | BEGIN  |  
+
+1. upd: `docs`  
+   - upd: `logo.png`       (066) PRE  
+   - upd: `changelog.md`   (066) PRE  
+   - upd: `history.md`     (066) PRE  
+   - upd: `chrono.md`      (066) PRE  
+   - upd: `docs.md`        (066) PRE  
+2. add: `docs/docs`  
+   - add: `unquote.md`     (001) PRE  
+3. add: `test/unquote`  
+   - add: `make.bat`       (001) PRE  
+   - add: `test-[wsf].bat` (001) PRE  
+   - add: `test-[vbs].bat` (001) PRE  
+4. add: `test/unquote/sources`  
+   - add: `struct.txt`     (001) PRE  
+   - add: `main.vbs`       (001) PRE  
+5. add: `vbs`  
+   - add: `unquote.vbs`    (001) PRE  
+6. upd: `project.root`     (066) PRE  
+
+[#66-dev-util]: tasks/2026-01-28-0066-dev-util.md
+<div/>
+
+
 [![S]][H] **v0.6.5 (dev)**
 --------------------------------------------------------------------------------
 [![V]][VE065] [![2026-01-28 15:40]][VE065]  
 
-[2025-01-29 01:30]: https://img.shields.io/static/v1?label=2025-01-29&message=01:30&color=yellowgreen
+[2026-01-28 15:40]: https://img.shields.io/static/v1?label=2026-01-28&message=15:40&color=yellowgreen
 [VE065]: changelog.md#-v065-dev
 
 |    дата    | время |        ветка       | статус |  
 |:----------:|:-----:|:------------------:|:------:|  
-| 2025-01-29 | 01:20 | [#65-dev-diffdate] | DONE   |  
-| 2025-01-28 | 23:50 | [#65-dev-diffdate] | BEGIN  |  
+| 2026-01-28 | 15:30 | [#65-dev-diffdate] | DONE   |  
+| 2026-01-28 | 11:30 | [#65-dev-diffdate] | BEGIN  |  
 
 1. upd: `docs`  
-   - upd: logo.png`         001  
+   - upd: `logo.png`        001  
    - upd: `changelog.md`    065  
    - upd: `history.md`      065  
    - upd: `chrono.md`       065  
