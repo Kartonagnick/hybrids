@@ -8,29 +8,29 @@
 [REQ]: workflow/requirements.md
 [VAR]: workflow/notation.md
 
-[yedcont]:   docs/ready/yedcont.md
-[tooltip]:   docs/ready/tooltip.md
-[7zrun]:     docs/ready/7zrun.md
-[badgen]:    docs/ready/badgen.md
-[diffdate]:  docs/ready/diffdate.md
+[yedcont]:          docs/ready/yedcont.md
+[tooltip]:          docs/ready/tooltip.md
+[7zrun]:            docs/ready/7zrun.md
+[badgen]:           docs/ready/badgen.md
+[diffdate]:         docs/ready/diffdate.md
 
-[glob]:      docs/glob.md
-[echo]:      docs/echo.md
-[assert]:    docs/assert.md
-[errCode]:   docs/errCode.md
-[twoDigits]: docs/twoDigits.md
-[padding]:   docs/padding.md
-[runCmd]:    docs/runCmd.md
-[runBat]:    docs/runBat.md
-[trim]:      docs/trim.md
-[path]:      docs/path.md
-[minmax]:    docs/minmax.md
-[array]:     docs/array.md
-[mask]:      docs/mask.md
-[symptom]:   docs/symptom.md
-[find_in]:   docs/find_in.md
-[value]:     docs/value.md
-[traits]:    docs/traits.md
+[glob]:             docs/glob.md
+[echo]:             docs/echo.md
+[assert]:           docs/assert.md
+[errCode]:          docs/errCode.md
+[twoDigits]:        docs/twoDigits.md
+[padding]:          docs/padding.md
+[runCmd]:           docs/runCmd.md
+[runBat]:           docs/runBat.md
+[trim]:             docs/trim.md
+[path]:             docs/path.md
+[minmax]:           docs/minmax.md
+[array]:            docs/array.md
+[mask]:             docs/mask.md
+[symptom]:          docs/symptom.md
+[find_in]:          docs/find_in.md
+[value]:            docs/value.md
+[traits]:           docs/traits.md
 
 [view/tree]:        docs/view/tree.md  
 [view/tree_short]:  docs/view/tree_short.md
@@ -66,12 +66,13 @@
 [git/commit]:       docs/git/commit.md
 
 [unquote]:          docs/unquote.md 
+[logging]:          docs/logging.md 
 
 [map]: https://mind-map-online.ru/sh-9223a24c9e4a6628?panelMain=0&menubar=0&freezePanels=1&scrollable=0
 [fac]: docs/factory.md
     
 <a name="main"></a>
-[![S]][H] Документация v0.6.6
+[![P]][H] Документация v0.6.7
 =============================
 Это уже третия реинкарнация проекта `hybrids`  
 Цель проекта: привести кодовую базу в порядок, и сделать полноценный релиз.  
@@ -134,6 +135,7 @@
 42. [git/gitapi]  
 43. [git/commit]  
 44. [unquote]  
+45. [logging]  
 
 [фабрика гибридов][fac]  
 [карта проекта][map]  
