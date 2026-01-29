@@ -1,0 +1,34 @@
+
+#===============================================================================
+#===============================================================================
+
+# local/hybrids                                             [vsscan][struct.txt]
+# [2026-01-30][11:50:00] 001 Kartonagnick PRE
+
+#===============================================================================
+#===============================================================================
+
+VBS\glob.vbs
+VBS\echo.vbs
+VBS\assert.vbs
+VBS\errCode.vbs
+
+VBS\env\string.vbs
+VBS\environment.vbs
+
+VBS\date\datestamp.vbs
+VBS\date\elapsed.vbs
+
+VBS\mask.vbs
+VBS\find_in.vbs
+
+VBS\unquote.vbs
+VBS\fcontent.vbs
+VBS\path.vbs
+
+.\settings.vbs
+.\solution.vbs
+.\project.vbs
+
+
+
