@@ -1,6 +1,6 @@
 
 '--- local/hybrids                                      [test/logging][main.vbs]
-'[2026-01-29][19:30:00] 001 Kartonagnick PRE
+'[2026-01-29][19:30:00] 001 Kartonagnick    
 
 dim deep: deep = 0
 dim READ_LINE: READ_LINE = -2
