@@ -73,7 +73,7 @@
 
 --------------------------------------------------------------------------------
 
-[![P]][H] **v0.6.7 (dev)**
+[![S]][H] **v0.6.7 (dev)**
 --------------------------------------------------------------------------------
 [![V]][VE067] [![2026-01-29 19:30]][VE067]  
 
@@ -86,23 +86,23 @@
 | 2026-01-29 | 19:20 | [#67-dev-logg] | BEGIN  |  
 
 1. upd: `docs`  
-   - upd: `logo.png`       (067) PRE  
-   - upd: `changelog.md`   (067) PRE  
-   - upd: `history.md`     (067) PRE  
-   - upd: `chrono.md`      (067) PRE  
-   - upd: `docs.md`        (067) PRE  
+   - upd: `logo.png`        067  
+   - upd: `changelog.md`    067  
+   - upd: `history.md`      067  
+   - upd: `chrono.md`       067  
+   - upd: `docs.md`         067  
 2. add: `docs/docs`  
-   - add: `logging.md`     (001) PRE  
+   - add: `logging.md`      001  
 3. add: `vbs`  
-   - add: `logging.vbs`    (001) PRE  
+   - add: `logging.vbs`     001  
 4. add: `test/logging`  
-   - add: `make.bat`       (001) PRE  
-   - add: `test-[wsf].bat` (001) PRE  
-   - add: `test-[vbs].bat` (001) PRE  
+   - add: `make.bat`        001  
+   - add: `test-[wsf].bat`  001  
+   - add: `test-[vbs].bat`  001  
 5. add: `test/logging/sources`  
-   - add: `struct.txt`     (001) PRE  
-   - add: `main.vbs`       (001) PRE  
-6. upd: `project.root`     (067) PRE  
+   - add: `struct.txt`      001  
+   - add: `main.vbs`        001  
+6. upd: `project.root`      067  
 
 [#67-dev-logg]: tasks/2026-01-28-0067-dev-logg.md
 <div/>

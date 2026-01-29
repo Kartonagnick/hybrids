@@ -1,6 +1,6 @@
 
 '--- local/hybrids                                                 [logging.vbs]
-'[2026-01-29][19:30:00] 001 Kartonagnick PRE
+'[2026-01-29][19:30:00] 001 Kartonagnick    
 '  based on the story:
 '  --- local/entrepot                                   [bat/work/03-rename.bat]
 '  [2025-10-23][05:10:00] 013 Kartonagnick
