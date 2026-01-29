@@ -73,6 +73,41 @@
 
 --------------------------------------------------------------------------------
 
+[![P]][H] **v0.6.7 (dev)**
+--------------------------------------------------------------------------------
+[![V]][VE067] [![2026-01-29 19:30]][VE067]  
+
+[2026-01-29 19:30]: https://img.shields.io/static/v1?label=2026-01-29&message=19:30&color=yellowgreen
+[VE067]: changelog.md#-v067-dev
+
+|    дата    | время |      ветка     | статус |  
+|:----------:|:-----:|:--------------:|:------:|  
+| 2026-01-28 | 18:40 | [#67-dev-logg] | DONE   |  
+| 2026-01-29 | 19:20 | [#67-dev-logg] | BEGIN  |  
+
+1. upd: `docs`  
+   - upd: `logo.png`       (067) PRE  
+   - upd: `changelog.md`   (067) PRE  
+   - upd: `history.md`     (067) PRE  
+   - upd: `chrono.md`      (067) PRE  
+   - upd: `docs.md`        (067) PRE  
+2. add: `docs/docs`  
+   - add: `logging.md`     (001) PRE  
+3. add: `vbs`  
+   - add: `logging.vbs`    (001) PRE  
+4. add: `test/logging`  
+   - add: `make.bat`       (001) PRE  
+   - add: `test-[wsf].bat` (001) PRE  
+   - add: `test-[vbs].bat` (001) PRE  
+5. add: `test/logging/sources`  
+   - add: `struct.txt`     (001) PRE  
+   - add: `main.vbs`       (001) PRE  
+6. upd: `project.root`     (067) PRE  
+
+[#67-dev-logg]: tasks/2026-01-28-0067-dev-logg.md
+<div/>
+
+
 [![S]][H] **v0.6.6 (dev)**
 --------------------------------------------------------------------------------
 [![V]][VE066] [![2026-01-28 18:10]][VE066]  
