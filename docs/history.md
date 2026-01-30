@@ -73,6 +73,44 @@
 
 --------------------------------------------------------------------------------
 
+[![P]][H] **v0.6.8 (dev)**
+--------------------------------------------------------------------------------
+[![V]][VE068] [![2026-01-30 11:50]][VE068]  
+
+[2026-01-30 11:50]: https://img.shields.io/static/v1?label=2026-01-30&message=11:50&color=yellowgreen
+[VE068]: changelog.md#-v068-dev
+
+|    дата    | время |       ветка      | статус |  
+|:----------:|:-----:|:----------------:|:------:|  
+| 2026-01-29 | 19:40 | [#68-dev-vsscan] | DONE   |  
+| 2026-01-30 | 11:40 | [#68-dev-vsscan] | BEGIN  |  
+
+1. upd: `docs`  
+   - upd: `logo.png`       (068) PRE  
+   - upd: `changelog.md`   (068) PRE  
+   - upd: `history.md`     (068) PRE  
+   - upd: `chrono.md`      (068) PRE  
+   - upd: `docs.md`        (068) PRE  
+2. add: `docs/docs/ready`  
+   - add: `vsscan.md`      (001) PRE  
+3. add: `ready`  
+   - add: `vsscan.bat`     (001) PRE  
+4. add: `dev/vsscan`  
+   - add: `make.bat`       (001) PRE  
+   - add: `test-[wsf].bat` (001) PRE  
+   - add: `test-[vbs].bat` (001) PRE  
+5. add: `dev/vsscan/sources`  
+   - add: `vsscan.vbs`     (001) PRE  
+   - add: `struct.txt`     (001) PRE  
+   - add: `solution.vbs`   (001) PRE  
+   - add: `settings.vbs`   (001) PRE  
+   - add: `project.vbs`    (001) PRE  
+6. upd: `project.root`     (068) PRE  
+
+[#68-dev-vsscan]: tasks/2026-01-29-0068-dev-vsscan.md
+<div/>
+
+
 [![S]][H] **v0.6.7 (dev)**
 --------------------------------------------------------------------------------
 [![V]][VE067] [![2026-01-29 19:30]][VE067]  
