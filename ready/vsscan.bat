@@ -5,7 +5,7 @@
 ::'exit /b
 
 '--- local/hybrids                                          [script][vsscan.bat]
-'[2026-01-30][11:50:00] 001 Kartonagnick PRE
+'[2026-01-30][11:50:00] 001 Kartonagnick    
 '===============================================================================
 
 '--------------------------------------------------------------[vbs/glob.vbs]---
@@ -1480,7 +1480,7 @@ end function
 '------------------------------------------------------[sources/settings.vbs]---
 
 '--- local/hybrids                                    [dev/vsscan][settings.vbs]
-'[2026-01-30][11:50:00] 001 Kartonagnick PRE
+'[2026-01-30][11:50:00] 001 Kartonagnick    
 
 class CSettings
 
@@ -1583,7 +1583,7 @@ end class
 '------------------------------------------------------[sources/solution.vbs]---
 
 '--- local/hybrids                                    [dev/vsscan][solution.vbs]
-'[2026-01-30][11:50:00] 001 Kartonagnick PRE
+'[2026-01-30][11:50:00] 001 Kartonagnick    
 
 class CSolution
 
@@ -1669,7 +1669,7 @@ end function
 '-------------------------------------------------------[sources/project.vbs]---
 
 '--- local/hybrids                                     [dev/vsscan][project.vbs]
-'[2026-01-30][11:50:00] 001 Kartonagnick PRE
+'[2026-01-30][11:50:00] 001 Kartonagnick    
 
 class CProject
   private m_dir_repo     'string: dir of repository
@@ -1993,7 +1993,7 @@ end function
 '--------------------------------------------------------[sources/vsscan.vbs]---
 
 '--- local/hybrids                                      [dev/vsscan][vsscan.vbs]
-'[2026-01-30][11:50:00] 001 Kartonagnick PRE
+'[2026-01-30][11:50:00] 001 Kartonagnick    
 
 sub main()
   dim deep: deep = 0

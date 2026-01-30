@@ -1,6 +1,6 @@
 
 '--- local/hybrids                                    [dev/vsscan][solution.vbs]
-'[2026-01-30][11:50:00] 001 Kartonagnick PRE
+'[2026-01-30][11:50:00] 001 Kartonagnick    
 Option Explicit
 ' includeVBS("glob.vbs")
 ' includeVBS("echo.vbs")
