@@ -1,0 +1,31 @@
+
+#===============================================================================
+#===============================================================================
+
+# local/hybrids                                           [duration][struct.txt]
+# [2026-02-19][14:30:00] 001 Kartonagnick PRE
+
+#===============================================================================
+#===============================================================================
+
+VBS\glob.vbs
+VBS\echo.vbs
+VBS\assert.vbs
+VBS\errCode.vbs
+
+VBS\mask.vbs
+VBS\find_in.vbs
+VBS\fcontent.vbs
+VBS\padding.vbs
+
+VBS\date\value.vbs
+VBS\date\durationRU.vbs
+VBS\date\datestamp.vbs
+VBS\date\elapsed.vbs
+
+.\settings.vbs
+.\parser.vbs
+
+
+
+
