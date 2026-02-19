@@ -73,6 +73,43 @@
 
 --------------------------------------------------------------------------------
 
+[![P]][H] **v0.6.9 (dev)**
+--------------------------------------------------------------------------------
+[![V]][VE069] [![2026-02-19 14:30]][VE069]  
+
+[2026-02-19 11:50]: https://img.shields.io/static/v1?label=2026-02-19&message=14:30&color=yellowgreen
+[VE069]: changelog.md#-v069-dev
+
+|    дата    | время |        ветка       | статус |  
+|:----------:|:-----:|:------------------:|:------:|  
+| 2026-02-19 | 09:00 | [#69-dev-duration] | DONE   |  
+| 2026-02-19 | 14:20 | [#69-dev-duration] | BEGIN  |  
+
+1. upd: `docs`  
+   - upd: `logo.png`       (069) PRE  
+   - upd: `changelog.md`   (069) PRE  
+   - upd: `history.md`     (069) PRE  
+   - upd: `chrono.md`      (069) PRE  
+   - upd: `docs.md`        (069) PRE  
+2. add: `docs/docs/ready`  
+   - add: `duration.md`    (001) PRE  
+3. add: `ready`  
+   - add: `duration.bat`   (001) PRE  
+4. add: `dev/duration`  
+   - add: `make.bat`       (001) PRE  
+   - add: `test-[wsf].bat` (001) PRE  
+   - add: `test-[vbs].bat` (001) PRE  
+5. add: `dev/duration/sources`  
+   - add: `struct.txt`     (001) PRE  
+   - add: `settings.vbs`   (001) PRE  
+   - add: `parser.vbs`     (001) PRE  
+   - add: `main.vbs`       (001) PRE  
+6. upd: `project.root`     (069) PRE  
+
+[#69-dev-duration]: tasks/2026-02-19-0069-dev-duration.md
+<div/>
+
+
 [![S]][H] **v0.6.8 (dev)**
 --------------------------------------------------------------------------------
 [![V]][VE068] [![2026-01-30 11:50]][VE068]  
