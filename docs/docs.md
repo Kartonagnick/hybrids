@@ -14,6 +14,7 @@
 [badgen]:           docs/ready/badgen.md
 [diffdate]:         docs/ready/diffdate.md
 [vsscan]:           docs/ready/vsscan.md
+[duration]:         docs/ready/duration.md
 
 [glob]:             docs/glob.md
 [echo]:             docs/echo.md
@@ -73,7 +74,7 @@
 [fac]: docs/factory.md
     
 <a name="main"></a>
-[![S]][H] Документация v0.6.8
+[![P]][H] Документация v0.6.9
 =============================
 Это уже третия реинкарнация проекта `hybrids`  
 Цель проекта: привести кодовую базу в порядок, и сделать полноценный релиз.  
@@ -90,6 +91,7 @@
 4. [badgen]  
 5. [diffdate]  
 6. [vsscan]  
+7. [duration]  
 
 Каталог инструментов:  
 1.  [glob]  
