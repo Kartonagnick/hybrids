@@ -5,7 +5,7 @@
 ::'exit /b
 
 '--- local/hybrids                                        [script][duration.bat]
-'[2026-02-19][14:30:00] 001 Kartonagnick PRE
+'[2026-02-19][14:30:00] 001 Kartonagnick    
 '===============================================================================
 
 '--------------------------------------------------------------[vbs/glob.vbs]---
@@ -1744,7 +1744,7 @@ end class
 '------------------------------------------------------[sources/settings.vbs]---
 
 '--- local/hybrids                                  [dev/duration][settings.vbs]
-'[2026-02-19][14:30:00] 001 Kartonagnick PRE
+'[2026-02-19][14:30:00] 001 Kartonagnick    
 
 class CSettings
 
@@ -1829,7 +1829,7 @@ end class
 '--------------------------------------------------------[sources/parser.vbs]---
 
 '--- local/hybrids                                    [dev/duration][parser.vbs]
-'[2026-02-19][14:30:00] 001 Kartonagnick PRE
+'[2026-02-19][14:30:00] 001 Kartonagnick    
 
 dim gCURFILE, gDEEP
 dim gREGEXP1: set gREGEXP1 = new RegExp ' [2026-02-17][08:32 - 10:12][1 час 40 мин] ололо
@@ -1923,7 +1923,7 @@ end function
 '----------------------------------------------------------[sources/main.vbs]---
 
 '--- local/hybrids                                      [dev/duration][main.vbs]
-'[2026-02-19][14:30:00] 001 Kartonagnick PRE
+'[2026-02-19][14:30:00] 001 Kartonagnick    
 
 sub main()
   dim deep: deep = 0

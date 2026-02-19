@@ -73,7 +73,7 @@
 
 --------------------------------------------------------------------------------
 
-[![P]][H] **v0.6.9 (dev)**
+[![S]][H] **v0.6.9 (dev)**
 --------------------------------------------------------------------------------
 [![V]][VE069] [![2026-02-19 14:30]][VE069]  
 
@@ -86,25 +86,25 @@
 | 2026-02-19 | 14:20 | [#69-dev-duration] | BEGIN  |  
 
 1. upd: `docs`  
-   - upd: `logo.png`       (069) PRE  
-   - upd: `changelog.md`   (069) PRE  
-   - upd: `history.md`     (069) PRE  
-   - upd: `chrono.md`      (069) PRE  
-   - upd: `docs.md`        (069) PRE  
+   - upd: `logo.png`        069  
+   - upd: `changelog.md`    069  
+   - upd: `history.md`      069  
+   - upd: `chrono.md`       069  
+   - upd: `docs.md`         069  
 2. add: `docs/docs/ready`  
-   - add: `duration.md`    (001) PRE  
+   - add: `duration.md`     001  
 3. add: `ready`  
-   - add: `duration.bat`   (001) PRE  
+   - add: `duration.bat`    001  
 4. add: `dev/duration`  
-   - add: `make.bat`       (001) PRE  
-   - add: `test-[wsf].bat` (001) PRE  
-   - add: `test-[vbs].bat` (001) PRE  
+   - add: `make.bat`        001  
+   - add: `test-[wsf].bat`  001  
+   - add: `test-[vbs].bat`  001  
 5. add: `dev/duration/sources`  
-   - add: `struct.txt`     (001) PRE  
-   - add: `settings.vbs`   (001) PRE  
-   - add: `parser.vbs`     (001) PRE  
-   - add: `main.vbs`       (001) PRE  
-6. upd: `project.root`     (069) PRE  
+   - add: `struct.txt`      001  
+   - add: `settings.vbs`    001  
+   - add: `parser.vbs`      001  
+   - add: `main.vbs`        001  
+6. upd: `project.root`      069  
 
 [#69-dev-duration]: tasks/2026-02-19-0069-dev-duration.md
 <div/>

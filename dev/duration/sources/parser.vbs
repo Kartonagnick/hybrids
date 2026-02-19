@@ -1,6 +1,6 @@
 
 '--- local/hybrids                                    [dev/duration][parser.vbs]
-'[2026-02-19][14:30:00] 001 Kartonagnick PRE
+'[2026-02-19][14:30:00] 001 Kartonagnick    
 Option Explicit
 ' includeVBS("glob.vbs")
 ' includeVBS("echo.vbs")
