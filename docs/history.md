@@ -73,6 +73,43 @@
 
 --------------------------------------------------------------------------------
 
+[![P]][H] **v0.7.0 (dev)**
+--------------------------------------------------------------------------------
+[![V]][VE070] [![2026-03-26 19:20]][VE070]  
+
+[2026-03-26 19:20]: https://img.shields.io/static/v1?label=2026-03-26&message=19:20&color=yellowgreen
+[VE070]: changelog.md#-v070-dev
+
+|    дата    | время |       ветка       | статус |  
+|:----------:|:-----:|:-----------------:|:------:|  
+| 2026-03-24 | 12:00 | [#70-dev-eolcode] | DONE   |  
+| 2026-03-26 | 19:10 | [#70-dev-eolcode] | BEGIN  |  
+
+1. upd: `docs`  
+   - upd: `logo.png`        069  
+   - upd: `changelog.md`    069  
+   - upd: `history.md`      069  
+   - upd: `chrono.md`       069  
+   - upd: `docs.md`         069  
+2. add: `docs/docs/ready`  
+   - add: `eolcode.md`      001  
+3. add: `ready`  
+   - add: `eolcode.bat`     001  
+4. add: `dev/eolcode`  
+   - add: `make.bat`        001  
+   - add: `test-[wsf].bat`  001  
+   - add: `test-[vbs].bat`  001  
+5. add: `dev/eolcode/sources`  
+   - add: `settings.vbs`    001  
+   - add: `scanner.vbs`     001  
+   - add: `eolcode.vbs`     001  
+   - add: `struct.txt`      001  
+6. upd: `project.root`      069  
+
+[#70-dev-eolcode]: tasks/2026-03-24-0070-dev-eolcode.md
+<div/>
+
+
 [![S]][H] **v0.6.9 (dev)**
 --------------------------------------------------------------------------------
 [![V]][VE069] [![2026-02-19 14:30]][VE069]  
