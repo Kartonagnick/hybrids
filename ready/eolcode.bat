@@ -7,7 +7,7 @@
 ::'exit /b
 
 '--- local/hybrids                                         [script][eolcode.bat]
-'[2026-03-26][19:20:00] 001 Kartonagnick PRE
+'[2026-03-26][19:20:00] 001 Kartonagnick    
 '===============================================================================
 '--------------------------------------------------------------[vbs/glob.vbs]---
 
@@ -1617,7 +1617,7 @@ end function
 '------------------------------------------------------[sources/settings.vbs]---
 
 '--- local/hybrids                                   [dev/eolcode][settings.vbs]
-'[2026-03-26][19:20:00] 001 Kartonagnick PRE
+'[2026-03-26][19:20:00] 001 Kartonagnick    
 
 class CSettings
 
@@ -1706,7 +1706,7 @@ end class
 '-------------------------------------------------------[sources/scanner.vbs]---
 
 '--- local/hybrids                                    [dev/eolcode][scanner.vbs]
-'[2026-03-26][19:20:00] 001 Kartonagnick PRE
+'[2026-03-26][19:20:00] 001 Kartonagnick    
 
 class CScanner
   private m_win       'Array: list of extension of typical Windows files
@@ -1822,7 +1822,7 @@ end class
 '-------------------------------------------------------[sources/eolcode.vbs]---
 
 '--- local/hybrids                                    [dev/eolcode][eolcode.vbs]
-'[2026-03-26][19:20:00] 001 Kartonagnick PRE
+'[2026-03-26][19:20:00] 001 Kartonagnick    
 
 '...............................................................................
 

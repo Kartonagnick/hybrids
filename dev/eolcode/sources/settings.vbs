@@ -1,6 +1,6 @@
 
 '--- local/hybrids                                   [dev/eolcode][settings.vbs]
-'[2026-03-26][19:20:00] 001 Kartonagnick PRE
+'[2026-03-26][19:20:00] 001 Kartonagnick    
 Option Explicit
 ' includeVBS("glob.vbs")
 ' includeVBS("echo.vbs")
